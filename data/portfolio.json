@@ -1,7 +1,7 @@
 {
   "session_date": "2026-07-02",
   "session_status": "Waiting · Market opens at 09:30",
-  "last_updated": "02:30:09",
+  "last_updated": "02:31:07",
   "analysis_time": "--",
   "sell_time": "15:20",
   "stop_loss_pct": 2,
@@ -10,7 +10,7 @@
   "candidate_scores": [],
   "activity_log": [
     {
-      "time": "02:21:36",
+      "time": "02:31:06",
       "action": "Flash Trading Agent v2 started",
       "amount": 0,
       "type": "separator",
@@ -18,136 +18,8 @@
       "date": "2026-07-02"
     },
     {
-      "time": "02:21:36",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:22:09",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:22:41",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:23:13",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:23:45",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:24:17",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:24:49",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:25:21",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:25:53",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:26:25",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:26:57",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:27:29",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:28:01",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:28:33",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:29:05",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:29:37",
-      "action": "Market not yet open",
-      "amount": 0,
-      "type": "waiting",
-      "symbol": "",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "02:30:09",
-      "action": "Market not yet open",
+      "time": "02:31:07",
+      "action": "Waiting · Market opens at 09:30",
       "amount": 0,
       "type": "waiting",
       "symbol": "",
