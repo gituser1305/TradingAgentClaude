@@ -1,8 +1,8 @@
 {
   "session_date": "2026-07-02",
   "session_status": "Analysing · Buying at 10:00",
-  "last_updated": "09:37:22",
-  "analysis_time": "09:37:22",
+  "last_updated": "09:38:12",
+  "analysis_time": "09:38:12",
   "sell_time": "15:20",
   "stop_loss_pct": 2,
   "confidence_drop": 20,
@@ -21,7 +21,7 @@
       "yf_symbol": "CGPOWER.NS",
       "score": 0.64,
       "score_int": 64,
-      "rsi": 60.2,
+      "rsi": 60.5,
       "ma_signal": "MA ↑↑",
       "reasons": {
         "rsi_healthy": true,
@@ -29,9 +29,9 @@
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 60.2,
+        "rsi": 60.5,
         "ma_signal": "MA ↑↑",
-        "momentum": 1.39,
+        "momentum": 1.47,
         "vol_ratio": 0.34
       },
       "peak_today": 0.64,
@@ -52,7 +52,7 @@
       "yf_symbol": "ITI.NS",
       "score": 0.63,
       "score_int": 63,
-      "rsi": 53.7,
+      "rsi": 53.9,
       "ma_signal": "MA ↑↑",
       "reasons": {
         "rsi_healthy": true,
@@ -60,9 +60,9 @@
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 53.7,
+        "rsi": 53.9,
         "ma_signal": "MA ↑↑",
-        "momentum": 0.1,
+        "momentum": 0.15,
         "vol_ratio": 0.11
       },
       "peak_today": 0.63,
@@ -83,7 +83,7 @@
       "yf_symbol": "HAL.NS",
       "score": 0.62,
       "score_int": 62,
-      "rsi": 65.5,
+      "rsi": 65.4,
       "ma_signal": "MA ↑↑",
       "reasons": {
         "rsi_healthy": false,
@@ -91,10 +91,10 @@
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 65.5,
+        "rsi": 65.4,
         "ma_signal": "MA ↑↑",
-        "momentum": 1.08,
-        "vol_ratio": 0.05
+        "momentum": 1.06,
+        "vol_ratio": 0.06
       },
       "peak_today": 0.62,
       "drop_from_peak": 0.0,
@@ -114,7 +114,7 @@
       "yf_symbol": "ADANIGREEN.NS",
       "score": 0.59,
       "score_int": 59,
-      "rsi": 58.2,
+      "rsi": 58.0,
       "ma_signal": "MA ↑↑",
       "reasons": {
         "rsi_healthy": true,
@@ -122,10 +122,10 @@
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 58.2,
+        "rsi": 58.0,
         "ma_signal": "MA ↑↑",
-        "momentum": 0.05,
-        "vol_ratio": 0.18
+        "momentum": 0.01,
+        "vol_ratio": 0.19
       },
       "peak_today": 0.59,
       "drop_from_peak": 0.0,
@@ -145,7 +145,7 @@
       "yf_symbol": "ENRIN.NS",
       "score": 0.58,
       "score_int": 57,
-      "rsi": 45.3,
+      "rsi": 45.2,
       "ma_signal": "MA ↑↑",
       "reasons": {
         "rsi_healthy": true,
@@ -153,10 +153,10 @@
         "above_ma200": true,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 45.3,
+        "rsi": 45.2,
         "ma_signal": "MA ↑↑",
-        "momentum": -4.49,
-        "vol_ratio": 0.23
+        "momentum": -4.5,
+        "vol_ratio": 0.24
       },
       "peak_today": 0.58,
       "drop_from_peak": 0.0,
@@ -176,7 +176,7 @@
       "yf_symbol": "BSE.NS",
       "score": 0.55,
       "score_int": 55,
-      "rsi": 41.6,
+      "rsi": 41.9,
       "ma_signal": "MA ↓",
       "reasons": {
         "rsi_healthy": true,
@@ -184,10 +184,10 @@
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 41.6,
+        "rsi": 41.9,
         "ma_signal": "MA ↓",
-        "momentum": 1.86,
-        "vol_ratio": 0.11
+        "momentum": 1.95,
+        "vol_ratio": 0.12
       },
       "peak_today": 0.55,
       "drop_from_peak": 0.0,
@@ -217,8 +217,8 @@
         "volume_above": false,
         "rsi": 61.1,
         "ma_signal": "MA ↑",
-        "momentum": -0.46,
-        "vol_ratio": 0.1
+        "momentum": -0.47,
+        "vol_ratio": 0.11
       },
       "peak_today": 0.55,
       "drop_from_peak": 0.0,
@@ -238,7 +238,7 @@
       "yf_symbol": "TATASTEEL.NS",
       "score": 0.51,
       "score_int": 51,
-      "rsi": 26.7,
+      "rsi": 27.1,
       "ma_signal": "MA ↓",
       "reasons": {
         "rsi_healthy": false,
@@ -246,9 +246,9 @@
         "above_ma200": false,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 26.7,
+        "rsi": 27.1,
         "ma_signal": "MA ↓",
-        "momentum": -1.25,
+        "momentum": -1.17,
         "vol_ratio": 0.08
       },
       "peak_today": 0.51,
@@ -290,7 +290,7 @@
       "yf_symbol": "TVSMOTOR.NS",
       "score": 0.5,
       "score_int": 50,
-      "rsi": 69.5,
+      "rsi": 69.3,
       "ma_signal": "MA ↑",
       "reasons": {
         "rsi_healthy": false,
@@ -298,10 +298,10 @@
         "above_ma200": false,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 69.5,
+        "rsi": 69.3,
         "ma_signal": "MA ↑",
-        "momentum": -0.05,
-        "vol_ratio": 0.36
+        "momentum": -0.18,
+        "vol_ratio": 0.37
       },
       "peak_today": 0.5,
       "drop_from_peak": 0.0,
@@ -342,7 +342,7 @@
       "yf_symbol": "ASHOKA.NS",
       "score": 0.5,
       "score_int": 50,
-      "rsi": 68.9,
+      "rsi": 69.0,
       "ma_signal": "MA ↑",
       "reasons": {
         "rsi_healthy": false,
@@ -350,9 +350,9 @@
         "above_ma200": false,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 68.9,
+        "rsi": 69.0,
         "ma_signal": "MA ↑",
-        "momentum": 1.37,
+        "momentum": 1.47,
         "vol_ratio": 0.03
       },
       "peak_today": 0.5,
@@ -394,7 +394,7 @@
       "yf_symbol": "BDL.NS",
       "score": 0.47,
       "score_int": 47,
-      "rsi": 76.8,
+      "rsi": 76.7,
       "ma_signal": "MA ↑",
       "reasons": {
         "rsi_healthy": false,
@@ -402,9 +402,9 @@
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 76.8,
+        "rsi": 76.7,
         "ma_signal": "MA ↑",
-        "momentum": 0.48,
+        "momentum": 0.44,
         "vol_ratio": 0.07
       },
       "peak_today": 0.47,
@@ -425,7 +425,7 @@
       "yf_symbol": "ABB.NS",
       "score": 0.46,
       "score_int": 46,
-      "rsi": 53.5,
+      "rsi": 53.6,
       "ma_signal": "MA ↓",
       "reasons": {
         "rsi_healthy": true,
@@ -433,12 +433,43 @@
         "above_ma200": true,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 53.5,
+        "rsi": 53.6,
         "ma_signal": "MA ↓",
-        "momentum": -1.97,
-        "vol_ratio": 0.21
+        "momentum": -1.94,
+        "vol_ratio": 0.22
       },
       "peak_today": 0.46,
+      "drop_from_peak": 0.0,
+      "trend": "Insufficient data",
+      "trend_slope": 0.0
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys Ltd",
+      "sector": "IT",
+      "industry": "IT Services",
+      "risk": "Low",
+      "priority": 2,
+      "max_alloc": 14.0,
+      "qty_held": 20.0,
+      "avg_buy": 1964.6,
+      "yf_symbol": "INFY.NS",
+      "score": 0.45,
+      "score_int": 45,
+      "rsi": 37.6,
+      "ma_signal": "MA ↓↓",
+      "reasons": {
+        "rsi_healthy": true,
+        "above_ma50": false,
+        "above_ma200": false,
+        "positive_mom": false,
+        "volume_above": false,
+        "rsi": 37.6,
+        "ma_signal": "MA ↓↓",
+        "momentum": -0.95,
+        "vol_ratio": 0.38
+      },
+      "peak_today": 0.45,
       "drop_from_peak": 0.0,
       "trend": "Insufficient data",
       "trend_slope": 0.0
@@ -456,7 +487,7 @@
       "yf_symbol": "BEL.NS",
       "score": 0.42,
       "score_int": 42,
-      "rsi": 55.0,
+      "rsi": 55.1,
       "ma_signal": "MA ↓↓",
       "reasons": {
         "rsi_healthy": true,
@@ -464,44 +495,13 @@
         "above_ma200": false,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 55.0,
+        "rsi": 55.1,
         "ma_signal": "MA ↓↓",
-        "momentum": 1.51,
+        "momentum": 1.53,
         "vol_ratio": 0.15
       },
       "peak_today": 0.46,
       "drop_from_peak": 4.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
-    },
-    {
-      "symbol": "INFY",
-      "name": "Infosys Ltd",
-      "sector": "IT",
-      "industry": "IT Services",
-      "risk": "Low",
-      "priority": 2,
-      "max_alloc": 14.0,
-      "qty_held": 20.0,
-      "avg_buy": 1964.6,
-      "yf_symbol": "INFY.NS",
-      "score": 0.42,
-      "score_int": 42,
-      "rsi": 37.4,
-      "ma_signal": "MA ↓↓",
-      "reasons": {
-        "rsi_healthy": true,
-        "above_ma50": false,
-        "above_ma200": false,
-        "positive_mom": false,
-        "volume_above": false,
-        "rsi": 37.4,
-        "ma_signal": "MA ↓↓",
-        "momentum": -1.03,
-        "vol_ratio": 0.37
-      },
-      "peak_today": 0.45,
-      "drop_from_peak": 3.0,
       "trend": "Insufficient data",
       "trend_slope": 0.0
     },
@@ -518,7 +518,7 @@
       "yf_symbol": "EICHERMOT.NS",
       "score": 0.39,
       "score_int": 39,
-      "rsi": 44.3,
+      "rsi": 44.2,
       "ma_signal": "MA ↓↓",
       "reasons": {
         "rsi_healthy": true,
@@ -526,9 +526,9 @@
         "above_ma200": false,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 44.3,
+        "rsi": 44.2,
         "ma_signal": "MA ↓↓",
-        "momentum": -5.68,
+        "momentum": -5.69,
         "vol_ratio": 0.19
       },
       "peak_today": 0.39,
@@ -559,7 +559,7 @@
         "volume_above": false,
         "rsi": 65.1,
         "ma_signal": "MA ↓↓",
-        "momentum": 0.64,
+        "momentum": 0.61,
         "vol_ratio": 0.11
       },
       "peak_today": 0.34,
@@ -580,7 +580,7 @@
       "yf_symbol": "KAYNES.NS",
       "score": 0.34,
       "score_int": 34,
-      "rsi": 55.5,
+      "rsi": 55.3,
       "ma_signal": "MA ↓↓",
       "reasons": {
         "rsi_healthy": true,
@@ -588,9 +588,9 @@
         "above_ma200": false,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 55.5,
+        "rsi": 55.3,
         "ma_signal": "MA ↓↓",
-        "momentum": -3.08,
+        "momentum": -3.15,
         "vol_ratio": 0.1
       },
       "peak_today": 0.34,
@@ -611,7 +611,7 @@
       "yf_symbol": "RVNL.NS",
       "score": 0.32,
       "score_int": 32,
-      "rsi": 57.4,
+      "rsi": 57.2,
       "ma_signal": "MA ↓↓",
       "reasons": {
         "rsi_healthy": true,
@@ -619,10 +619,10 @@
         "above_ma200": false,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 57.4,
+        "rsi": 57.2,
         "ma_signal": "MA ↓↓",
-        "momentum": -1.02,
-        "vol_ratio": 0.05
+        "momentum": -1.06,
+        "vol_ratio": 0.06
       },
       "peak_today": 0.35,
       "drop_from_peak": 3.0,
@@ -1142,6 +1142,38 @@
       "type": "score_change",
       "symbol": "RVNL",
       "date": "2026-07-02"
+    },
+    {
+      "time": "09:37:55",
+      "action": "EICHERMOT Score 35↑39",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "EICHERMOT",
+      "date": "2026-07-02"
+    },
+    {
+      "time": "09:38:04",
+      "action": "ITI Score 59↑63",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "ITI",
+      "date": "2026-07-02"
+    },
+    {
+      "time": "09:38:08",
+      "action": "INFY Score 42↑45",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "INFY",
+      "date": "2026-07-02"
+    },
+    {
+      "time": "09:38:10",
+      "action": "RVNL Score 35↓32",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "RVNL",
+      "date": "2026-07-02"
     }
   ],
   "market_pulse": {
@@ -1151,8 +1183,8 @@
     "weakest_sector": "FMCG",
     "breadth": "Negative",
     "bullish_count": 0,
-    "neutral_count": 15,
-    "bearish_count": 6,
+    "neutral_count": 16,
+    "bearish_count": 5,
     "high_conviction": 0,
     "below_threshold": 8,
     "total_analysed": 21
