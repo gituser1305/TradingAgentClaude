@@ -1,8 +1,8 @@
 {
   "session_date": "2026-07-02",
   "session_status": "Live",
-  "last_updated": "12:01:28",
-  "analysis_time": "12:01:28",
+  "last_updated": "12:02:25",
+  "analysis_time": "12:02:25",
   "sell_time": "15:20",
   "stop_loss_pct": 2,
   "confidence_drop": 20,
@@ -17,12 +17,12 @@
       "score_int": 64,
       "signal": "Neutral",
       "buy_price": 958.8,
-      "current_price": 966.2,
+      "current_price": 967.4,
       "qty": 67,
       "invested": 64239.6,
-      "current_value": 64735.4,
-      "pnl": 495.8,
-      "pnl_pct": 0.77,
+      "current_value": 64815.8,
+      "pnl": 576.2,
+      "pnl_pct": 0.9,
       "sold": false,
       "sell_reason": null,
       "reasons": {
@@ -31,10 +31,10 @@
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 63.8,
+        "rsi": 64.2,
         "ma_signal": "MA ↑↑",
-        "momentum": 2.56,
-        "vol_ratio": 0.77
+        "momentum": 2.69,
+        "vol_ratio": 0.79
       },
       "trend": "Insufficient data",
       "peak_score_today": 0.64
@@ -81,12 +81,12 @@
       "score_int": 60,
       "signal": "Neutral",
       "buy_price": 4439.0,
-      "current_price": 4435.4,
+      "current_price": 4435.8,
       "qty": 20,
       "invested": 88780.0,
-      "current_value": 88708.0,
-      "pnl": -72.0,
-      "pnl_pct": -0.08,
+      "current_value": 88716.0,
+      "pnl": -64.0,
+      "pnl_pct": -0.07,
       "sold": false,
       "sell_reason": null,
       "reasons": {
@@ -97,7 +97,7 @@
         "volume_above": false,
         "rsi": 67.1,
         "ma_signal": "MA ↑↑",
-        "momentum": 1.56,
+        "momentum": 1.53,
         "vol_ratio": 0.16
       },
       "trend": "Insufficient data",
@@ -113,12 +113,12 @@
       "score_int": 57,
       "signal": "Neutral",
       "buy_price": 3542.6,
-      "current_price": 3521.9,
+      "current_price": 3523.7,
       "qty": 18,
       "invested": 63766.8,
-      "current_value": 63394.2,
-      "pnl": -372.6,
-      "pnl_pct": -0.58,
+      "current_value": 63426.6,
+      "pnl": -340.2,
+      "pnl_pct": -0.53,
       "sold": false,
       "sell_reason": null,
       "reasons": {
@@ -127,10 +127,10 @@
         "above_ma200": true,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 45.3,
+        "rsi": 45.4,
         "ma_signal": "MA ↑↑",
-        "momentum": -4.45,
-        "vol_ratio": 0.63
+        "momentum": -4.4,
+        "vol_ratio": 0.65
       },
       "trend": "Insufficient data",
       "peak_score_today": 0.61
@@ -145,12 +145,12 @@
       "score_int": 64,
       "signal": "Neutral",
       "buy_price": 1521.2,
-      "current_price": 1551.7,
+      "current_price": 1551.0,
       "qty": 54,
       "invested": 82144.8,
-      "current_value": 83791.8,
-      "pnl": 1647.0,
-      "pnl_pct": 2.0,
+      "current_value": 83754.0,
+      "pnl": 1609.2,
+      "pnl_pct": 1.96,
       "sold": false,
       "sell_reason": null,
       "reasons": {
@@ -161,7 +161,7 @@
         "volume_above": false,
         "rsi": 62.6,
         "ma_signal": "MA ↑↑",
-        "momentum": 1.65,
+        "momentum": 1.63,
         "vol_ratio": 0.46
       },
       "trend": "Insufficient data",
@@ -177,12 +177,12 @@
       "score_int": 55,
       "signal": "Neutral",
       "buy_price": 3938.0,
-      "current_price": 3938.0,
+      "current_price": 3938.7,
       "qty": 18,
       "invested": 70884.0,
-      "current_value": 70884.0,
-      "pnl": 0.0,
-      "pnl_pct": 0.0,
+      "current_value": 70896.6,
+      "pnl": 12.6,
+      "pnl_pct": 0.02,
       "sold": false,
       "sell_reason": null,
       "reasons": {
@@ -191,9 +191,9 @@
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 41.1,
+        "rsi": 41.2,
         "ma_signal": "MA ↓",
-        "momentum": 1.7,
+        "momentum": 1.72,
         "vol_ratio": 0.28
       },
       "trend": "Insufficient data",
@@ -209,12 +209,12 @@
       "score_int": 54,
       "signal": "Neutral",
       "buy_price": 3119.0,
-      "current_price": 3129.6,
+      "current_price": 3129.4,
       "qty": 23,
       "invested": 71737.0,
-      "current_value": 71980.8,
-      "pnl": 243.8,
-      "pnl_pct": 0.34,
+      "current_value": 71976.2,
+      "pnl": 239.2,
+      "pnl_pct": 0.33,
       "sold": false,
       "sell_reason": null,
       "reasons": {
@@ -241,12 +241,12 @@
       "score_int": 53,
       "signal": "Neutral",
       "buy_price": 186.91,
-      "current_price": 185.77,
+      "current_price": 185.78,
       "qty": 44,
       "invested": 8224.04,
-      "current_value": 8173.88,
-      "pnl": -50.16,
-      "pnl_pct": -0.61,
+      "current_value": 8174.32,
+      "pnl": -49.72,
+      "pnl_pct": -0.6,
       "sold": false,
       "sell_reason": null,
       "reasons": {
@@ -257,7 +257,7 @@
         "volume_above": false,
         "rsi": 24.9,
         "ma_signal": "MA ↓",
-        "momentum": -1.56,
+        "momentum": -1.55,
         "vol_ratio": 0.33
       },
       "trend": "Insufficient data",
@@ -279,7 +279,7 @@
       "yf_symbol": "CGPOWER.NS",
       "score": 0.64,
       "score_int": 64,
-      "rsi": 63.7,
+      "rsi": 64.2,
       "ma_signal": "MA ↑↑",
       "reasons": {
         "rsi_healthy": true,
@@ -287,10 +287,10 @@
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 63.7,
+        "rsi": 64.2,
         "ma_signal": "MA ↑↑",
-        "momentum": 2.53,
-        "vol_ratio": 0.77
+        "momentum": 2.68,
+        "vol_ratio": 0.79
       },
       "peak_today": 0.64,
       "drop_from_peak": 0.0,
@@ -351,7 +351,7 @@
         "volume_above": false,
         "rsi": 62.7,
         "ma_signal": "MA ↑↑",
-        "momentum": 1.68,
+        "momentum": 1.7,
         "vol_ratio": 0.46
       },
       "peak_today": 0.64,
@@ -382,7 +382,7 @@
         "volume_above": false,
         "rsi": 67.1,
         "ma_signal": "MA ↑↑",
-        "momentum": 1.52,
+        "momentum": 1.53,
         "vol_ratio": 0.16
       },
       "peak_today": 0.62,
@@ -403,7 +403,7 @@
       "yf_symbol": "ENRIN.NS",
       "score": 0.58,
       "score_int": 57,
-      "rsi": 45.5,
+      "rsi": 45.3,
       "ma_signal": "MA ↑↑",
       "reasons": {
         "rsi_healthy": true,
@@ -411,9 +411,9 @@
         "above_ma200": true,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 45.5,
+        "rsi": 45.3,
         "ma_signal": "MA ↑↑",
-        "momentum": -4.39,
+        "momentum": -4.45,
         "vol_ratio": 0.63
       },
       "peak_today": 0.61,
@@ -434,7 +434,7 @@
       "yf_symbol": "BSE.NS",
       "score": 0.55,
       "score_int": 55,
-      "rsi": 41.1,
+      "rsi": 41.2,
       "ma_signal": "MA ↓",
       "reasons": {
         "rsi_healthy": true,
@@ -442,9 +442,9 @@
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 41.1,
+        "rsi": 41.2,
         "ma_signal": "MA ↓",
-        "momentum": 1.7,
+        "momentum": 1.74,
         "vol_ratio": 0.28
       },
       "peak_today": 0.55,
@@ -465,7 +465,7 @@
       "yf_symbol": "M&M.NS",
       "score": 0.55,
       "score_int": 55,
-      "rsi": 60.9,
+      "rsi": 60.8,
       "ma_signal": "MA ↑",
       "reasons": {
         "rsi_healthy": true,
@@ -473,9 +473,9 @@
         "above_ma200": false,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 60.9,
+        "rsi": 60.8,
         "ma_signal": "MA ↑",
-        "momentum": -0.58,
+        "momentum": -0.62,
         "vol_ratio": 0.31
       },
       "peak_today": 0.55,
@@ -496,7 +496,7 @@
       "yf_symbol": "TATASTEEL.NS",
       "score": 0.51,
       "score_int": 51,
-      "rsi": 24.9,
+      "rsi": 24.7,
       "ma_signal": "MA ↓",
       "reasons": {
         "rsi_healthy": false,
@@ -504,9 +504,9 @@
         "above_ma200": false,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 24.9,
+        "rsi": 24.7,
         "ma_signal": "MA ↓",
-        "momentum": -1.56,
+        "momentum": -1.58,
         "vol_ratio": 0.33
       },
       "peak_today": 0.56,
@@ -590,7 +590,7 @@
       "yf_symbol": "ASHOKA.NS",
       "score": 0.47,
       "score_int": 47,
-      "rsi": 68.1,
+      "rsi": 68.2,
       "ma_signal": "MA ↑",
       "reasons": {
         "rsi_healthy": false,
@@ -598,9 +598,9 @@
         "above_ma200": false,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 68.1,
+        "rsi": 68.2,
         "ma_signal": "MA ↑",
-        "momentum": 0.91,
+        "momentum": 0.92,
         "vol_ratio": 0.09
       },
       "peak_today": 0.5,
@@ -621,7 +621,7 @@
       "yf_symbol": "BDL.NS",
       "score": 0.47,
       "score_int": 47,
-      "rsi": 77.0,
+      "rsi": 77.3,
       "ma_signal": "MA ↑",
       "reasons": {
         "rsi_healthy": false,
@@ -629,9 +629,9 @@
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 77.0,
+        "rsi": 77.3,
         "ma_signal": "MA ↑",
-        "momentum": 0.56,
+        "momentum": 0.63,
         "vol_ratio": 0.18
       },
       "peak_today": 0.5,
@@ -652,7 +652,7 @@
       "yf_symbol": "ABB.NS",
       "score": 0.46,
       "score_int": 46,
-      "rsi": 53.6,
+      "rsi": 53.5,
       "ma_signal": "MA ↓",
       "reasons": {
         "rsi_healthy": true,
@@ -660,9 +660,9 @@
         "above_ma200": true,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 53.6,
+        "rsi": 53.5,
         "ma_signal": "MA ↓",
-        "momentum": -1.95,
+        "momentum": -1.97,
         "vol_ratio": 0.57
       },
       "peak_today": 0.46,
@@ -693,7 +693,7 @@
         "volume_above": false,
         "rsi": 54.9,
         "ma_signal": "MA ↓↓",
-        "momentum": 1.49,
+        "momentum": 1.5,
         "vol_ratio": 0.37
       },
       "peak_today": 0.46,
@@ -714,7 +714,7 @@
       "yf_symbol": "TVSMOTOR.NS",
       "score": 0.45,
       "score_int": 45,
-      "rsi": 70.3,
+      "rsi": 70.1,
       "ma_signal": "MA ↑",
       "reasons": {
         "rsi_healthy": false,
@@ -722,9 +722,9 @@
         "above_ma200": false,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 70.3,
+        "rsi": 70.1,
         "ma_signal": "MA ↑",
-        "momentum": 0.46,
+        "momentum": 0.34,
         "vol_ratio": 0.89
       },
       "peak_today": 0.5,
@@ -745,7 +745,7 @@
       "yf_symbol": "INFY.NS",
       "score": 0.45,
       "score_int": 45,
-      "rsi": 39.0,
+      "rsi": 38.9,
       "ma_signal": "MA ↓↓",
       "reasons": {
         "rsi_healthy": true,
@@ -753,9 +753,9 @@
         "above_ma200": false,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 39.0,
+        "rsi": 38.9,
         "ma_signal": "MA ↓↓",
-        "momentum": -0.16,
+        "momentum": -0.24,
         "vol_ratio": 0.8
       },
       "peak_today": 0.45,
@@ -787,7 +787,7 @@
         "rsi": 44.9,
         "ma_signal": "MA ↓↓",
         "momentum": -5.49,
-        "vol_ratio": 0.71
+        "vol_ratio": 0.72
       },
       "peak_today": 0.39,
       "drop_from_peak": 0.0,
@@ -869,7 +869,7 @@
       "yf_symbol": "RVNL.NS",
       "score": 0.32,
       "score_int": 32,
-      "rsi": 55.7,
+      "rsi": 55.6,
       "ma_signal": "MA ↓↓",
       "reasons": {
         "rsi_healthy": true,
@@ -877,9 +877,9 @@
         "above_ma200": false,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 55.7,
+        "rsi": 55.6,
         "ma_signal": "MA ↓↓",
-        "momentum": -1.52,
+        "momentum": -1.56,
         "vol_ratio": 0.16
       },
       "peak_today": 0.36,
@@ -889,78 +889,6 @@
     }
   ],
   "activity_log": [
-    {
-      "time": "11:35:34",
-      "action": "TVSMOTOR Score 50↓45",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "11:35:38",
-      "action": "ITI Score 59↑63",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ITI",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "11:35:39",
-      "action": "ASHOKA Score 50↓47",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "11:35:42",
-      "action": "INFY Score 42↑45",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "INFY",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "11:35:45",
-      "action": "KAYNES Score 34↑38",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "11:36:28",
-      "action": "EICHERMOT Score 35↑39",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "EICHERMOT",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "11:36:29",
-      "action": "ADANIGREEN Score 59↑62",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "11:36:31",
-      "action": "TVSMOTOR Score 50↓45",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-02"
-    },
-    {
-      "time": "11:36:36",
-      "action": "ITI Score 59↑63",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ITI",
-      "date": "2026-07-02"
-    },
     {
       "time": "11:36:36",
       "action": "ASHOKA Score 50↓47",
@@ -2483,6 +2411,78 @@
     },
     {
       "time": "12:01:18",
+      "action": "RVNL Score 35↓32",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "RVNL",
+      "date": "2026-07-02"
+    },
+    {
+      "time": "12:02:01",
+      "action": "EICHERMOT Score 35↑39",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "EICHERMOT",
+      "date": "2026-07-02"
+    },
+    {
+      "time": "12:02:02",
+      "action": "ADANIGREEN Score 59↑62",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "ADANIGREEN",
+      "date": "2026-07-02"
+    },
+    {
+      "time": "12:02:04",
+      "action": "TVSMOTOR Score 50↓45",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "TVSMOTOR",
+      "date": "2026-07-02"
+    },
+    {
+      "time": "12:02:05",
+      "action": "BEL Score 42↑46",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "BEL",
+      "date": "2026-07-02"
+    },
+    {
+      "time": "12:02:09",
+      "action": "ITI Score 59↑63",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "ITI",
+      "date": "2026-07-02"
+    },
+    {
+      "time": "12:02:09",
+      "action": "ASHOKA Score 50↓47",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "ASHOKA",
+      "date": "2026-07-02"
+    },
+    {
+      "time": "12:02:12",
+      "action": "BRITANNIA Score 34↑37",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "BRITANNIA",
+      "date": "2026-07-02"
+    },
+    {
+      "time": "12:02:13",
+      "action": "INFY Score 42↑45",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "INFY",
+      "date": "2026-07-02"
+    },
+    {
+      "time": "12:02:15",
       "action": "RVNL Score 35↓32",
       "amount": 0,
       "type": "score_change",
