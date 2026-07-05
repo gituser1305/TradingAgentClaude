@@ -1,0 +1,34 @@
+{
+  "session_date": "2026-07-06",
+  "session_status": "Waiting · Market opens at 09:30",
+  "last_updated": "00:41:34",
+  "analysis_time": "--",
+  "sell_time": "15:20",
+  "stop_loss_pct": 2,
+  "confidence_drop": 20,
+  "positions": [],
+  "candidate_scores": [],
+  "activity_log": [
+    {
+      "time": "00:41:34",
+      "action": "Flash Trading Agent v3 started",
+      "amount": 0,
+      "type": "separator",
+      "symbol": "",
+      "date": "2026-07-06"
+    },
+    {
+      "time": "00:41:34",
+      "action": "Waiting · Market not yet open",
+      "amount": 0,
+      "type": "waiting",
+      "symbol": "",
+      "date": "2026-07-06"
+    }
+  ],
+  "market_pulse": {},
+  "strategy_summary": {},
+  "nifty_status": "Unknown",
+  "free_cash": 500000,
+  "sell_rules_fired": []
+}
