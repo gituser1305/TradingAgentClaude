@@ -1,7 +1,7 @@
 {
   "session_date": "2026-07-06",
   "session_status": "Waiting · Market opens at 09:30",
-  "last_updated": "00:56:26",
+  "last_updated": "00:56:58",
   "analysis_time": "--",
   "sell_time": "15:20",
   "stop_loss_pct": 2,
@@ -243,6 +243,14 @@
     },
     {
       "time": "00:56:26",
+      "action": "Waiting · Market not yet open",
+      "amount": 0,
+      "type": "waiting",
+      "symbol": "",
+      "date": "2026-07-06"
+    },
+    {
+      "time": "00:56:58",
       "action": "Waiting · Market not yet open",
       "amount": 0,
       "type": "waiting",
