@@ -1,60 +1,28 @@
 {
-  "session_date": "2026-07-03",
+  "session_date": "2026-07-06",
   "session_status": "Live",
-  "last_updated": "14:12:25",
-  "analysis_time": "14:12:25",
+  "last_updated": "10:06:06",
+  "analysis_time": "10:06:06",
   "sell_time": "15:20",
   "stop_loss_pct": 2,
   "confidence_drop": 20,
   "positions": [
     {
-      "symbol": "CGPOWER",
-      "name": "CG Power & Industrial Solutions",
-      "sector": "Capital Goods",
-      "risk": "Medium",
-      "allocation_pct": 12.9,
-      "confidence_score": 0.66,
-      "score_int": 66,
-      "signal": "Bullish",
-      "buy_price": 916.5,
-      "current_price": 897.0,
-      "qty": 70,
-      "invested": 64155.0,
-      "current_value": 62790.0,
-      "pnl": -1365.0,
-      "pnl_pct": -2.13,
-      "sold": true,
-      "sell_reason": "Stop-loss -2.13%",
-      "reasons": {
-        "rsi_healthy": true,
-        "above_ma50": true,
-        "above_ma200": true,
-        "positive_mom": false,
-        "volume_above": true,
-        "rsi": 41.8,
-        "ma_signal": "MA ↑↑",
-        "momentum": -4.79,
-        "vol_ratio": 3.48
-      },
-      "trend": "Insufficient data",
-      "peak_score_today": 0.69
-    },
-    {
-      "symbol": "ITI",
-      "name": "ITI Ltd",
-      "sector": "Defence",
-      "risk": "High",
-      "allocation_pct": 10.0,
-      "confidence_score": 0.64,
-      "score_int": 64,
+      "symbol": "EICHERMOT",
+      "name": "Eicher Motors Ltd",
+      "sector": "Auto",
+      "risk": "Low",
+      "allocation_pct": 16.3,
+      "confidence_score": 0.62,
+      "score_int": 62,
       "signal": "Neutral",
-      "buy_price": 302.0,
-      "current_price": 299.5,
-      "qty": 165,
-      "invested": 49830.0,
-      "current_value": 49417.5,
-      "pnl": -412.5,
-      "pnl_pct": -0.83,
+      "buy_price": 7385.0,
+      "current_price": 7385.0,
+      "qty": 11,
+      "invested": 81235.0,
+      "current_value": 81235.0,
+      "pnl": 0.0,
+      "pnl_pct": 0.0,
       "sold": false,
       "sell_reason": null,
       "reasons": {
@@ -63,13 +31,13 @@
         "above_ma200": true,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 46.8,
-        "ma_signal": "MA ↑↑",
-        "momentum": -0.7,
-        "vol_ratio": 0.24
+        "rsi": 42.0,
+        "ma_signal": "MA ↑",
+        "momentum": -0.59,
+        "vol_ratio": 0.08
       },
-      "trend": "Insufficient data",
-      "peak_score_today": 0.64
+      "trend": "⬆ Strengthening",
+      "peak_score_today": 0.62
     },
     {
       "symbol": "ADANIGREEN",
@@ -77,16 +45,16 @@
       "sector": "Energy",
       "risk": "High",
       "allocation_pct": 14.0,
-      "confidence_score": 0.64,
-      "score_int": 64,
+      "confidence_score": 0.62,
+      "score_int": 62,
       "signal": "Neutral",
-      "buy_price": 1541.7,
-      "current_price": 1543.2,
-      "qty": 45,
-      "invested": 69376.5,
-      "current_value": 69444.0,
-      "pnl": 67.5,
-      "pnl_pct": 0.1,
+      "buy_price": 1562.3,
+      "current_price": 1562.3,
+      "qty": 44,
+      "invested": 68741.2,
+      "current_value": 68741.2,
+      "pnl": 0.0,
+      "pnl_pct": 0.0,
       "sold": false,
       "sell_reason": null,
       "reasons": {
@@ -95,44 +63,12 @@
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 61.1,
+        "rsi": 64.9,
         "ma_signal": "MA ↑↑",
-        "momentum": 1.12,
-        "vol_ratio": 0.66
+        "momentum": 3.98,
+        "vol_ratio": 0.2
       },
-      "trend": "Insufficient data",
-      "peak_score_today": 0.64
-    },
-    {
-      "symbol": "BEL",
-      "name": "Bharat Electronics Ltd",
-      "sector": "Defence",
-      "risk": "Low",
-      "allocation_pct": 16.7,
-      "confidence_score": 0.4,
-      "score_int": 40,
-      "signal": "Bearish",
-      "buy_price": 423.05,
-      "current_price": 419.15,
-      "qty": 197,
-      "invested": 83340.85,
-      "current_value": 82572.55,
-      "pnl": -768.3,
-      "pnl_pct": -0.92,
-      "sold": true,
-      "sell_reason": "Confidence drop 22pts from peak",
-      "reasons": {
-        "rsi_healthy": true,
-        "above_ma50": false,
-        "above_ma200": false,
-        "positive_mom": true,
-        "volume_above": false,
-        "rsi": 57.1,
-        "ma_signal": "MA ↓↓",
-        "momentum": 2.93,
-        "vol_ratio": 0.59
-      },
-      "trend": "Insufficient data",
+      "trend": "⬆ Strengthening",
       "peak_score_today": 0.62
     },
     {
@@ -140,17 +76,17 @@
       "name": "Hindustan Aeronautics Ltd",
       "sector": "Defence",
       "risk": "Low",
-      "allocation_pct": 16.7,
-      "confidence_score": 0.6,
-      "score_int": 60,
+      "allocation_pct": 16.3,
+      "confidence_score": 0.62,
+      "score_int": 62,
       "signal": "Neutral",
-      "buy_price": 4481.8,
-      "current_price": 4457.5,
+      "buy_price": 4470.4,
+      "current_price": 4470.4,
       "qty": 18,
-      "invested": 80672.4,
-      "current_value": 80235.0,
-      "pnl": -437.4,
-      "pnl_pct": -0.54,
+      "invested": 80467.2,
+      "current_value": 80467.2,
+      "pnl": 0.0,
+      "pnl_pct": 0.0,
       "sold": false,
       "sell_reason": null,
       "reasons": {
@@ -159,127 +95,126 @@
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 67.2,
+        "rsi": 65.9,
         "ma_signal": "MA ↑↑",
-        "momentum": 2.04,
-        "vol_ratio": 0.56
+        "momentum": 2.94,
+        "vol_ratio": 0.2
       },
-      "trend": "Insufficient data",
+      "trend": "→ Stable",
       "peak_score_today": 0.62
+    },
+    {
+      "symbol": "CGPOWER",
+      "name": "CG Power & Industrial Solutions",
+      "sector": "Capital Goods",
+      "risk": "Medium",
+      "allocation_pct": 13.0,
+      "confidence_score": 0.61,
+      "score_int": 61,
+      "signal": "Neutral",
+      "buy_price": 919.6,
+      "current_price": 919.6,
+      "qty": 70,
+      "invested": 64372.0,
+      "current_value": 64372.0,
+      "pnl": 0.0,
+      "pnl_pct": 0.0,
+      "sold": false,
+      "sell_reason": null,
+      "reasons": {
+        "rsi_healthy": true,
+        "above_ma50": true,
+        "above_ma200": true,
+        "positive_mom": false,
+        "volume_above": false,
+        "rsi": 46.1,
+        "ma_signal": "MA ↑↑",
+        "momentum": -3.76,
+        "vol_ratio": 0.64
+      },
+      "trend": "⬇ Weakening",
+      "peak_score_today": 0.61
+    },
+    {
+      "symbol": "BRITANNIA",
+      "name": "Britannia Industries Ltd",
+      "sector": "FMCG",
+      "risk": "Low",
+      "allocation_pct": 12.0,
+      "confidence_score": 0.61,
+      "score_int": 61,
+      "signal": "Neutral",
+      "buy_price": 5392.5,
+      "current_price": 5392.5,
+      "qty": 11,
+      "invested": 59317.5,
+      "current_value": 59317.5,
+      "pnl": 0.0,
+      "pnl_pct": 0.0,
+      "sold": false,
+      "sell_reason": null,
+      "reasons": {
+        "rsi_healthy": true,
+        "above_ma50": true,
+        "above_ma200": false,
+        "positive_mom": true,
+        "volume_above": false,
+        "rsi": 64.8,
+        "ma_signal": "MA ↑",
+        "momentum": 5.72,
+        "vol_ratio": 0.04
+      },
+      "trend": "⬆ Strengthening",
+      "peak_score_today": 0.61
+    },
+    {
+      "symbol": "BEL",
+      "name": "Bharat Electronics Ltd",
+      "sector": "Defence",
+      "risk": "Low",
+      "allocation_pct": 14.2,
+      "confidence_score": 0.58,
+      "score_int": 57,
+      "signal": "Neutral",
+      "buy_price": 425.6,
+      "current_price": 425.6,
+      "qty": 166,
+      "invested": 70649.6,
+      "current_value": 70649.6,
+      "pnl": 0.0,
+      "pnl_pct": 0.0,
+      "sold": false,
+      "sell_reason": null,
+      "reasons": {
+        "rsi_healthy": true,
+        "above_ma50": true,
+        "above_ma200": false,
+        "positive_mom": true,
+        "volume_above": false,
+        "rsi": 62.5,
+        "ma_signal": "MA ↑",
+        "momentum": 3.44,
+        "vol_ratio": 0.65
+      },
+      "trend": "⬆ Strengthening",
+      "peak_score_today": 0.58
     },
     {
       "symbol": "M&M",
       "name": "Mahindra & Mahindra Ltd",
       "sector": "Auto",
       "risk": "Low",
-      "allocation_pct": 15.1,
-      "confidence_score": 0.57,
-      "score_int": 56,
-      "signal": "Neutral",
-      "buy_price": 3141.5,
-      "current_price": 3146.0,
-      "qty": 24,
-      "invested": 75396.0,
-      "current_value": 75504.0,
-      "pnl": 108.0,
-      "pnl_pct": 0.14,
-      "sold": false,
-      "sell_reason": null,
-      "reasons": {
-        "rsi_healthy": true,
-        "above_ma50": true,
-        "above_ma200": false,
-        "positive_mom": false,
-        "volume_above": false,
-        "rsi": 54.2,
-        "ma_signal": "MA ↑",
-        "momentum": -0.08,
-        "vol_ratio": 0.56
-      },
-      "trend": "Insufficient data",
-      "peak_score_today": 0.59
-    },
-    {
-      "symbol": "EICHERMOT",
-      "name": "Eicher Motors Ltd",
-      "sector": "Auto",
-      "risk": "Low",
-      "allocation_pct": 14.6,
+      "allocation_pct": 14.2,
       "confidence_score": 0.58,
       "score_int": 57,
       "signal": "Neutral",
-      "buy_price": 7295.5,
-      "current_price": 7300.5,
-      "qty": 10,
-      "invested": 72955.0,
-      "current_value": 73005.0,
-      "pnl": 50.0,
-      "pnl_pct": 0.07,
-      "sold": false,
-      "sell_reason": null,
-      "reasons": {
-        "rsi_healthy": true,
-        "above_ma50": true,
-        "above_ma200": true,
-        "positive_mom": false,
-        "volume_above": false,
-        "rsi": 35.2,
-        "ma_signal": "MA ↑",
-        "momentum": -3.92,
-        "vol_ratio": 0.33
-      },
-      "trend": "Insufficient data",
-      "peak_score_today": 0.58
-    },
-    {
-      "symbol": "TVSMOTOR",
-      "name": "TVS Motor Company Ltd",
-      "sector": "Auto",
-      "risk": "Low",
-      "allocation_pct": 12.3,
-      "confidence_score": 0.53,
-      "score_int": 53,
-      "signal": "Neutral",
-      "buy_price": 3625.3,
-      "current_price": 3637.3,
-      "qty": 17,
-      "invested": 61630.1,
-      "current_value": 61834.1,
-      "pnl": 204.0,
-      "pnl_pct": 0.33,
-      "sold": false,
-      "sell_reason": null,
-      "reasons": {
-        "rsi_healthy": false,
-        "above_ma50": true,
-        "above_ma200": true,
-        "positive_mom": true,
-        "volume_above": false,
-        "rsi": 65.4,
-        "ma_signal": "MA ↑",
-        "momentum": 1.89,
-        "vol_ratio": 0.47
-      },
-      "trend": "Insufficient data",
-      "peak_score_today": 0.57,
-      "reinvestment": true
-    },
-    {
-      "symbol": "ASHOKA",
-      "name": "Ashoka Buildcon Ltd",
-      "sector": "Infrastructure",
-      "risk": "High",
-      "allocation_pct": 1.0,
-      "confidence_score": 0.6,
-      "score_int": 60,
-      "signal": "Neutral",
-      "buy_price": 132.42,
-      "current_price": 132.4,
-      "qty": 38,
-      "invested": 5031.96,
-      "current_value": 5031.2,
-      "pnl": -0.76,
-      "pnl_pct": -0.02,
+      "buy_price": 3154.1,
+      "current_price": 3154.1,
+      "qty": 22,
+      "invested": 69390.2,
+      "current_value": 69390.2,
+      "pnl": 0.0,
+      "pnl_pct": 0.0,
       "sold": false,
       "sell_reason": null,
       "reasons": {
@@ -288,111 +223,46 @@
         "above_ma200": false,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 49.7,
+        "rsi": 55.1,
         "ma_signal": "MA ↑",
-        "momentum": 1.05,
-        "vol_ratio": 0.12
+        "momentum": 3.1,
+        "vol_ratio": 0.18
       },
-      "trend": "Insufficient data",
-      "peak_score_today": 0.6,
-      "reinvestment": true
-    },
-    {
-      "symbol": "CGPOWER",
-      "name": "CG Power & Industrial Solutions",
-      "sector": "Capital Goods",
-      "risk": "Medium",
-      "allocation_pct": 15.6,
-      "confidence_score": 0.66,
-      "score_int": 66,
-      "signal": "Bullish",
-      "buy_price": 899.25,
-      "current_price": 892.25,
-      "qty": 87,
-      "invested": 78234.75,
-      "current_value": 77625.75,
-      "pnl": -609.0,
-      "pnl_pct": -0.78,
-      "sold": false,
-      "sell_reason": null,
-      "reasons": {
-        "rsi_healthy": true,
-        "above_ma50": true,
-        "above_ma200": true,
-        "positive_mom": false,
-        "volume_above": true,
-        "rsi": 41.0,
-        "ma_signal": "MA ↑↑",
-        "momentum": -5.29,
-        "vol_ratio": 4.61
-      },
-      "trend": "Insufficient data",
-      "peak_score_today": 0.69,
-      "reinvestment": true
+      "trend": "⬆ Strengthening",
+      "peak_score_today": 0.58
     }
   ],
   "candidate_scores": [
     {
-      "symbol": "CGPOWER",
-      "name": "CG Power & Industrial Solutions",
-      "sector": "Capital Goods",
-      "industry": "Power Equipment",
-      "risk": "Medium",
+      "symbol": "EICHERMOT",
+      "name": "Eicher Motors Ltd",
+      "sector": "Auto",
+      "industry": "2-Wheeler OEM",
+      "risk": "Low",
       "priority": 2,
-      "max_alloc": 13.0,
-      "qty_held": 30.0,
-      "avg_buy": 747.52,
-      "yf_symbol": "CGPOWER.NS",
-      "score": 0.66,
-      "score_int": 66,
-      "rsi": 41.0,
-      "ma_signal": "MA ↑↑",
-      "reasons": {
-        "rsi_healthy": true,
-        "above_ma50": true,
-        "above_ma200": true,
-        "positive_mom": false,
-        "volume_above": true,
-        "rsi": 41.0,
-        "ma_signal": "MA ↑↑",
-        "momentum": -5.3,
-        "vol_ratio": 4.61
-      },
-      "peak_today": 0.69,
-      "drop_from_peak": 3.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
-    },
-    {
-      "symbol": "ITI",
-      "name": "ITI Ltd",
-      "sector": "Defence",
-      "industry": "Telecom & Defence PSU",
-      "risk": "High",
-      "priority": 3,
-      "max_alloc": 10.0,
-      "qty_held": 90.0,
-      "avg_buy": 360.36,
-      "yf_symbol": "ITI.NS",
-      "score": 0.63,
-      "score_int": 63,
-      "rsi": 46.8,
-      "ma_signal": "MA ↑↑",
+      "max_alloc": 16.0,
+      "qty_held": 21.0,
+      "avg_buy": 5521.3,
+      "yf_symbol": "EICHERMOT.NS",
+      "score": 0.62,
+      "score_int": 62,
+      "rsi": 42.0,
+      "ma_signal": "MA ↑",
       "reasons": {
         "rsi_healthy": true,
         "above_ma50": true,
         "above_ma200": true,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 46.8,
-        "ma_signal": "MA ↑↑",
-        "momentum": -0.7,
-        "vol_ratio": 0.24
+        "rsi": 42.0,
+        "ma_signal": "MA ↑",
+        "momentum": -0.59,
+        "vol_ratio": 0.08
       },
-      "peak_today": 0.64,
-      "drop_from_peak": 1.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
+      "peak_today": 0.62,
+      "drop_from_peak": 0.0,
+      "trend": "⬆ Strengthening",
+      "trend_slope": 0.135
     },
     {
       "symbol": "ADANIGREEN",
@@ -407,7 +277,7 @@
       "yf_symbol": "ADANIGREEN.NS",
       "score": 0.62,
       "score_int": 62,
-      "rsi": 60.9,
+      "rsi": 64.9,
       "ma_signal": "MA ↑↑",
       "reasons": {
         "rsi_healthy": true,
@@ -415,15 +285,15 @@
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 60.9,
+        "rsi": 64.9,
         "ma_signal": "MA ↑↑",
-        "momentum": 1.04,
-        "vol_ratio": 0.66
+        "momentum": 3.98,
+        "vol_ratio": 0.2
       },
-      "peak_today": 0.64,
-      "drop_from_peak": 2.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
+      "peak_today": 0.62,
+      "drop_from_peak": 0.0,
+      "trend": "⬆ Strengthening",
+      "trend_slope": 0.015
     },
     {
       "symbol": "HAL",
@@ -438,7 +308,7 @@
       "yf_symbol": "HAL.NS",
       "score": 0.62,
       "score_int": 62,
-      "rsi": 67.2,
+      "rsi": 65.9,
       "ma_signal": "MA ↑↑",
       "reasons": {
         "rsi_healthy": false,
@@ -446,15 +316,108 @@
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 67.2,
+        "rsi": 65.9,
         "ma_signal": "MA ↑↑",
-        "momentum": 2.04,
-        "vol_ratio": 0.56
+        "momentum": 2.94,
+        "vol_ratio": 0.2
       },
       "peak_today": 0.62,
       "drop_from_peak": 0.0,
-      "trend": "Insufficient data",
+      "trend": "→ Stable",
       "trend_slope": 0.0
+    },
+    {
+      "symbol": "CGPOWER",
+      "name": "CG Power & Industrial Solutions",
+      "sector": "Capital Goods",
+      "industry": "Power Equipment",
+      "risk": "Medium",
+      "priority": 2,
+      "max_alloc": 13.0,
+      "qty_held": 30.0,
+      "avg_buy": 747.52,
+      "yf_symbol": "CGPOWER.NS",
+      "score": 0.61,
+      "score_int": 61,
+      "rsi": 46.1,
+      "ma_signal": "MA ↑↑",
+      "reasons": {
+        "rsi_healthy": true,
+        "above_ma50": true,
+        "above_ma200": true,
+        "positive_mom": false,
+        "volume_above": false,
+        "rsi": 46.1,
+        "ma_signal": "MA ↑↑",
+        "momentum": -3.76,
+        "vol_ratio": 0.64
+      },
+      "peak_today": 0.61,
+      "drop_from_peak": 0.0,
+      "trend": "⬇ Weakening",
+      "trend_slope": -0.015
+    },
+    {
+      "symbol": "BRITANNIA",
+      "name": "Britannia Industries Ltd",
+      "sector": "FMCG",
+      "industry": "Packaged Foods",
+      "risk": "Low",
+      "priority": 2,
+      "max_alloc": 12.0,
+      "qty_held": 10.0,
+      "avg_buy": 6233.25,
+      "yf_symbol": "BRITANNIA.NS",
+      "score": 0.61,
+      "score_int": 61,
+      "rsi": 64.8,
+      "ma_signal": "MA ↑",
+      "reasons": {
+        "rsi_healthy": true,
+        "above_ma50": true,
+        "above_ma200": false,
+        "positive_mom": true,
+        "volume_above": false,
+        "rsi": 64.8,
+        "ma_signal": "MA ↑",
+        "momentum": 5.72,
+        "vol_ratio": 0.04
+      },
+      "peak_today": 0.61,
+      "drop_from_peak": 0.0,
+      "trend": "⬆ Strengthening",
+      "trend_slope": 0.135
+    },
+    {
+      "symbol": "BEL",
+      "name": "Bharat Electronics Ltd",
+      "sector": "Defence",
+      "industry": "Defence Electronics",
+      "risk": "Low",
+      "priority": 1,
+      "max_alloc": 18.0,
+      "qty_held": 100.0,
+      "avg_buy": 357.21,
+      "yf_symbol": "BEL.NS",
+      "score": 0.58,
+      "score_int": 57,
+      "rsi": 62.5,
+      "ma_signal": "MA ↑",
+      "reasons": {
+        "rsi_healthy": true,
+        "above_ma50": true,
+        "above_ma200": false,
+        "positive_mom": true,
+        "volume_above": false,
+        "rsi": 62.5,
+        "ma_signal": "MA ↑",
+        "momentum": 3.44,
+        "vol_ratio": 0.65
+      },
+      "peak_today": 0.58,
+      "drop_from_peak": 0.0,
+      "trend": "⬆ Strengthening",
+      "trend_slope": 0.08
     },
     {
       "symbol": "M&M",
@@ -467,56 +430,56 @@
       "qty_held": 20.0,
       "avg_buy": 3499.3,
       "yf_symbol": "M&M.NS",
-      "score": 0.59,
-      "score_int": 59,
-      "rsi": 54.2,
+      "score": 0.58,
+      "score_int": 57,
+      "rsi": 55.1,
       "ma_signal": "MA ↑",
       "reasons": {
         "rsi_healthy": true,
         "above_ma50": true,
         "above_ma200": false,
-        "positive_mom": false,
+        "positive_mom": true,
         "volume_above": false,
-        "rsi": 54.2,
+        "rsi": 55.1,
         "ma_signal": "MA ↑",
-        "momentum": -0.08,
-        "vol_ratio": 0.56
+        "momentum": 3.1,
+        "vol_ratio": 0.18
       },
-      "peak_today": 0.59,
+      "peak_today": 0.58,
       "drop_from_peak": 0.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
+      "trend": "⬆ Strengthening",
+      "trend_slope": 0.015
     },
     {
-      "symbol": "EICHERMOT",
-      "name": "Eicher Motors Ltd",
+      "symbol": "TMCV",
+      "name": "Tata Motors Ltd (CV)",
       "sector": "Auto",
-      "industry": "2-Wheeler OEM",
-      "risk": "Low",
-      "priority": 2,
-      "max_alloc": 16.0,
-      "qty_held": 21.0,
-      "avg_buy": 5521.3,
-      "yf_symbol": "EICHERMOT.NS",
-      "score": 0.58,
-      "score_int": 57,
-      "rsi": 35.1,
+      "industry": "Commercial Vehicles",
+      "risk": "Medium",
+      "priority": 3,
+      "max_alloc": 12.0,
+      "qty_held": 152.0,
+      "avg_buy": 296.78,
+      "yf_symbol": "TMCV.NS",
+      "score": 0.55,
+      "score_int": 55,
+      "rsi": 64.3,
       "ma_signal": "MA ↑",
       "reasons": {
         "rsi_healthy": true,
         "above_ma50": true,
         "above_ma200": true,
-        "positive_mom": false,
+        "positive_mom": true,
         "volume_above": false,
-        "rsi": 35.1,
+        "rsi": 64.3,
         "ma_signal": "MA ↑",
-        "momentum": -3.92,
-        "vol_ratio": 0.33
+        "momentum": 2.67,
+        "vol_ratio": 0.12
       },
-      "peak_today": 0.58,
+      "peak_today": 0.55,
       "drop_from_peak": 0.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
+      "trend": "⬆ Strengthening",
+      "trend_slope": 0.04
     },
     {
       "symbol": "ASHOKA",
@@ -531,23 +494,85 @@
       "yf_symbol": "ASHOKA.NS",
       "score": 0.54,
       "score_int": 54,
-      "rsi": 49.4,
+      "rsi": 46.6,
       "ma_signal": "MA ↑",
       "reasons": {
         "rsi_healthy": true,
         "above_ma50": true,
         "above_ma200": false,
+        "positive_mom": false,
+        "volume_above": false,
+        "rsi": 46.6,
+        "ma_signal": "MA ↑",
+        "momentum": -0.54,
+        "vol_ratio": 0.06
+      },
+      "peak_today": 0.54,
+      "drop_from_peak": 0.0,
+      "trend": "⬆ Strengthening",
+      "trend_slope": 0.02
+    },
+    {
+      "symbol": "BDL",
+      "name": "Bharat Dynamics Ltd",
+      "sector": "Defence",
+      "industry": "Missiles & Ammunition",
+      "risk": "Low",
+      "priority": 1,
+      "max_alloc": 15.0,
+      "qty_held": 20.0,
+      "avg_buy": 1693.5,
+      "yf_symbol": "BDL.NS",
+      "score": 0.54,
+      "score_int": 54,
+      "rsi": 77.3,
+      "ma_signal": "MA ↑",
+      "reasons": {
+        "rsi_healthy": false,
+        "above_ma50": true,
+        "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 49.4,
+        "rsi": 77.3,
         "ma_signal": "MA ↑",
-        "momentum": 0.97,
-        "vol_ratio": 0.12
+        "momentum": 5.54,
+        "vol_ratio": 0.78
       },
-      "peak_today": 0.6,
-      "drop_from_peak": 6.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
+      "peak_today": 0.54,
+      "drop_from_peak": 0.0,
+      "trend": "⬆ Strengthening",
+      "trend_slope": 0.035
+    },
+    {
+      "symbol": "TMPV",
+      "name": "Tata Motors Passenger Vehicles",
+      "sector": "Auto",
+      "industry": "Passenger Vehicles",
+      "risk": "Medium",
+      "priority": 3,
+      "max_alloc": 12.0,
+      "qty_held": 170.0,
+      "avg_buy": 481.06,
+      "yf_symbol": "TMPV.NS",
+      "score": 0.54,
+      "score_int": 54,
+      "rsi": 20.9,
+      "ma_signal": "MA ↓",
+      "reasons": {
+        "rsi_healthy": false,
+        "above_ma50": false,
+        "above_ma200": false,
+        "positive_mom": false,
+        "volume_above": false,
+        "rsi": 20.9,
+        "ma_signal": "MA ↓",
+        "momentum": -0.22,
+        "vol_ratio": 0.11
+      },
+      "peak_today": 0.54,
+      "drop_from_peak": 0.0,
+      "trend": "⬆ Strengthening",
+      "trend_slope": 0.015
     },
     {
       "symbol": "BSE",
@@ -562,7 +587,7 @@
       "yf_symbol": "BSE.NS",
       "score": 0.53,
       "score_int": 53,
-      "rsi": 24.6,
+      "rsi": 17.9,
       "ma_signal": "MA ↓",
       "reasons": {
         "rsi_healthy": false,
@@ -570,15 +595,15 @@
         "above_ma200": true,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 24.6,
+        "rsi": 17.9,
         "ma_signal": "MA ↓",
-        "momentum": -1.69,
-        "vol_ratio": 0.77
+        "momentum": -3.11,
+        "vol_ratio": 0.39
       },
-      "peak_today": 0.56,
-      "drop_from_peak": 3.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
+      "peak_today": 0.53,
+      "drop_from_peak": 0.0,
+      "trend": "⬇ Slowly Weakening",
+      "trend_slope": -0.01
     },
     {
       "symbol": "TVSMOTOR",
@@ -591,118 +616,25 @@
       "qty_held": 20.0,
       "avg_buy": 2762.3,
       "yf_symbol": "TVSMOTOR.NS",
-      "score": 0.53,
-      "score_int": 53,
-      "rsi": 65.3,
-      "ma_signal": "MA ↑",
-      "reasons": {
-        "rsi_healthy": false,
-        "above_ma50": true,
-        "above_ma200": true,
-        "positive_mom": true,
-        "volume_above": false,
-        "rsi": 65.3,
-        "ma_signal": "MA ↑",
-        "momentum": 1.85,
-        "vol_ratio": 0.47
-      },
-      "peak_today": 0.57,
-      "drop_from_peak": 4.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
-    },
-    {
-      "symbol": "BRITANNIA",
-      "name": "Britannia Industries Ltd",
-      "sector": "FMCG",
-      "industry": "Packaged Foods",
-      "risk": "Low",
-      "priority": 2,
-      "max_alloc": 12.0,
-      "qty_held": 10.0,
-      "avg_buy": 6233.25,
-      "yf_symbol": "BRITANNIA.NS",
-      "score": 0.53,
-      "score_int": 53,
-      "rsi": 65.6,
-      "ma_signal": "MA ↑",
-      "reasons": {
-        "rsi_healthy": false,
-        "above_ma50": true,
-        "above_ma200": false,
-        "positive_mom": true,
-        "volume_above": false,
-        "rsi": 65.6,
-        "ma_signal": "MA ↑",
-        "momentum": 2.92,
-        "vol_ratio": 0.54
-      },
-      "peak_today": 0.53,
-      "drop_from_peak": 0.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
-    },
-    {
-      "symbol": "TMCV",
-      "name": "Tata Motors Ltd (CV)",
-      "sector": "Auto",
-      "industry": "Commercial Vehicles",
-      "risk": "Medium",
-      "priority": 3,
-      "max_alloc": 12.0,
-      "qty_held": 152.0,
-      "avg_buy": 296.78,
-      "yf_symbol": "TMCV.NS",
       "score": 0.52,
       "score_int": 52,
-      "rsi": 63.1,
+      "rsi": 70.0,
       "ma_signal": "MA ↑",
       "reasons": {
-        "rsi_healthy": true,
+        "rsi_healthy": false,
         "above_ma50": true,
         "above_ma200": true,
-        "positive_mom": false,
+        "positive_mom": true,
         "volume_above": false,
-        "rsi": 63.1,
+        "rsi": 70.0,
         "ma_signal": "MA ↑",
-        "momentum": -0.08,
-        "vol_ratio": 0.37
+        "momentum": 6.13,
+        "vol_ratio": 0.07
       },
       "peak_today": 0.52,
       "drop_from_peak": 0.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
-    },
-    {
-      "symbol": "BDL",
-      "name": "Bharat Dynamics Ltd",
-      "sector": "Defence",
-      "industry": "Missiles & Ammunition",
-      "risk": "Low",
-      "priority": 1,
-      "max_alloc": 15.0,
-      "qty_held": 20.0,
-      "avg_buy": 1693.5,
-      "yf_symbol": "BDL.NS",
-      "score": 0.52,
-      "score_int": 52,
-      "rsi": 78.0,
-      "ma_signal": "MA ↑",
-      "reasons": {
-        "rsi_healthy": false,
-        "above_ma50": true,
-        "above_ma200": true,
-        "positive_mom": true,
-        "volume_above": true,
-        "rsi": 78.0,
-        "ma_signal": "MA ↑",
-        "momentum": 1.75,
-        "vol_ratio": 1.43
-      },
-      "peak_today": 0.54,
-      "drop_from_peak": 2.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
+      "trend": "⬆ Strengthening",
+      "trend_slope": 0.01
     },
     {
       "symbol": "TATASTEEL",
@@ -717,7 +649,7 @@
       "yf_symbol": "TATASTEEL.NS",
       "score": 0.51,
       "score_int": 51,
-      "rsi": 37.7,
+      "rsi": 41.2,
       "ma_signal": "MA ↓",
       "reasons": {
         "rsi_healthy": true,
@@ -725,46 +657,46 @@
         "above_ma200": false,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 37.7,
+        "rsi": 41.2,
         "ma_signal": "MA ↓",
-        "momentum": 0.88,
-        "vol_ratio": 0.76
-      },
-      "peak_today": 0.54,
-      "drop_from_peak": 3.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
-    },
-    {
-      "symbol": "TMPV",
-      "name": "Tata Motors Passenger Vehicles",
-      "sector": "Auto",
-      "industry": "Passenger Vehicles",
-      "risk": "Medium",
-      "priority": 3,
-      "max_alloc": 12.0,
-      "qty_held": 170.0,
-      "avg_buy": 481.06,
-      "yf_symbol": "TMPV.NS",
-      "score": 0.51,
-      "score_int": 51,
-      "rsi": 19.8,
-      "ma_signal": "MA ↓",
-      "reasons": {
-        "rsi_healthy": false,
-        "above_ma50": false,
-        "above_ma200": false,
-        "positive_mom": false,
-        "volume_above": false,
-        "rsi": 19.8,
-        "ma_signal": "MA ↓",
-        "momentum": -2.83,
-        "vol_ratio": 0.76
+        "momentum": 0.83,
+        "vol_ratio": 0.14
       },
       "peak_today": 0.51,
       "drop_from_peak": 0.0,
-      "trend": "Insufficient data",
+      "trend": "→ Stable",
       "trend_slope": 0.0
+    },
+    {
+      "symbol": "ITI",
+      "name": "ITI Ltd",
+      "sector": "Defence",
+      "industry": "Telecom & Defence PSU",
+      "risk": "High",
+      "priority": 3,
+      "max_alloc": 10.0,
+      "qty_held": 90.0,
+      "avg_buy": 360.36,
+      "yf_symbol": "ITI.NS",
+      "score": 0.51,
+      "score_int": 51,
+      "rsi": 41.4,
+      "ma_signal": "MA ↓",
+      "reasons": {
+        "rsi_healthy": true,
+        "above_ma50": false,
+        "above_ma200": true,
+        "positive_mom": true,
+        "volume_above": false,
+        "rsi": 41.4,
+        "ma_signal": "MA ↓",
+        "momentum": 0.29,
+        "vol_ratio": 0.23
+      },
+      "peak_today": 0.51,
+      "drop_from_peak": 0.0,
+      "trend": "⬇ Weakening",
+      "trend_slope": -0.04
     },
     {
       "symbol": "ABB",
@@ -777,9 +709,9 @@
       "qty_held": 20.0,
       "avg_buy": 5757.0,
       "yf_symbol": "ABB.NS",
-      "score": 0.5,
-      "score_int": 50,
-      "rsi": 50.1,
+      "score": 0.46,
+      "score_int": 46,
+      "rsi": 46.2,
       "ma_signal": "MA ↓",
       "reasons": {
         "rsi_healthy": true,
@@ -787,14 +719,14 @@
         "above_ma200": true,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 50.1,
+        "rsi": 46.2,
         "ma_signal": "MA ↓",
-        "momentum": -0.99,
-        "vol_ratio": 0.87
+        "momentum": -2.63,
+        "vol_ratio": 0.13
       },
-      "peak_today": 0.51,
-      "drop_from_peak": 1.0,
-      "trend": "Insufficient data",
+      "peak_today": 0.46,
+      "drop_from_peak": 0.0,
+      "trend": "→ Stable",
       "trend_slope": 0.0
     },
     {
@@ -808,25 +740,25 @@
       "qty_held": 20.0,
       "avg_buy": 3560.0,
       "yf_symbol": "ENRIN.NS",
-      "score": 0.5,
-      "score_int": 50,
-      "rsi": 38.0,
+      "score": 0.46,
+      "score_int": 46,
+      "rsi": 41.1,
       "ma_signal": "MA ↓",
       "reasons": {
         "rsi_healthy": true,
         "above_ma50": false,
         "above_ma200": true,
         "positive_mom": false,
-        "volume_above": true,
-        "rsi": 38.0,
+        "volume_above": false,
+        "rsi": 41.1,
         "ma_signal": "MA ↓",
-        "momentum": -10.74,
-        "vol_ratio": 3.15
+        "momentum": -5.05,
+        "vol_ratio": 0.6
       },
-      "peak_today": 0.5,
+      "peak_today": 0.46,
       "drop_from_peak": 0.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
+      "trend": "⬇ Weakening",
+      "trend_slope": -0.06
     },
     {
       "symbol": "INFY",
@@ -841,23 +773,23 @@
       "yf_symbol": "INFY.NS",
       "score": 0.45,
       "score_int": 45,
-      "rsi": 37.1,
+      "rsi": 34.3,
       "ma_signal": "MA ↓↓",
       "reasons": {
         "rsi_healthy": true,
         "above_ma50": false,
         "above_ma200": false,
-        "positive_mom": true,
+        "positive_mom": false,
         "volume_above": false,
-        "rsi": 37.1,
+        "rsi": 34.3,
         "ma_signal": "MA ↓↓",
-        "momentum": 0.58,
-        "vol_ratio": 0.73
+        "momentum": -0.07,
+        "vol_ratio": 0.12
       },
-      "peak_today": 0.48,
-      "drop_from_peak": 3.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
+      "peak_today": 0.45,
+      "drop_from_peak": 0.0,
+      "trend": "⬆ Strengthening",
+      "trend_slope": 0.015
     },
     {
       "symbol": "KAYNES",
@@ -872,38 +804,7 @@
       "yf_symbol": "KAYNES.NS",
       "score": 0.44,
       "score_int": 44,
-      "rsi": 63.0,
-      "ma_signal": "MA ↓↓",
-      "reasons": {
-        "rsi_healthy": true,
-        "above_ma50": false,
-        "above_ma200": false,
-        "positive_mom": true,
-        "volume_above": true,
-        "rsi": 63.0,
-        "ma_signal": "MA ↓↓",
-        "momentum": 2.09,
-        "vol_ratio": 1.98
-      },
-      "peak_today": 0.44,
-      "drop_from_peak": 0.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
-    },
-    {
-      "symbol": "BEL",
-      "name": "Bharat Electronics Ltd",
-      "sector": "Defence",
-      "industry": "Defence Electronics",
-      "risk": "Low",
-      "priority": 1,
-      "max_alloc": 18.0,
-      "qty_held": 100.0,
-      "avg_buy": 357.21,
-      "yf_symbol": "BEL.NS",
-      "score": 0.42,
-      "score_int": 42,
-      "rsi": 56.8,
+      "rsi": 59.7,
       "ma_signal": "MA ↓↓",
       "reasons": {
         "rsi_healthy": true,
@@ -911,15 +812,15 @@
         "above_ma200": false,
         "positive_mom": true,
         "volume_above": false,
-        "rsi": 56.8,
+        "rsi": 59.7,
         "ma_signal": "MA ↓↓",
-        "momentum": 2.84,
-        "vol_ratio": 0.79
+        "momentum": 6.29,
+        "vol_ratio": 0.37
       },
-      "peak_today": 0.62,
-      "drop_from_peak": 20.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
+      "peak_today": 0.44,
+      "drop_from_peak": 0.0,
+      "trend": "⬆ Strengthening",
+      "trend_slope": 0.05
     },
     {
       "symbol": "RVNL",
@@ -934,7 +835,7 @@
       "yf_symbol": "RVNL.NS",
       "score": 0.4,
       "score_int": 40,
-      "rsi": 43.6,
+      "rsi": 37.9,
       "ma_signal": "MA ↓↓",
       "reasons": {
         "rsi_healthy": true,
@@ -942,1617 +843,225 @@
         "above_ma200": false,
         "positive_mom": false,
         "volume_above": false,
-        "rsi": 43.6,
+        "rsi": 37.9,
         "ma_signal": "MA ↓↓",
-        "momentum": -2.02,
-        "vol_ratio": 0.24
+        "momentum": -1.51,
+        "vol_ratio": 0.15
       },
       "peak_today": 0.4,
       "drop_from_peak": 0.0,
-      "trend": "Insufficient data",
-      "trend_slope": 0.0
+      "trend": "⬆ Strengthening",
+      "trend_slope": 0.025
     }
   ],
   "activity_log": [
     {
-      "time": "13:54:14",
-      "action": "TVSMOTOR Score 56↓53",
+      "time": "10:05:43",
+      "action": "Flash Trading Agent v2 started",
       "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
+      "type": "separator",
+      "symbol": "",
+      "date": "2026-07-06"
     },
     {
-      "time": "13:54:15",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:54:17",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:54:18",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:54:19",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:54:23",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:54:23",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:55:05",
+      "time": "10:05:47",
       "action": "BSE Score 56↓53",
       "amount": 0,
       "type": "score_change",
       "symbol": "BSE",
-      "date": "2026-07-03"
+      "date": "2026-07-06"
     },
     {
-      "time": "13:55:06",
-      "action": "EICHERMOT Score 57↓55",
+      "time": "10:05:48",
+      "action": "EICHERMOT Score 57↑62",
       "amount": 0,
       "type": "score_change",
       "symbol": "EICHERMOT",
-      "date": "2026-07-03"
+      "date": "2026-07-06"
     },
     {
-      "time": "13:55:07",
+      "time": "10:05:48",
       "action": "ADANIGREEN Score 59↑62",
       "amount": 0,
       "type": "score_change",
       "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
+      "date": "2026-07-06"
     },
     {
-      "time": "13:55:08",
-      "action": "TVSMOTOR Score 56↓53",
+      "time": "10:05:50",
+      "action": "TMCV Score 51↑55",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "TMCV",
+      "date": "2026-07-06"
+    },
+    {
+      "time": "10:05:50",
+      "action": "TVSMOTOR Score 56↓52",
       "amount": 0,
       "type": "score_change",
       "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
+      "date": "2026-07-06"
     },
     {
-      "time": "13:55:10",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:55:11",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:55:12",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:55:14",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:55:17",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:55:17",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:56:02",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:56:02",
-      "action": "EICHERMOT Score 57↓55",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "EICHERMOT",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:56:03",
-      "action": "ADANIGREEN Score 59↑62",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:56:05",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:56:06",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:56:08",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:56:09",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:56:10",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:56:14",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:56:14",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:56:56",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:56:57",
-      "action": "EICHERMOT Score 57↓55",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "EICHERMOT",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:56:57",
-      "action": "ADANIGREEN Score 59↑62",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:56:59",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:57:01",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:57:02",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:57:04",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:57:07",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:57:14",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:57:15",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:58:09",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:58:10",
-      "action": "EICHERMOT Score 57↓55",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "EICHERMOT",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:58:10",
-      "action": "ADANIGREEN Score 59↑62",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:58:12",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:58:13",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:58:16",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:58:17",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:58:19",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:58:22",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:58:22",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:59:05",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:59:06",
-      "action": "EICHERMOT Score 57↓55",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "EICHERMOT",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:59:06",
-      "action": "ADANIGREEN Score 59↑62",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:59:08",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:59:09",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:59:11",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:59:12",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:59:13",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:59:16",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:59:17",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "13:59:59",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:00:00",
-      "action": "EICHERMOT Score 57↓55",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "EICHERMOT",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:00:03",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:00:04",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:00:06",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:00:07",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:00:08",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:00:12",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:00:12",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:00:16",
-      "action": "ADANIGREEN Confidence 64↓61",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:00:55",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:00:55",
-      "action": "EICHERMOT Score 57↓55",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "EICHERMOT",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:00:58",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:01:00",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:01:01",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:01:02",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:01:03",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:01:07",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:01:07",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:01:49",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:01:49",
-      "action": "EICHERMOT Score 57↓55",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "EICHERMOT",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:01:50",
-      "action": "ADANIGREEN Score 59↑62",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:01:52",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:01:53",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:01:55",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:01:56",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:01:57",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:02:00",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:02:01",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:02:04",
-      "action": "ADANIGREEN Confidence 61↑64",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:02:43",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:02:44",
-      "action": "ADANIGREEN Score 59↑62",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:02:46",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:02:47",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:02:49",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:02:50",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:02:51",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:02:54",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:02:55",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:03:36",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:03:38",
-      "action": "ADANIGREEN Score 59↑62",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:03:40",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:03:41",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:03:42",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:03:43",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:03:45",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:03:48",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:03:49",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:03:52",
-      "action": "ADANIGREEN Confidence 64↓61",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:04:32",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:04:35",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:04:36",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:04:38",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:04:39",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:04:40",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:04:43",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:04:44",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:05:26",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:05:29",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:05:30",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:05:31",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:05:33",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:05:34",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:05:37",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:05:38",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:05:41",
-      "action": "ADANIGREEN Confidence 61↑64",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:06:19",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:06:21",
-      "action": "ADANIGREEN Score 59↑62",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:06:23",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:06:24",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:06:26",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:06:28",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:06:29",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:06:33",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:06:34",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:07:17",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:07:20",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:07:21",
-      "action": "CGPOWER Score 65↓50",
+      "time": "10:05:51",
+      "action": "CGPOWER Score 65↓61",
       "amount": 0,
       "type": "score_change",
       "symbol": "CGPOWER",
-      "date": "2026-07-03"
+      "date": "2026-07-06"
     },
     {
-      "time": "14:07:22",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:07:23",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:07:24",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:07:26",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:07:29",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:07:29",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:07:38",
-      "action": "CGPOWER Confidence 66↓50 Signal Bullish→Neutral",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "CGPOWER",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:08:12",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:08:13",
-      "action": "ADANIGREEN Score 59↑62",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:08:15",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:08:16",
-      "action": "CGPOWER Score 65↓50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "CGPOWER",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:08:16",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:08:17",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:08:20",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:08:23",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:08:24",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:08:27",
-      "action": "ADANIGREEN Confidence 64↓61",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:09:05",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:09:08",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:09:09",
-      "action": "CGPOWER Score 65↓50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "CGPOWER",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:09:10",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:09:11",
+      "time": "10:05:53",
       "action": "TATASTEEL Score 54↓51",
       "amount": 0,
       "type": "score_change",
       "symbol": "TATASTEEL",
-      "date": "2026-07-03"
+      "date": "2026-07-06"
     },
     {
-      "time": "14:09:11",
-      "action": "ENRIN Score 48↑50",
+      "time": "10:05:53",
+      "action": "ENRIN Score 48↓46",
       "amount": 0,
       "type": "score_change",
       "symbol": "ENRIN",
-      "date": "2026-07-03"
+      "date": "2026-07-06"
     },
     {
-      "time": "14:09:13",
+      "time": "10:05:54",
+      "action": "ITI Score 63↓51",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "ITI",
+      "date": "2026-07-06"
+    },
+    {
+      "time": "10:05:54",
       "action": "ASHOKA Score 56↓54",
       "amount": 0,
       "type": "score_change",
       "symbol": "ASHOKA",
-      "date": "2026-07-03"
+      "date": "2026-07-06"
     },
     {
-      "time": "14:09:14",
-      "action": "BDL Score 50↑52",
+      "time": "10:05:56",
+      "action": "BDL Score 50↑54",
       "amount": 0,
       "type": "score_change",
       "symbol": "BDL",
-      "date": "2026-07-03"
+      "date": "2026-07-06"
     },
     {
-      "time": "14:09:18",
+      "time": "10:05:57",
+      "action": "BRITANNIA Score 53↑61",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "BRITANNIA",
+      "date": "2026-07-06"
+    },
+    {
+      "time": "10:05:58",
+      "action": "TMPV Score 51↑54",
+      "amount": 0,
+      "type": "score_change",
+      "symbol": "TMPV",
+      "date": "2026-07-06"
+    },
+    {
+      "time": "10:05:59",
       "action": "RVNL Score 36↑40",
       "amount": 0,
       "type": "score_change",
       "symbol": "RVNL",
-      "date": "2026-07-03"
+      "date": "2026-07-06"
     },
     {
-      "time": "14:09:18",
+      "time": "10:06:00",
       "action": "KAYNES Score 37↑44",
       "amount": 0,
       "type": "score_change",
       "symbol": "KAYNES",
-      "date": "2026-07-03"
+      "date": "2026-07-06"
     },
     {
-      "time": "14:09:27",
-      "action": "ASHOKA Confidence 56↑60",
+      "time": "10:06:01",
+      "action": "Ranking Finalized",
       "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
+      "type": "separator",
+      "symbol": "",
+      "date": "2026-07-06"
     },
     {
-      "time": "14:10:01",
-      "action": "BSE Score 56↓53",
+      "time": "10:06:01",
+      "action": "Market analysis complete — initiating buys",
       "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
+      "type": "separator",
+      "symbol": "",
+      "date": "2026-07-06"
     },
     {
-      "time": "14:10:02",
-      "action": "ADANIGREEN Score 59↑62",
-      "amount": 0,
-      "type": "score_change",
+      "time": "10:06:02",
+      "action": "Bought EICHERMOT · 11 qty @ ₹7385.0 · 16.3% · score 62%",
+      "amount": 81235.0,
+      "type": "buy",
+      "symbol": "EICHERMOT",
+      "date": "2026-07-06"
+    },
+    {
+      "time": "10:06:03",
+      "action": "Bought ADANIGREEN · 44 qty @ ₹1562.3 · 14.0% · score 62%",
+      "amount": 68741.2,
+      "type": "buy",
       "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
+      "date": "2026-07-06"
     },
     {
-      "time": "14:10:06",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
+      "time": "10:06:03",
+      "action": "Bought HAL · 18 qty @ ₹4470.4 · 16.3% · score 62%",
+      "amount": 80467.2,
+      "type": "buy",
+      "symbol": "HAL",
+      "date": "2026-07-06"
     },
     {
-      "time": "14:10:08",
-      "action": "CGPOWER Score 65↓50",
-      "amount": 0,
-      "type": "score_change",
+      "time": "10:06:04",
+      "action": "Bought CGPOWER · 70 qty @ ₹919.6 · 13.0% · score 61%",
+      "amount": 64372.0,
+      "type": "buy",
       "symbol": "CGPOWER",
-      "date": "2026-07-03"
+      "date": "2026-07-06"
     },
     {
-      "time": "14:10:09",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
+      "time": "10:06:05",
+      "action": "Bought BRITANNIA · 11 qty @ ₹5392.5 · 12.0% · score 61%",
+      "amount": 59317.5,
+      "type": "buy",
+      "symbol": "BRITANNIA",
+      "date": "2026-07-06"
+    },
+    {
+      "time": "10:06:05",
+      "action": "Bought BEL · 166 qty @ ₹425.6 · 14.2% · score 57%",
+      "amount": 70649.6,
+      "type": "buy",
       "symbol": "BEL",
-      "date": "2026-07-03"
+      "date": "2026-07-06"
     },
     {
-      "time": "14:10:10",
-      "action": "TATASTEEL Score 54↓51",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TATASTEEL",
-      "date": "2026-07-03"
+      "time": "10:06:06",
+      "action": "Bought M&M · 22 qty @ ₹3154.1 · 14.2% · score 57%",
+      "amount": 69390.2,
+      "type": "buy",
+      "symbol": "M&M",
+      "date": "2026-07-06"
     },
     {
-      "time": "14:10:12",
-      "action": "ENRIN Score 48↑50",
+      "time": "10:06:06",
+      "action": "Portfolio deployed · 7 stocks · ₹494,173 · Free cash ₹5,827",
       "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:10:14",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:10:17",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:10:23",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:10:24",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:10:31",
-      "action": "ASHOKA Confidence 60↓56",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:11:06",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:11:07",
-      "action": "ADANIGREEN Score 59↑62",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:11:09",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:11:10",
-      "action": "CGPOWER Score 65↓50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "CGPOWER",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:11:11",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:11:12",
-      "action": "TATASTEEL Score 54↓51",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TATASTEEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:11:13",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:11:14",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:11:16",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:11:20",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:11:20",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:11:25",
-      "action": "ADANIGREEN Confidence 61↑64",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:11:30",
-      "action": "ASHOKA Confidence 56↑60",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:12:04",
-      "action": "BSE Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BSE",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:12:05",
-      "action": "ADANIGREEN Score 59↑62",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ADANIGREEN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:12:06",
-      "action": "ABB Score 46↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ABB",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:12:07",
-      "action": "TVSMOTOR Score 56↓53",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TVSMOTOR",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:12:09",
-      "action": "BEL Score 57↓42",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:12:09",
-      "action": "TATASTEEL Score 54↓51",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "TATASTEEL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:12:10",
-      "action": "ENRIN Score 48↑50",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ENRIN",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:12:11",
-      "action": "ASHOKA Score 56↓54",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "ASHOKA",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:12:12",
-      "action": "BDL Score 50↑52",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "BDL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:12:16",
-      "action": "RVNL Score 36↑40",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "RVNL",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:12:16",
-      "action": "KAYNES Score 37↑44",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "KAYNES",
-      "date": "2026-07-03"
-    },
-    {
-      "time": "14:12:25",
-      "action": "CGPOWER Confidence 50↑66 Signal Neutral→Bullish",
-      "amount": 0,
-      "type": "score_change",
-      "symbol": "CGPOWER",
-      "date": "2026-07-03"
+      "type": "info",
+      "symbol": "",
+      "date": "2026-07-06"
     }
   ],
   "market_pulse": {
@@ -2561,11 +1070,11 @@
     "strongest_sector": "Energy",
     "weakest_sector": "Electronics",
     "breadth": "Negative",
-    "bullish_count": 1,
-    "neutral_count": 16,
-    "bearish_count": 3,
+    "bullish_count": 0,
+    "neutral_count": 18,
+    "bearish_count": 2,
     "high_conviction": 0,
-    "below_threshold": 4,
+    "below_threshold": 5,
     "total_analysed": 20
   },
   "strategy_summary": {
@@ -2574,7 +1083,7 @@
     "excluded": 0,
     "capital_used_pct": 100.0,
     "cash_reserved_pct": 0.0,
-    "avg_confidence": 61.6
+    "avg_confidence": 60.6
   },
-  "free_cash": 4739.99
+  "free_cash": 5827.3
 }
