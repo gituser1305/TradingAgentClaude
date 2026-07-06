@@ -1,7 +1,7 @@
 {
   "session_date": "2026-07-07",
-  "session_status": "Analysed · Checking Nifty before buying…",
-  "last_updated": "00:36:44",
+  "session_status": "No trades · No qualifying stocks",
+  "last_updated": "00:37:18",
   "analysis_time": "00:36:44",
   "sell_time": "15:20",
   "stop_loss_pct": 2,
@@ -47,9 +47,7 @@
         "vol_ratio": 1.59
       },
       "last_price": NaN,
-      "analysed_at": "00:36:29",
-      "trend": "⬇ Weakening",
-      "trend_slope": -0.06
+      "analysed_at": "00:36:41"
     },
     {
       "symbol": "BDL",
@@ -90,9 +88,7 @@
         "vol_ratio": 1.45
       },
       "last_price": NaN,
-      "analysed_at": "00:36:34",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.035
+      "analysed_at": "00:36:45"
     },
     {
       "symbol": "CGPOWER",
@@ -133,9 +129,7 @@
         "vol_ratio": 1.67
       },
       "last_price": NaN,
-      "analysed_at": "00:36:26",
-      "trend": "⬇ Weakening",
-      "trend_slope": -0.015
+      "analysed_at": "00:36:37"
     },
     {
       "symbol": "KAYNES",
@@ -176,9 +170,7 @@
         "vol_ratio": 1.14
       },
       "last_price": NaN,
-      "analysed_at": "00:36:40",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.05
+      "analysed_at": "00:36:52"
     },
     {
       "symbol": "HAL",
@@ -219,9 +211,7 @@
         "vol_ratio": 0.58
       },
       "last_price": NaN,
-      "analysed_at": "00:36:35",
-      "trend": "→ Stable",
-      "trend_slope": 0.0
+      "analysed_at": "00:36:46"
     },
     {
       "symbol": "BRITANNIA",
@@ -262,52 +252,7 @@
         "vol_ratio": 0.66
       },
       "last_price": NaN,
-      "analysed_at": "00:36:36",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.135
-    },
-    {
-      "symbol": "INFY",
-      "name": "Infosys Ltd",
-      "sector": "IT",
-      "industry": "IT Services",
-      "risk": "Low",
-      "priority": 2,
-      "max_alloc": 14.0,
-      "qty_held": 20.0,
-      "avg_buy": 0.0,
-      "yf_symbol": "INFY.NS",
-      "tech_score": 0.298,
-      "ml_probability": 0.55,
-      "final_score": 0.399,
-      "score": 0.399,
-      "score_int": 39,
-      "excluded": true,
-      "exclude_reason": "Score below threshold (0.40 < 0.5)",
-      "ml_metrics": {
-        "precision": 0.462,
-        "recall": 0.659,
-        "sample_size": 1188,
-        "reliable": false,
-        "reliability": "Weak",
-        "note": "Trained on 891 days, tested on 297 days"
-      },
-      "reasons": {
-        "rsi": NaN,
-        "rsi_healthy": false,
-        "above_ma20": false,
-        "above_ma50": false,
-        "above_ma200": false,
-        "positive_mom": false,
-        "volume_above": false,
-        "ma_signal": "MA down",
-        "momentum_5d": NaN,
-        "vol_ratio": 0.41
-      },
-      "last_price": NaN,
-      "analysed_at": "00:36:37",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.015
+      "analysed_at": "00:36:48"
     },
     {
       "symbol": "EICHERMOT",
@@ -348,9 +293,48 @@
         "vol_ratio": 0.46
       },
       "last_price": NaN,
-      "analysed_at": "00:36:20",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.135
+      "analysed_at": "00:36:32"
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys Ltd",
+      "sector": "IT",
+      "industry": "IT Services",
+      "risk": "Low",
+      "priority": 2,
+      "max_alloc": 14.0,
+      "qty_held": 20.0,
+      "avg_buy": 0.0,
+      "yf_symbol": "INFY.NS",
+      "tech_score": 0.298,
+      "ml_probability": 0.549,
+      "final_score": 0.398,
+      "score": 0.398,
+      "score_int": 39,
+      "excluded": true,
+      "exclude_reason": "ML probability too low (0.55 < 0.55)",
+      "ml_metrics": {
+        "precision": 0.462,
+        "recall": 0.659,
+        "sample_size": 1188,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 891 days, tested on 297 days"
+      },
+      "reasons": {
+        "rsi": NaN,
+        "rsi_healthy": false,
+        "above_ma20": false,
+        "above_ma50": false,
+        "above_ma200": false,
+        "positive_mom": false,
+        "volume_above": false,
+        "ma_signal": "MA down",
+        "momentum_5d": NaN,
+        "vol_ratio": 0.41
+      },
+      "last_price": NaN,
+      "analysed_at": "00:36:49"
     },
     {
       "symbol": "M&M",
@@ -391,9 +375,7 @@
         "vol_ratio": 0.88
       },
       "last_price": NaN,
-      "analysed_at": "00:36:33",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.015
+      "analysed_at": "00:36:44"
     },
     {
       "symbol": "ABB",
@@ -434,9 +416,7 @@
         "vol_ratio": 0.84
       },
       "last_price": NaN,
-      "analysed_at": "00:36:22",
-      "trend": "→ Stable",
-      "trend_slope": 0.0
+      "analysed_at": "00:36:34"
     },
     {
       "symbol": "BEL",
@@ -477,9 +457,7 @@
         "vol_ratio": 1.28
       },
       "last_price": NaN,
-      "analysed_at": "00:36:27",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.08
+      "analysed_at": "00:36:38"
     },
     {
       "symbol": "TATASTEEL",
@@ -520,9 +498,7 @@
         "vol_ratio": 0.48
       },
       "last_price": NaN,
-      "analysed_at": "00:36:28",
-      "trend": "→ Stable",
-      "trend_slope": 0.0
+      "analysed_at": "00:36:40"
     },
     {
       "symbol": "BSE",
@@ -563,9 +539,7 @@
         "vol_ratio": 1.18
       },
       "last_price": NaN,
-      "analysed_at": "00:36:19",
-      "trend": "⬇ Slowly Weakening",
-      "trend_slope": -0.01
+      "analysed_at": "00:36:31"
     },
     {
       "symbol": "ADANIGREEN",
@@ -606,9 +580,7 @@
         "vol_ratio": 0.99
       },
       "last_price": NaN,
-      "analysed_at": "00:36:21",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.015
+      "analysed_at": "00:36:33"
     },
     {
       "symbol": "TVSMOTOR",
@@ -649,9 +621,7 @@
         "vol_ratio": 0.6
       },
       "last_price": NaN,
-      "analysed_at": "00:36:25",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.01
+      "analysed_at": "00:36:36"
     },
     {
       "symbol": "TMPV",
@@ -672,8 +642,8 @@
       "excluded": true,
       "exclude_reason": "ML probability too low (0.47 < 0.55)",
       "ml_metrics": {
-        "precision": 0.51,
-        "recall": 0.529,
+        "precision": 0.514,
+        "recall": 0.536,
         "sample_size": 1188,
         "reliable": false,
         "reliability": "Weak",
@@ -692,9 +662,7 @@
         "vol_ratio": 0.38
       },
       "last_price": NaN,
-      "analysed_at": "00:36:38",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.015
+      "analysed_at": "00:36:50"
     },
     {
       "symbol": "ITI",
@@ -735,9 +703,7 @@
         "vol_ratio": 0.5
       },
       "last_price": NaN,
-      "analysed_at": "00:36:30",
-      "trend": "⬇ Weakening",
-      "trend_slope": -0.04
+      "analysed_at": "00:36:42"
     },
     {
       "symbol": "TMCV",
@@ -778,9 +744,7 @@
         "vol_ratio": 0.44
       },
       "last_price": NaN,
-      "analysed_at": "00:36:23",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.04
+      "analysed_at": "00:36:35"
     },
     {
       "symbol": "RVNL",
@@ -821,9 +785,7 @@
         "vol_ratio": 0.42
       },
       "last_price": NaN,
-      "analysed_at": "00:36:39",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.025
+      "analysed_at": "00:36:51"
     },
     {
       "symbol": "ASHOKA",
@@ -864,9 +826,7 @@
         "vol_ratio": 0.17
       },
       "last_price": NaN,
-      "analysed_at": "00:36:31",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.02
+      "analysed_at": "00:36:43"
     }
   ],
   "activity_log": [
@@ -893,6 +853,14 @@
       "type": "info",
       "symbol": "",
       "date": "2026-07-07"
+    },
+    {
+      "time": "00:37:18",
+      "action": "No qualifying stocks from ML analysis — no trades today",
+      "amount": 0,
+      "type": "warning",
+      "symbol": "",
+      "date": "2026-07-07"
     }
   ],
   "market_pulse": {
@@ -909,8 +877,23 @@
     "weakest_sector": "Infrastructure",
     "breadth": "Negative"
   },
-  "strategy_summary": {},
-  "nifty_status": "Unknown",
+  "strategy_summary": {
+    "analysed": 20,
+    "selected": 0,
+    "excluded": 20,
+    "capital_used_pct": 0,
+    "cash_reserved_pct": 100,
+    "avg_confidence": 0,
+    "story_lines": [
+      "20 stocks analysed (full mode)",
+      "0 cleared score threshold (>= 0.5)",
+      "0 cleared ML threshold (prob >= 0.55)",
+      "No stocks selected — check ML threshold or data availability",
+      "Excluded (Score below threshold): ENRIN, BRITANNIA",
+      "Excluded (ML probability too low): BDL, CGPOWER, KAYNES, HAL, EICHERMOT, INFY, M&M, ABB, BEL, TATASTEEL, BSE, ADANIGREEN, TVSMOTOR, TMPV, ITI, TMCV, RVNL, ASHOKA"
+    ]
+  },
+  "nifty_status": "Flat (+0.00% from open)",
   "free_cash": 500000,
   "sell_rules_fired": []
 }
