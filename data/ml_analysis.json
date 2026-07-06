@@ -1,13 +1,54 @@
 {
-  "analysed_at": "2026-07-07 00:36:53",
+  "analysed_at": "2026-07-07 01:30:53",
   "mode": "full",
-  "total_analysed": 20,
+  "total_analysed": 21,
   "buy_candidates": 0,
-  "excluded_count": 20,
+  "excluded_count": 21,
   "error_count": 0,
   "top_picks": [],
   "candidate_scores": [
     {
+      "symbol": "526775",
+      "name": "Valiant Communications Ltd",
+      "sector": "Telecom",
+      "industry": "Telecom Equipment",
+      "risk": "High",
+      "priority": 4,
+      "max_alloc": 8.0,
+      "qty_held": 20.0,
+      "avg_buy": 1084.28,
+      "yf_symbol": "526775.BO",
+      "tech_score": 0.532,
+      "ml_probability": 0.541,
+      "final_score": 0.536,
+      "score": 0.536,
+      "score_int": 53,
+      "excluded": true,
+      "exclude_reason": "ML probability too low (0.54 < 0.55)",
+      "ml_metrics": {
+        "precision": 0.536,
+        "recall": 0.438,
+        "sample_size": 1186,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 889 days, tested on 297 days"
+      },
+      "reasons": {
+        "rsi": 32.0,
+        "rsi_healthy": true,
+        "above_ma20": false,
+        "above_ma50": false,
+        "above_ma200": true,
+        "positive_mom": true,
+        "volume_above": false,
+        "ma_signal": "MA down",
+        "momentum_5d": 2.93,
+        "vol_ratio": 0.74
+      },
+      "last_price": 1080.45,
+      "analysed_at": "01:30:41"
+    },
+    {
       "symbol": "ENRIN",
       "name": "Siemens Energy India Ltd",
       "sector": "Capital Goods",
@@ -16,7 +57,7 @@
       "priority": 2,
       "max_alloc": 13.0,
       "qty_held": 20.0,
-      "avg_buy": 0.0,
+      "avg_buy": 3560.0,
       "yf_symbol": "ENRIN.NS",
       "tech_score": 0.333,
       "ml_probability": 0.586,
@@ -46,7 +87,7 @@
         "vol_ratio": 1.59
       },
       "last_price": NaN,
-      "analysed_at": "00:36:41"
+      "analysed_at": "01:30:40"
     },
     {
       "symbol": "BDL",
@@ -57,7 +98,7 @@
       "priority": 1,
       "max_alloc": 15.0,
       "qty_held": 20.0,
-      "avg_buy": 0.0,
+      "avg_buy": 1693.5,
       "yf_symbol": "BDL.NS",
       "tech_score": 0.338,
       "ml_probability": 0.545,
@@ -87,7 +128,7 @@
         "vol_ratio": 1.45
       },
       "last_price": NaN,
-      "analysed_at": "00:36:45"
+      "analysed_at": "01:30:46"
     },
     {
       "symbol": "CGPOWER",
@@ -98,7 +139,7 @@
       "priority": 2,
       "max_alloc": 13.0,
       "qty_held": 30.0,
-      "avg_buy": 0.0,
+      "avg_buy": 747.52,
       "yf_symbol": "CGPOWER.NS",
       "tech_score": 0.333,
       "ml_probability": 0.545,
@@ -128,7 +169,7 @@
         "vol_ratio": 1.67
       },
       "last_price": NaN,
-      "analysed_at": "00:36:37"
+      "analysed_at": "01:30:37"
     },
     {
       "symbol": "KAYNES",
@@ -139,7 +180,7 @@
       "priority": 2,
       "max_alloc": 12.0,
       "qty_held": 10.0,
-      "avg_buy": 0.0,
+      "avg_buy": 7158.0,
       "yf_symbol": "KAYNES.NS",
       "tech_score": 0.318,
       "ml_probability": 0.542,
@@ -169,7 +210,7 @@
         "vol_ratio": 1.14
       },
       "last_price": NaN,
-      "analysed_at": "00:36:52"
+      "analysed_at": "01:30:52"
     },
     {
       "symbol": "HAL",
@@ -180,7 +221,7 @@
       "priority": 1,
       "max_alloc": 20.0,
       "qty_held": 20.0,
-      "avg_buy": 0.0,
+      "avg_buy": 4724.7,
       "yf_symbol": "HAL.NS",
       "tech_score": 0.318,
       "ml_probability": 0.535,
@@ -210,7 +251,7 @@
         "vol_ratio": 0.58
       },
       "last_price": NaN,
-      "analysed_at": "00:36:46"
+      "analysed_at": "01:30:47"
     },
     {
       "symbol": "BRITANNIA",
@@ -221,7 +262,7 @@
       "priority": 2,
       "max_alloc": 12.0,
       "qty_held": 10.0,
-      "avg_buy": 0.0,
+      "avg_buy": 6233.25,
       "yf_symbol": "BRITANNIA.NS",
       "tech_score": 0.298,
       "ml_probability": 0.561,
@@ -251,7 +292,48 @@
         "vol_ratio": 0.66
       },
       "last_price": NaN,
-      "analysed_at": "00:36:48"
+      "analysed_at": "01:30:48"
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys Ltd",
+      "sector": "IT",
+      "industry": "IT Services",
+      "risk": "Low",
+      "priority": 2,
+      "max_alloc": 14.0,
+      "qty_held": 20.0,
+      "avg_buy": 1964.6,
+      "yf_symbol": "INFY.NS",
+      "tech_score": 0.298,
+      "ml_probability": 0.55,
+      "final_score": 0.399,
+      "score": 0.399,
+      "score_int": 39,
+      "excluded": true,
+      "exclude_reason": "Score below threshold (0.40 < 0.5)",
+      "ml_metrics": {
+        "precision": 0.462,
+        "recall": 0.659,
+        "sample_size": 1188,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 891 days, tested on 297 days"
+      },
+      "reasons": {
+        "rsi": NaN,
+        "rsi_healthy": false,
+        "above_ma20": false,
+        "above_ma50": false,
+        "above_ma200": false,
+        "positive_mom": false,
+        "volume_above": false,
+        "ma_signal": "MA down",
+        "momentum_5d": NaN,
+        "vol_ratio": 0.41
+      },
+      "last_price": NaN,
+      "analysed_at": "01:30:49"
     },
     {
       "symbol": "EICHERMOT",
@@ -262,7 +344,7 @@
       "priority": 2,
       "max_alloc": 16.0,
       "qty_held": 21.0,
-      "avg_buy": 0.0,
+      "avg_buy": 5521.3,
       "yf_symbol": "EICHERMOT.NS",
       "tech_score": 0.298,
       "ml_probability": 0.549,
@@ -292,48 +374,7 @@
         "vol_ratio": 0.46
       },
       "last_price": NaN,
-      "analysed_at": "00:36:32"
-    },
-    {
-      "symbol": "INFY",
-      "name": "Infosys Ltd",
-      "sector": "IT",
-      "industry": "IT Services",
-      "risk": "Low",
-      "priority": 2,
-      "max_alloc": 14.0,
-      "qty_held": 20.0,
-      "avg_buy": 0.0,
-      "yf_symbol": "INFY.NS",
-      "tech_score": 0.298,
-      "ml_probability": 0.549,
-      "final_score": 0.398,
-      "score": 0.398,
-      "score_int": 39,
-      "excluded": true,
-      "exclude_reason": "ML probability too low (0.55 < 0.55)",
-      "ml_metrics": {
-        "precision": 0.462,
-        "recall": 0.659,
-        "sample_size": 1188,
-        "reliable": false,
-        "reliability": "Weak",
-        "note": "Trained on 891 days, tested on 297 days"
-      },
-      "reasons": {
-        "rsi": NaN,
-        "rsi_healthy": false,
-        "above_ma20": false,
-        "above_ma50": false,
-        "above_ma200": false,
-        "positive_mom": false,
-        "volume_above": false,
-        "ma_signal": "MA down",
-        "momentum_5d": NaN,
-        "vol_ratio": 0.41
-      },
-      "last_price": NaN,
-      "analysed_at": "00:36:49"
+      "analysed_at": "01:30:31"
     },
     {
       "symbol": "M&M",
@@ -344,7 +385,7 @@
       "priority": 1,
       "max_alloc": 16.0,
       "qty_held": 20.0,
-      "avg_buy": 0.0,
+      "avg_buy": 3499.3,
       "yf_symbol": "M&M.NS",
       "tech_score": 0.318,
       "ml_probability": 0.512,
@@ -374,7 +415,7 @@
         "vol_ratio": 0.88
       },
       "last_price": NaN,
-      "analysed_at": "00:36:44"
+      "analysed_at": "01:30:44"
     },
     {
       "symbol": "ABB",
@@ -385,7 +426,7 @@
       "priority": 1,
       "max_alloc": 15.0,
       "qty_held": 20.0,
-      "avg_buy": 0.0,
+      "avg_buy": 5757.0,
       "yf_symbol": "ABB.NS",
       "tech_score": 0.318,
       "ml_probability": 0.499,
@@ -415,7 +456,7 @@
         "vol_ratio": 0.84
       },
       "last_price": NaN,
-      "analysed_at": "00:36:34"
+      "analysed_at": "01:30:33"
     },
     {
       "symbol": "BEL",
@@ -426,7 +467,7 @@
       "priority": 1,
       "max_alloc": 18.0,
       "qty_held": 100.0,
-      "avg_buy": 0.0,
+      "avg_buy": 357.21,
       "yf_symbol": "BEL.NS",
       "tech_score": 0.338,
       "ml_probability": 0.443,
@@ -456,7 +497,7 @@
         "vol_ratio": 1.28
       },
       "last_price": NaN,
-      "analysed_at": "00:36:38"
+      "analysed_at": "01:30:38"
     },
     {
       "symbol": "TATASTEEL",
@@ -467,7 +508,7 @@
       "priority": 3,
       "max_alloc": 10.0,
       "qty_held": 543.0,
-      "avg_buy": 0.0,
+      "avg_buy": 183.87,
       "yf_symbol": "TATASTEEL.NS",
       "tech_score": 0.278,
       "ml_probability": 0.533,
@@ -497,7 +538,7 @@
         "vol_ratio": 0.48
       },
       "last_price": NaN,
-      "analysed_at": "00:36:40"
+      "analysed_at": "01:30:39"
     },
     {
       "symbol": "BSE",
@@ -508,7 +549,7 @@
       "priority": 2,
       "max_alloc": 18.0,
       "qty_held": 70.0,
-      "avg_buy": 0.0,
+      "avg_buy": 2528.14,
       "yf_symbol": "BSE.NS",
       "tech_score": 0.318,
       "ml_probability": 0.452,
@@ -538,7 +579,7 @@
         "vol_ratio": 1.18
       },
       "last_price": NaN,
-      "analysed_at": "00:36:31"
+      "analysed_at": "01:30:30"
     },
     {
       "symbol": "ADANIGREEN",
@@ -549,7 +590,7 @@
       "priority": 3,
       "max_alloc": 14.0,
       "qty_held": 76.0,
-      "avg_buy": 0.0,
+      "avg_buy": 1135.41,
       "yf_symbol": "ADANIGREEN.NS",
       "tech_score": 0.278,
       "ml_probability": 0.493,
@@ -579,7 +620,7 @@
         "vol_ratio": 0.99
       },
       "last_price": NaN,
-      "analysed_at": "00:36:33"
+      "analysed_at": "01:30:32"
     },
     {
       "symbol": "TVSMOTOR",
@@ -590,7 +631,7 @@
       "priority": 2,
       "max_alloc": 15.0,
       "qty_held": 20.0,
-      "avg_buy": 0.0,
+      "avg_buy": 2762.3,
       "yf_symbol": "TVSMOTOR.NS",
       "tech_score": 0.298,
       "ml_probability": 0.448,
@@ -620,7 +661,7 @@
         "vol_ratio": 0.6
       },
       "last_price": NaN,
-      "analysed_at": "00:36:36"
+      "analysed_at": "01:30:35"
     },
     {
       "symbol": "TMPV",
@@ -631,7 +672,7 @@
       "priority": 3,
       "max_alloc": 12.0,
       "qty_held": 170.0,
-      "avg_buy": 0.0,
+      "avg_buy": 481.06,
       "yf_symbol": "TMPV.NS",
       "tech_score": 0.278,
       "ml_probability": 0.47,
@@ -661,7 +702,7 @@
         "vol_ratio": 0.38
       },
       "last_price": NaN,
-      "analysed_at": "00:36:50"
+      "analysed_at": "01:30:50"
     },
     {
       "symbol": "ITI",
@@ -672,7 +713,7 @@
       "priority": 3,
       "max_alloc": 10.0,
       "qty_held": 90.0,
-      "avg_buy": 0.0,
+      "avg_buy": 360.36,
       "yf_symbol": "ITI.NS",
       "tech_score": 0.278,
       "ml_probability": 0.455,
@@ -702,7 +743,7 @@
         "vol_ratio": 0.5
       },
       "last_price": NaN,
-      "analysed_at": "00:36:42"
+      "analysed_at": "01:30:42"
     },
     {
       "symbol": "TMCV",
@@ -713,7 +754,7 @@
       "priority": 3,
       "max_alloc": 12.0,
       "qty_held": 152.0,
-      "avg_buy": 0.0,
+      "avg_buy": 296.78,
       "yf_symbol": "TMCV.NS",
       "tech_score": 0.278,
       "ml_probability": 0.441,
@@ -743,7 +784,7 @@
         "vol_ratio": 0.44
       },
       "last_price": NaN,
-      "analysed_at": "00:36:35"
+      "analysed_at": "01:30:34"
     },
     {
       "symbol": "RVNL",
@@ -754,7 +795,7 @@
       "priority": 3,
       "max_alloc": 10.0,
       "qty_held": 100.0,
-      "avg_buy": 0.0,
+      "avg_buy": 495.1,
       "yf_symbol": "RVNL.NS",
       "tech_score": 0.278,
       "ml_probability": 0.427,
@@ -784,7 +825,7 @@
         "vol_ratio": 0.42
       },
       "last_price": NaN,
-      "analysed_at": "00:36:51"
+      "analysed_at": "01:30:51"
     },
     {
       "symbol": "ASHOKA",
@@ -795,7 +836,7 @@
       "priority": 4,
       "max_alloc": 8.0,
       "qty_held": 40.0,
-      "avg_buy": 0.0,
+      "avg_buy": 277.34,
       "yf_symbol": "ASHOKA.NS",
       "tech_score": 0.258,
       "ml_probability": 0.434,
@@ -825,11 +866,52 @@
         "vol_ratio": 0.17
       },
       "last_price": NaN,
-      "analysed_at": "00:36:43"
+      "analysed_at": "01:30:43"
     }
   ],
   "excluded_details": [
     {
+      "symbol": "526775",
+      "name": "Valiant Communications Ltd",
+      "sector": "Telecom",
+      "industry": "Telecom Equipment",
+      "risk": "High",
+      "priority": 4,
+      "max_alloc": 8.0,
+      "qty_held": 20.0,
+      "avg_buy": 1084.28,
+      "yf_symbol": "526775.BO",
+      "tech_score": 0.532,
+      "ml_probability": 0.541,
+      "final_score": 0.536,
+      "score": 0.536,
+      "score_int": 53,
+      "excluded": true,
+      "exclude_reason": "ML probability too low (0.54 < 0.55)",
+      "ml_metrics": {
+        "precision": 0.536,
+        "recall": 0.438,
+        "sample_size": 1186,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 889 days, tested on 297 days"
+      },
+      "reasons": {
+        "rsi": 32.0,
+        "rsi_healthy": true,
+        "above_ma20": false,
+        "above_ma50": false,
+        "above_ma200": true,
+        "positive_mom": true,
+        "volume_above": false,
+        "ma_signal": "MA down",
+        "momentum_5d": 2.93,
+        "vol_ratio": 0.74
+      },
+      "last_price": 1080.45,
+      "analysed_at": "01:30:41"
+    },
+    {
       "symbol": "ENRIN",
       "name": "Siemens Energy India Ltd",
       "sector": "Capital Goods",
@@ -838,7 +920,7 @@
       "priority": 2,
       "max_alloc": 13.0,
       "qty_held": 20.0,
-      "avg_buy": 0.0,
+      "avg_buy": 3560.0,
       "yf_symbol": "ENRIN.NS",
       "tech_score": 0.333,
       "ml_probability": 0.586,
@@ -868,7 +950,7 @@
         "vol_ratio": 1.59
       },
       "last_price": NaN,
-      "analysed_at": "00:36:41"
+      "analysed_at": "01:30:40"
     },
     {
       "symbol": "BDL",
@@ -879,7 +961,7 @@
       "priority": 1,
       "max_alloc": 15.0,
       "qty_held": 20.0,
-      "avg_buy": 0.0,
+      "avg_buy": 1693.5,
       "yf_symbol": "BDL.NS",
       "tech_score": 0.338,
       "ml_probability": 0.545,
@@ -909,7 +991,7 @@
         "vol_ratio": 1.45
       },
       "last_price": NaN,
-      "analysed_at": "00:36:45"
+      "analysed_at": "01:30:46"
     },
     {
       "symbol": "CGPOWER",
@@ -920,7 +1002,7 @@
       "priority": 2,
       "max_alloc": 13.0,
       "qty_held": 30.0,
-      "avg_buy": 0.0,
+      "avg_buy": 747.52,
       "yf_symbol": "CGPOWER.NS",
       "tech_score": 0.333,
       "ml_probability": 0.545,
@@ -950,7 +1032,7 @@
         "vol_ratio": 1.67
       },
       "last_price": NaN,
-      "analysed_at": "00:36:37"
+      "analysed_at": "01:30:37"
     },
     {
       "symbol": "KAYNES",
@@ -961,7 +1043,7 @@
       "priority": 2,
       "max_alloc": 12.0,
       "qty_held": 10.0,
-      "avg_buy": 0.0,
+      "avg_buy": 7158.0,
       "yf_symbol": "KAYNES.NS",
       "tech_score": 0.318,
       "ml_probability": 0.542,
@@ -991,7 +1073,7 @@
         "vol_ratio": 1.14
       },
       "last_price": NaN,
-      "analysed_at": "00:36:52"
+      "analysed_at": "01:30:52"
     },
     {
       "symbol": "HAL",
@@ -1002,7 +1084,7 @@
       "priority": 1,
       "max_alloc": 20.0,
       "qty_held": 20.0,
-      "avg_buy": 0.0,
+      "avg_buy": 4724.7,
       "yf_symbol": "HAL.NS",
       "tech_score": 0.318,
       "ml_probability": 0.535,
@@ -1032,7 +1114,7 @@
         "vol_ratio": 0.58
       },
       "last_price": NaN,
-      "analysed_at": "00:36:46"
+      "analysed_at": "01:30:47"
     },
     {
       "symbol": "BRITANNIA",
@@ -1043,7 +1125,7 @@
       "priority": 2,
       "max_alloc": 12.0,
       "qty_held": 10.0,
-      "avg_buy": 0.0,
+      "avg_buy": 6233.25,
       "yf_symbol": "BRITANNIA.NS",
       "tech_score": 0.298,
       "ml_probability": 0.561,
@@ -1073,7 +1155,48 @@
         "vol_ratio": 0.66
       },
       "last_price": NaN,
-      "analysed_at": "00:36:48"
+      "analysed_at": "01:30:48"
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys Ltd",
+      "sector": "IT",
+      "industry": "IT Services",
+      "risk": "Low",
+      "priority": 2,
+      "max_alloc": 14.0,
+      "qty_held": 20.0,
+      "avg_buy": 1964.6,
+      "yf_symbol": "INFY.NS",
+      "tech_score": 0.298,
+      "ml_probability": 0.55,
+      "final_score": 0.399,
+      "score": 0.399,
+      "score_int": 39,
+      "excluded": true,
+      "exclude_reason": "Score below threshold (0.40 < 0.5)",
+      "ml_metrics": {
+        "precision": 0.462,
+        "recall": 0.659,
+        "sample_size": 1188,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 891 days, tested on 297 days"
+      },
+      "reasons": {
+        "rsi": NaN,
+        "rsi_healthy": false,
+        "above_ma20": false,
+        "above_ma50": false,
+        "above_ma200": false,
+        "positive_mom": false,
+        "volume_above": false,
+        "ma_signal": "MA down",
+        "momentum_5d": NaN,
+        "vol_ratio": 0.41
+      },
+      "last_price": NaN,
+      "analysed_at": "01:30:49"
     },
     {
       "symbol": "EICHERMOT",
@@ -1084,7 +1207,7 @@
       "priority": 2,
       "max_alloc": 16.0,
       "qty_held": 21.0,
-      "avg_buy": 0.0,
+      "avg_buy": 5521.3,
       "yf_symbol": "EICHERMOT.NS",
       "tech_score": 0.298,
       "ml_probability": 0.549,
@@ -1114,48 +1237,7 @@
         "vol_ratio": 0.46
       },
       "last_price": NaN,
-      "analysed_at": "00:36:32"
-    },
-    {
-      "symbol": "INFY",
-      "name": "Infosys Ltd",
-      "sector": "IT",
-      "industry": "IT Services",
-      "risk": "Low",
-      "priority": 2,
-      "max_alloc": 14.0,
-      "qty_held": 20.0,
-      "avg_buy": 0.0,
-      "yf_symbol": "INFY.NS",
-      "tech_score": 0.298,
-      "ml_probability": 0.549,
-      "final_score": 0.398,
-      "score": 0.398,
-      "score_int": 39,
-      "excluded": true,
-      "exclude_reason": "ML probability too low (0.55 < 0.55)",
-      "ml_metrics": {
-        "precision": 0.462,
-        "recall": 0.659,
-        "sample_size": 1188,
-        "reliable": false,
-        "reliability": "Weak",
-        "note": "Trained on 891 days, tested on 297 days"
-      },
-      "reasons": {
-        "rsi": NaN,
-        "rsi_healthy": false,
-        "above_ma20": false,
-        "above_ma50": false,
-        "above_ma200": false,
-        "positive_mom": false,
-        "volume_above": false,
-        "ma_signal": "MA down",
-        "momentum_5d": NaN,
-        "vol_ratio": 0.41
-      },
-      "last_price": NaN,
-      "analysed_at": "00:36:49"
+      "analysed_at": "01:30:31"
     },
     {
       "symbol": "M&M",
@@ -1166,7 +1248,7 @@
       "priority": 1,
       "max_alloc": 16.0,
       "qty_held": 20.0,
-      "avg_buy": 0.0,
+      "avg_buy": 3499.3,
       "yf_symbol": "M&M.NS",
       "tech_score": 0.318,
       "ml_probability": 0.512,
@@ -1196,7 +1278,7 @@
         "vol_ratio": 0.88
       },
       "last_price": NaN,
-      "analysed_at": "00:36:44"
+      "analysed_at": "01:30:44"
     },
     {
       "symbol": "ABB",
@@ -1207,7 +1289,7 @@
       "priority": 1,
       "max_alloc": 15.0,
       "qty_held": 20.0,
-      "avg_buy": 0.0,
+      "avg_buy": 5757.0,
       "yf_symbol": "ABB.NS",
       "tech_score": 0.318,
       "ml_probability": 0.499,
@@ -1237,7 +1319,7 @@
         "vol_ratio": 0.84
       },
       "last_price": NaN,
-      "analysed_at": "00:36:34"
+      "analysed_at": "01:30:33"
     },
     {
       "symbol": "BEL",
@@ -1248,7 +1330,7 @@
       "priority": 1,
       "max_alloc": 18.0,
       "qty_held": 100.0,
-      "avg_buy": 0.0,
+      "avg_buy": 357.21,
       "yf_symbol": "BEL.NS",
       "tech_score": 0.338,
       "ml_probability": 0.443,
@@ -1278,7 +1360,7 @@
         "vol_ratio": 1.28
       },
       "last_price": NaN,
-      "analysed_at": "00:36:38"
+      "analysed_at": "01:30:38"
     },
     {
       "symbol": "TATASTEEL",
@@ -1289,7 +1371,7 @@
       "priority": 3,
       "max_alloc": 10.0,
       "qty_held": 543.0,
-      "avg_buy": 0.0,
+      "avg_buy": 183.87,
       "yf_symbol": "TATASTEEL.NS",
       "tech_score": 0.278,
       "ml_probability": 0.533,
@@ -1319,7 +1401,7 @@
         "vol_ratio": 0.48
       },
       "last_price": NaN,
-      "analysed_at": "00:36:40"
+      "analysed_at": "01:30:39"
     },
     {
       "symbol": "BSE",
@@ -1330,7 +1412,7 @@
       "priority": 2,
       "max_alloc": 18.0,
       "qty_held": 70.0,
-      "avg_buy": 0.0,
+      "avg_buy": 2528.14,
       "yf_symbol": "BSE.NS",
       "tech_score": 0.318,
       "ml_probability": 0.452,
@@ -1360,7 +1442,7 @@
         "vol_ratio": 1.18
       },
       "last_price": NaN,
-      "analysed_at": "00:36:31"
+      "analysed_at": "01:30:30"
     },
     {
       "symbol": "ADANIGREEN",
@@ -1371,7 +1453,7 @@
       "priority": 3,
       "max_alloc": 14.0,
       "qty_held": 76.0,
-      "avg_buy": 0.0,
+      "avg_buy": 1135.41,
       "yf_symbol": "ADANIGREEN.NS",
       "tech_score": 0.278,
       "ml_probability": 0.493,
@@ -1401,7 +1483,7 @@
         "vol_ratio": 0.99
       },
       "last_price": NaN,
-      "analysed_at": "00:36:33"
+      "analysed_at": "01:30:32"
     },
     {
       "symbol": "TVSMOTOR",
@@ -1412,7 +1494,7 @@
       "priority": 2,
       "max_alloc": 15.0,
       "qty_held": 20.0,
-      "avg_buy": 0.0,
+      "avg_buy": 2762.3,
       "yf_symbol": "TVSMOTOR.NS",
       "tech_score": 0.298,
       "ml_probability": 0.448,
@@ -1442,7 +1524,7 @@
         "vol_ratio": 0.6
       },
       "last_price": NaN,
-      "analysed_at": "00:36:36"
+      "analysed_at": "01:30:35"
     },
     {
       "symbol": "TMPV",
@@ -1453,7 +1535,7 @@
       "priority": 3,
       "max_alloc": 12.0,
       "qty_held": 170.0,
-      "avg_buy": 0.0,
+      "avg_buy": 481.06,
       "yf_symbol": "TMPV.NS",
       "tech_score": 0.278,
       "ml_probability": 0.47,
@@ -1483,7 +1565,7 @@
         "vol_ratio": 0.38
       },
       "last_price": NaN,
-      "analysed_at": "00:36:50"
+      "analysed_at": "01:30:50"
     },
     {
       "symbol": "ITI",
@@ -1494,7 +1576,7 @@
       "priority": 3,
       "max_alloc": 10.0,
       "qty_held": 90.0,
-      "avg_buy": 0.0,
+      "avg_buy": 360.36,
       "yf_symbol": "ITI.NS",
       "tech_score": 0.278,
       "ml_probability": 0.455,
@@ -1524,7 +1606,7 @@
         "vol_ratio": 0.5
       },
       "last_price": NaN,
-      "analysed_at": "00:36:42"
+      "analysed_at": "01:30:42"
     },
     {
       "symbol": "TMCV",
@@ -1535,7 +1617,7 @@
       "priority": 3,
       "max_alloc": 12.0,
       "qty_held": 152.0,
-      "avg_buy": 0.0,
+      "avg_buy": 296.78,
       "yf_symbol": "TMCV.NS",
       "tech_score": 0.278,
       "ml_probability": 0.441,
@@ -1565,7 +1647,7 @@
         "vol_ratio": 0.44
       },
       "last_price": NaN,
-      "analysed_at": "00:36:35"
+      "analysed_at": "01:30:34"
     },
     {
       "symbol": "RVNL",
@@ -1576,7 +1658,7 @@
       "priority": 3,
       "max_alloc": 10.0,
       "qty_held": 100.0,
-      "avg_buy": 0.0,
+      "avg_buy": 495.1,
       "yf_symbol": "RVNL.NS",
       "tech_score": 0.278,
       "ml_probability": 0.427,
@@ -1606,7 +1688,7 @@
         "vol_ratio": 0.42
       },
       "last_price": NaN,
-      "analysed_at": "00:36:51"
+      "analysed_at": "01:30:51"
     },
     {
       "symbol": "ASHOKA",
@@ -1617,7 +1699,7 @@
       "priority": 4,
       "max_alloc": 8.0,
       "qty_held": 40.0,
-      "avg_buy": 0.0,
+      "avg_buy": 277.34,
       "yf_symbol": "ASHOKA.NS",
       "tech_score": 0.258,
       "ml_probability": 0.434,
@@ -1647,31 +1729,31 @@
         "vol_ratio": 0.17
       },
       "last_price": NaN,
-      "analysed_at": "00:36:43"
+      "analysed_at": "01:30:43"
     }
   ],
   "decision_story": [
-    "20 stocks analysed (full mode)",
-    "0 cleared score threshold (>= 0.5)",
+    "21 stocks analysed (full mode)",
+    "1 cleared score threshold (>= 0.5)",
     "0 cleared ML threshold (prob >= 0.55)",
     "No stocks selected — check ML threshold or data availability",
-    "Excluded (Score below threshold): ENRIN, BRITANNIA",
-    "Excluded (ML probability too low): BDL, CGPOWER, KAYNES, HAL, EICHERMOT, INFY, M&M, ABB, BEL, TATASTEEL, BSE, ADANIGREEN, TVSMOTOR, TMPV, ITI, TMCV, RVNL, ASHOKA"
+    "Excluded (ML probability too low): 526775, BDL, CGPOWER, KAYNES, HAL, EICHERMOT, M&M, ABB, BEL, TATASTEEL, BSE, ADANIGREEN, TVSMOTOR, TMPV, ITI, TMCV, RVNL, ASHOKA",
+    "Excluded (Score below threshold): ENRIN, BRITANNIA, INFY"
   ],
   "market_pulse": {
     "bullish_count": 0,
-    "neutral_count": 0,
+    "neutral_count": 1,
     "bearish_count": 20,
     "high_conviction": 0,
     "below_threshold": 20,
-    "total_analysed": 20,
-    "avg_ml_prob": 0.501,
+    "total_analysed": 21,
+    "avg_ml_prob": 0.503,
     "confidence_pct": 50,
     "bias": "Bearish",
-    "strongest_sector": "Capital Goods",
+    "strongest_sector": "Telecom",
     "weakest_sector": "Infrastructure",
     "breadth": "Negative"
   },
-  "duration_secs": 24.0,
+  "duration_secs": 25.7,
   "errors": []
 }
