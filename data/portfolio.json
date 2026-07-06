@@ -1,7 +1,7 @@
 {
   "session_date": "2026-07-06",
   "session_status": "No trades · No qualifying stocks",
-  "last_updated": "10:47:50",
+  "last_updated": "10:48:23",
   "analysis_time": "10:46:10",
   "sell_time": "15:20",
   "stop_loss_pct": 2,
@@ -877,6 +877,14 @@
       "type": "warning",
       "symbol": "",
       "date": "2026-07-06"
+    },
+    {
+      "time": "10:48:23",
+      "action": "No qualifying stocks from ML analysis today",
+      "amount": 0,
+      "type": "warning",
+      "symbol": "",
+      "date": "2026-07-06"
     }
   ],
   "market_pulse": {
@@ -908,7 +916,7 @@
       "Excluded (ML probability too low): M&M, EICHERMOT, TVSMOTOR, BRITANNIA, ADANIGREEN, BEL, BDL, HAL, TMCV, ASHOKA, CGPOWER, INFY, KAYNES, ITI, ENRIN, ABB, TATASTEEL, TMPV, BSE, RVNL"
     ]
   },
-  "nifty_status": "Positive (+0.23% from open)",
+  "nifty_status": "Positive (+0.24% from open)",
   "free_cash": 500000,
   "sell_rules_fired": []
 }
