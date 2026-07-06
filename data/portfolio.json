@@ -1,7 +1,7 @@
 {
   "session_date": "2026-07-06",
-  "session_status": "Analysed · Buying at 10:00 if Nifty confirms",
-  "last_updated": "10:46:10",
+  "session_status": "No trades · No qualifying stocks",
+  "last_updated": "10:46:44",
   "analysis_time": "10:46:10",
   "sell_time": "15:20",
   "stop_loss_pct": 2,
@@ -47,9 +47,7 @@
         "vol_ratio": 0.24
       },
       "last_price": 3176.9,
-      "analysed_at": "10:45:58",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.015
+      "analysed_at": "10:45:58"
     },
     {
       "symbol": "EICHERMOT",
@@ -90,9 +88,7 @@
         "vol_ratio": 0.15
       },
       "last_price": 7458.0,
-      "analysed_at": "10:45:45",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.135
+      "analysed_at": "10:45:45"
     },
     {
       "symbol": "TVSMOTOR",
@@ -133,9 +129,7 @@
         "vol_ratio": 0.24
       },
       "last_price": 3709.4,
-      "analysed_at": "10:45:50",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.01
+      "analysed_at": "10:45:50"
     },
     {
       "symbol": "BRITANNIA",
@@ -176,9 +170,7 @@
         "vol_ratio": 0.12
       },
       "last_price": 5434.0,
-      "analysed_at": "10:46:02",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.135
+      "analysed_at": "10:46:02"
     },
     {
       "symbol": "ADANIGREEN",
@@ -219,9 +211,7 @@
         "vol_ratio": 0.25
       },
       "last_price": 1563.9,
-      "analysed_at": "10:45:47",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.015
+      "analysed_at": "10:45:47"
     },
     {
       "symbol": "BEL",
@@ -262,9 +252,7 @@
         "vol_ratio": 0.74
       },
       "last_price": 425.45,
-      "analysed_at": "10:45:52",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.08
+      "analysed_at": "10:45:52"
     },
     {
       "symbol": "BDL",
@@ -305,9 +293,7 @@
         "vol_ratio": 0.9
       },
       "last_price": 1410.2,
-      "analysed_at": "10:45:59",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.035
+      "analysed_at": "10:45:59"
     },
     {
       "symbol": "HAL",
@@ -348,9 +334,7 @@
         "vol_ratio": 0.25
       },
       "last_price": 4468.2,
-      "analysed_at": "10:46:01",
-      "trend": "→ Stable",
-      "trend_slope": 0.0
+      "analysed_at": "10:46:01"
     },
     {
       "symbol": "TMCV",
@@ -391,9 +375,7 @@
         "vol_ratio": 0.14
       },
       "last_price": 433.95,
-      "analysed_at": "10:45:49",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.04
+      "analysed_at": "10:45:49"
     },
     {
       "symbol": "ASHOKA",
@@ -434,9 +416,7 @@
         "vol_ratio": 0.07
       },
       "last_price": 131.45,
-      "analysed_at": "10:45:57",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.02
+      "analysed_at": "10:45:57"
     },
     {
       "symbol": "CGPOWER",
@@ -477,9 +457,7 @@
         "vol_ratio": 0.85
       },
       "last_price": 920.15,
-      "analysed_at": "10:45:51",
-      "trend": "⬇ Weakening",
-      "trend_slope": -0.015
+      "analysed_at": "10:45:51"
     },
     {
       "symbol": "INFY",
@@ -520,9 +498,7 @@
         "vol_ratio": 0.18
       },
       "last_price": 1038.3,
-      "analysed_at": "10:46:03",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.015
+      "analysed_at": "10:46:03"
     },
     {
       "symbol": "KAYNES",
@@ -563,9 +539,7 @@
         "vol_ratio": 0.53
       },
       "last_price": 3366.0,
-      "analysed_at": "10:46:06",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.05
+      "analysed_at": "10:46:06"
     },
     {
       "symbol": "ITI",
@@ -606,9 +580,7 @@
         "vol_ratio": 0.28
       },
       "last_price": 297.15,
-      "analysed_at": "10:45:56",
-      "trend": "⬇ Weakening",
-      "trend_slope": -0.04
+      "analysed_at": "10:45:56"
     },
     {
       "symbol": "ENRIN",
@@ -649,9 +621,7 @@
         "vol_ratio": 0.9
       },
       "last_price": 3420.5,
-      "analysed_at": "10:45:55",
-      "trend": "⬇ Weakening",
-      "trend_slope": -0.06
+      "analysed_at": "10:45:55"
     },
     {
       "symbol": "ABB",
@@ -692,9 +662,7 @@
         "vol_ratio": 0.19
       },
       "last_price": 6945.0,
-      "analysed_at": "10:45:48",
-      "trend": "→ Stable",
-      "trend_slope": 0.0
+      "analysed_at": "10:45:48"
     },
     {
       "symbol": "TATASTEEL",
@@ -735,9 +703,7 @@
         "vol_ratio": 0.18
       },
       "last_price": 191.1,
-      "analysed_at": "10:45:54",
-      "trend": "→ Stable",
-      "trend_slope": 0.0
+      "analysed_at": "10:45:54"
     },
     {
       "symbol": "TMPV",
@@ -778,9 +744,7 @@
         "vol_ratio": 0.16
       },
       "last_price": 346.8,
-      "analysed_at": "10:46:04",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.015
+      "analysed_at": "10:46:04"
     },
     {
       "symbol": "BSE",
@@ -821,9 +785,7 @@
         "vol_ratio": 0.54
       },
       "last_price": 3787.6,
-      "analysed_at": "10:45:44",
-      "trend": "⬇ Slowly Weakening",
-      "trend_slope": -0.01
+      "analysed_at": "10:45:44"
     },
     {
       "symbol": "RVNL",
@@ -864,9 +826,7 @@
         "vol_ratio": 0.2
       },
       "last_price": 234.49,
-      "analysed_at": "10:46:05",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.025
+      "analysed_at": "10:46:05"
     }
   ],
   "activity_log": [
@@ -893,6 +853,14 @@
       "type": "info",
       "symbol": "",
       "date": "2026-07-06"
+    },
+    {
+      "time": "10:46:44",
+      "action": "No qualifying stocks from ML analysis today",
+      "amount": 0,
+      "type": "warning",
+      "symbol": "",
+      "date": "2026-07-06"
     }
   ],
   "market_pulse": {
@@ -909,8 +877,22 @@
     "weakest_sector": "Finance",
     "breadth": "Negative"
   },
-  "strategy_summary": {},
-  "nifty_status": "Unknown",
+  "strategy_summary": {
+    "analysed": 20,
+    "selected": 0,
+    "excluded": 20,
+    "capital_used_pct": 0,
+    "cash_reserved_pct": 100,
+    "avg_confidence": 0,
+    "story_lines": [
+      "20 stocks analysed (full mode)",
+      "11 cleared score threshold (>= 0.5)",
+      "0 cleared ML threshold (prob >= 0.6)",
+      "No stocks selected — check ML threshold or data availability",
+      "Excluded (ML probability too low): M&M, EICHERMOT, TVSMOTOR, BRITANNIA, ADANIGREEN, BEL, BDL, HAL, TMCV, ASHOKA, CGPOWER, INFY, KAYNES, ITI, ENRIN, ABB, TATASTEEL, TMPV, BSE, RVNL"
+    ]
+  },
+  "nifty_status": "Positive (+0.21% from open)",
   "free_cash": 500000,
   "sell_rules_fired": []
 }
