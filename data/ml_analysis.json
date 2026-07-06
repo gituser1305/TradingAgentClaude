@@ -1,5 +1,5 @@
 {
-  "analysed_at": "2026-07-06 11:20:55",
+  "analysed_at": "2026-07-06 11:21:11",
   "mode": "full",
   "total_analysed": 20,
   "buy_candidates": 3,
@@ -18,7 +18,7 @@
       "avg_buy": 0.0,
       "yf_symbol": "M&M.NS",
       "tech_score": 0.639,
-      "ml_probability": 0.575,
+      "ml_probability": 0.574,
       "final_score": 0.613,
       "score": 0.613,
       "score_int": 61,
@@ -33,7 +33,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 58.4,
+        "rsi": 58.3,
         "rsi_healthy": true,
         "above_ma20": true,
         "above_ma50": true,
@@ -41,11 +41,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up",
-        "momentum_5d": 4.38,
+        "momentum_5d": 4.32,
         "vol_ratio": 0.34
       },
-      "last_price": 3195.0,
-      "analysed_at": "11:20:46",
+      "last_price": 3193.0,
+      "analysed_at": "11:21:02",
       "allocation_pct": 16.0,
       "allocation_amount": 80000.0
     },
@@ -84,11 +84,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up",
-        "momentum_5d": 6.35,
+        "momentum_5d": 6.37,
         "vol_ratio": 0.17
       },
-      "last_price": 5426.0,
-      "analysed_at": "11:20:50",
+      "last_price": 5427.0,
+      "analysed_at": "11:21:05",
       "allocation_pct": 12.0,
       "allocation_amount": 60000.0
     },
@@ -127,11 +127,11 @@
         "positive_mom": false,
         "volume_above": true,
         "ma_signal": "MA up",
-        "momentum_5d": -3.41,
-        "vol_ratio": 1.13
+        "momentum_5d": -3.42,
+        "vol_ratio": 1.14
       },
-      "last_price": 923.6,
-      "analysed_at": "11:20:40",
+      "last_price": 923.5,
+      "analysed_at": "11:20:55",
       "allocation_pct": 13.0,
       "allocation_amount": 65000.0
     }
@@ -149,7 +149,7 @@
       "avg_buy": 0.0,
       "yf_symbol": "M&M.NS",
       "tech_score": 0.639,
-      "ml_probability": 0.575,
+      "ml_probability": 0.574,
       "final_score": 0.613,
       "score": 0.613,
       "score_int": 61,
@@ -164,7 +164,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 58.4,
+        "rsi": 58.3,
         "rsi_healthy": true,
         "above_ma20": true,
         "above_ma50": true,
@@ -172,11 +172,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up",
-        "momentum_5d": 4.38,
+        "momentum_5d": 4.32,
         "vol_ratio": 0.34
       },
-      "last_price": 3195.0,
-      "analysed_at": "11:20:46",
+      "last_price": 3193.0,
+      "analysed_at": "11:21:02",
       "allocation_pct": 16.0,
       "allocation_amount": 80000.0
     },
@@ -192,9 +192,9 @@
       "avg_buy": 0.0,
       "yf_symbol": "EICHERMOT.NS",
       "tech_score": 0.594,
-      "ml_probability": 0.538,
-      "final_score": 0.572,
-      "score": 0.572,
+      "ml_probability": 0.537,
+      "final_score": 0.571,
+      "score": 0.571,
       "score_int": 57,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.54 < 0.55)",
@@ -215,11 +215,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 0.79,
+        "momentum_5d": 0.81,
         "vol_ratio": 0.2
       },
-      "last_price": 7484.5,
-      "analysed_at": "11:20:34"
+      "last_price": 7486.0,
+      "analysed_at": "11:20:49"
     },
     {
       "symbol": "TVSMOTOR",
@@ -248,7 +248,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 72.0,
+        "rsi": 71.9,
         "rsi_healthy": false,
         "above_ma20": true,
         "above_ma50": true,
@@ -256,11 +256,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 7.34,
+        "momentum_5d": 7.32,
         "vol_ratio": 0.35
       },
-      "last_price": 3710.6,
-      "analysed_at": "11:20:38"
+      "last_price": 3710.0,
+      "analysed_at": "11:20:54"
     },
     {
       "symbol": "BRITANNIA",
@@ -297,11 +297,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up",
-        "momentum_5d": 6.35,
+        "momentum_5d": 6.37,
         "vol_ratio": 0.17
       },
-      "last_price": 5426.0,
-      "analysed_at": "11:20:50",
+      "last_price": 5427.0,
+      "analysed_at": "11:21:05",
       "allocation_pct": 12.0,
       "allocation_amount": 60000.0
     },
@@ -317,9 +317,9 @@
       "avg_buy": 0.0,
       "yf_symbol": "ADANIGREEN.NS",
       "tech_score": 0.605,
-      "ml_probability": 0.482,
-      "final_score": 0.556,
-      "score": 0.556,
+      "ml_probability": 0.481,
+      "final_score": 0.555,
+      "score": 0.555,
       "score_int": 55,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.48 < 0.55)",
@@ -340,11 +340,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 4.46,
+        "momentum_5d": 4.49,
         "vol_ratio": 0.29
       },
-      "last_price": 1569.5,
-      "analysed_at": "11:20:35"
+      "last_price": 1570.0,
+      "analysed_at": "11:20:51"
     },
     {
       "symbol": "BEL",
@@ -385,7 +385,7 @@
         "vol_ratio": 0.8
       },
       "last_price": 423.95,
-      "analysed_at": "11:20:41"
+      "analysed_at": "11:20:56"
     },
     {
       "symbol": "BDL",
@@ -399,9 +399,9 @@
       "avg_buy": 0.0,
       "yf_symbol": "BDL.NS",
       "tech_score": 0.519,
-      "ml_probability": 0.525,
-      "final_score": 0.521,
-      "score": 0.521,
+      "ml_probability": 0.527,
+      "final_score": 0.522,
+      "score": 0.522,
       "score_int": 52,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.53 < 0.55)",
@@ -422,11 +422,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up",
-        "momentum_5d": 5.41,
+        "momentum_5d": 5.39,
         "vol_ratio": 0.96
       },
-      "last_price": 1407.3,
-      "analysed_at": "11:20:48"
+      "last_price": 1407.0,
+      "analysed_at": "11:21:03"
     },
     {
       "symbol": "CGPOWER",
@@ -463,11 +463,11 @@
         "positive_mom": false,
         "volume_above": true,
         "ma_signal": "MA up",
-        "momentum_5d": -3.41,
-        "vol_ratio": 1.13
+        "momentum_5d": -3.42,
+        "vol_ratio": 1.14
       },
-      "last_price": 923.6,
-      "analysed_at": "11:20:40",
+      "last_price": 923.5,
+      "analysed_at": "11:20:55",
       "allocation_pct": 13.0,
       "allocation_amount": 65000.0
     },
@@ -498,7 +498,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 65.6,
+        "rsi": 65.8,
         "rsi_healthy": false,
         "above_ma20": true,
         "above_ma50": true,
@@ -506,11 +506,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up",
-        "momentum_5d": 2.8,
+        "momentum_5d": 2.9,
         "vol_ratio": 0.28
       },
-      "last_price": 4464.2,
-      "analysed_at": "11:20:49"
+      "last_price": 4468.7,
+      "analysed_at": "11:21:04"
     },
     {
       "symbol": "TMCV",
@@ -547,11 +547,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 2.59,
+        "momentum_5d": 2.64,
         "vol_ratio": 0.16
       },
-      "last_price": 434.05,
-      "analysed_at": "11:20:37"
+      "last_price": 434.25,
+      "analysed_at": "11:20:53"
     },
     {
       "symbol": "ASHOKA",
@@ -592,7 +592,7 @@
         "vol_ratio": 0.07
       },
       "last_price": 131.41,
-      "analysed_at": "11:20:45"
+      "analysed_at": "11:21:01"
     },
     {
       "symbol": "KAYNES",
@@ -629,11 +629,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA down",
-        "momentum_5d": 7.03,
+        "momentum_5d": 7.02,
         "vol_ratio": 0.7
       },
-      "last_price": 3372.0,
-      "analysed_at": "11:20:55"
+      "last_price": 3371.7,
+      "analysed_at": "11:21:10"
     },
     {
       "symbol": "INFY",
@@ -647,12 +647,12 @@
       "avg_buy": 0.0,
       "yf_symbol": "INFY.NS",
       "tech_score": 0.456,
-      "ml_probability": 0.542,
-      "final_score": 0.49,
-      "score": 0.49,
+      "ml_probability": 0.549,
+      "final_score": 0.493,
+      "score": 0.493,
       "score_int": 49,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.54 < 0.55)",
+      "exclude_reason": "ML probability too low (0.55 < 0.55)",
       "ml_metrics": {
         "precision": 0.46,
         "recall": 0.659,
@@ -662,7 +662,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 34.2,
+        "rsi": 34.3,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
@@ -670,11 +670,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": -0.12,
+        "momentum_5d": -0.07,
         "vol_ratio": 0.21
       },
-      "last_price": 1035.5,
-      "analysed_at": "11:20:51"
+      "last_price": 1036.0,
+      "analysed_at": "11:21:07"
     },
     {
       "symbol": "ENRIN",
@@ -703,7 +703,7 @@
         "note": "Trained on 159 days, tested on 53 days"
       },
       "reasons": {
-        "rsi": 42.2,
+        "rsi": 42.1,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
@@ -714,8 +714,8 @@
         "momentum_5d": -4.48,
         "vol_ratio": 1.04
       },
-      "last_price": 3423.5,
-      "analysed_at": "11:20:43"
+      "last_price": 3423.4,
+      "analysed_at": "11:20:58"
     },
     {
       "symbol": "ITI",
@@ -729,9 +729,9 @@
       "avg_buy": 0.0,
       "yf_symbol": "ITI.NS",
       "tech_score": 0.49,
-      "ml_probability": 0.43,
-      "final_score": 0.466,
-      "score": 0.466,
+      "ml_probability": 0.428,
+      "final_score": 0.465,
+      "score": 0.465,
       "score_int": 46,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.43 < 0.55)",
@@ -744,7 +744,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 41.8,
+        "rsi": 41.9,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
@@ -752,11 +752,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA down",
-        "momentum_5d": 0.39,
+        "momentum_5d": 0.42,
         "vol_ratio": 0.31
       },
-      "last_price": 297.25,
-      "analysed_at": "11:20:44"
+      "last_price": 297.35,
+      "analysed_at": "11:21:00"
     },
     {
       "symbol": "ABB",
@@ -797,7 +797,7 @@
         "vol_ratio": 0.21
       },
       "last_price": 6936.0,
-      "analysed_at": "11:20:36"
+      "analysed_at": "11:20:52"
     },
     {
       "symbol": "TATASTEEL",
@@ -826,7 +826,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 40.9,
+        "rsi": 40.8,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
@@ -834,11 +834,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": 0.75,
+        "momentum_5d": 0.74,
         "vol_ratio": 0.19
       },
-      "last_price": 190.99,
-      "analysed_at": "11:20:42"
+      "last_price": 190.98,
+      "analysed_at": "11:20:57"
     },
     {
       "symbol": "TMPV",
@@ -867,7 +867,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 23.5,
+        "rsi": 23.4,
         "rsi_healthy": false,
         "above_ma20": false,
         "above_ma50": false,
@@ -875,11 +875,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": 0.57,
+        "momentum_5d": 0.55,
         "vol_ratio": 0.2
       },
-      "last_price": 347.0,
-      "analysed_at": "11:20:52"
+      "last_price": 346.95,
+      "analysed_at": "11:21:08"
     },
     {
       "symbol": "BSE",
@@ -920,7 +920,7 @@
         "vol_ratio": 0.69
       },
       "last_price": 3767.5,
-      "analysed_at": "11:20:33"
+      "analysed_at": "11:20:48"
     },
     {
       "symbol": "RVNL",
@@ -960,8 +960,8 @@
         "momentum_5d": -1.52,
         "vol_ratio": 0.22
       },
-      "last_price": 233.91,
-      "analysed_at": "11:20:54"
+      "last_price": 233.89,
+      "analysed_at": "11:21:09"
     }
   ],
   "excluded_details": [
@@ -977,9 +977,9 @@
       "avg_buy": 0.0,
       "yf_symbol": "EICHERMOT.NS",
       "tech_score": 0.594,
-      "ml_probability": 0.538,
-      "final_score": 0.572,
-      "score": 0.572,
+      "ml_probability": 0.537,
+      "final_score": 0.571,
+      "score": 0.571,
       "score_int": 57,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.54 < 0.55)",
@@ -1000,11 +1000,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 0.79,
+        "momentum_5d": 0.81,
         "vol_ratio": 0.2
       },
-      "last_price": 7484.5,
-      "analysed_at": "11:20:34"
+      "last_price": 7486.0,
+      "analysed_at": "11:20:49"
     },
     {
       "symbol": "TVSMOTOR",
@@ -1033,7 +1033,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 72.0,
+        "rsi": 71.9,
         "rsi_healthy": false,
         "above_ma20": true,
         "above_ma50": true,
@@ -1041,11 +1041,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 7.34,
+        "momentum_5d": 7.32,
         "vol_ratio": 0.35
       },
-      "last_price": 3710.6,
-      "analysed_at": "11:20:38"
+      "last_price": 3710.0,
+      "analysed_at": "11:20:54"
     },
     {
       "symbol": "ADANIGREEN",
@@ -1059,9 +1059,9 @@
       "avg_buy": 0.0,
       "yf_symbol": "ADANIGREEN.NS",
       "tech_score": 0.605,
-      "ml_probability": 0.482,
-      "final_score": 0.556,
-      "score": 0.556,
+      "ml_probability": 0.481,
+      "final_score": 0.555,
+      "score": 0.555,
       "score_int": 55,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.48 < 0.55)",
@@ -1082,11 +1082,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 4.46,
+        "momentum_5d": 4.49,
         "vol_ratio": 0.29
       },
-      "last_price": 1569.5,
-      "analysed_at": "11:20:35"
+      "last_price": 1570.0,
+      "analysed_at": "11:20:51"
     },
     {
       "symbol": "BEL",
@@ -1127,7 +1127,7 @@
         "vol_ratio": 0.8
       },
       "last_price": 423.95,
-      "analysed_at": "11:20:41"
+      "analysed_at": "11:20:56"
     },
     {
       "symbol": "BDL",
@@ -1141,9 +1141,9 @@
       "avg_buy": 0.0,
       "yf_symbol": "BDL.NS",
       "tech_score": 0.519,
-      "ml_probability": 0.525,
-      "final_score": 0.521,
-      "score": 0.521,
+      "ml_probability": 0.527,
+      "final_score": 0.522,
+      "score": 0.522,
       "score_int": 52,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.53 < 0.55)",
@@ -1164,11 +1164,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up",
-        "momentum_5d": 5.41,
+        "momentum_5d": 5.39,
         "vol_ratio": 0.96
       },
-      "last_price": 1407.3,
-      "analysed_at": "11:20:48"
+      "last_price": 1407.0,
+      "analysed_at": "11:21:03"
     },
     {
       "symbol": "HAL",
@@ -1197,7 +1197,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 65.6,
+        "rsi": 65.8,
         "rsi_healthy": false,
         "above_ma20": true,
         "above_ma50": true,
@@ -1205,11 +1205,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up",
-        "momentum_5d": 2.8,
+        "momentum_5d": 2.9,
         "vol_ratio": 0.28
       },
-      "last_price": 4464.2,
-      "analysed_at": "11:20:49"
+      "last_price": 4468.7,
+      "analysed_at": "11:21:04"
     },
     {
       "symbol": "TMCV",
@@ -1246,11 +1246,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 2.59,
+        "momentum_5d": 2.64,
         "vol_ratio": 0.16
       },
-      "last_price": 434.05,
-      "analysed_at": "11:20:37"
+      "last_price": 434.25,
+      "analysed_at": "11:20:53"
     },
     {
       "symbol": "ASHOKA",
@@ -1291,7 +1291,7 @@
         "vol_ratio": 0.07
       },
       "last_price": 131.41,
-      "analysed_at": "11:20:45"
+      "analysed_at": "11:21:01"
     },
     {
       "symbol": "KAYNES",
@@ -1328,11 +1328,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA down",
-        "momentum_5d": 7.03,
+        "momentum_5d": 7.02,
         "vol_ratio": 0.7
       },
-      "last_price": 3372.0,
-      "analysed_at": "11:20:55"
+      "last_price": 3371.7,
+      "analysed_at": "11:21:10"
     },
     {
       "symbol": "INFY",
@@ -1346,12 +1346,12 @@
       "avg_buy": 0.0,
       "yf_symbol": "INFY.NS",
       "tech_score": 0.456,
-      "ml_probability": 0.542,
-      "final_score": 0.49,
-      "score": 0.49,
+      "ml_probability": 0.549,
+      "final_score": 0.493,
+      "score": 0.493,
       "score_int": 49,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.54 < 0.55)",
+      "exclude_reason": "ML probability too low (0.55 < 0.55)",
       "ml_metrics": {
         "precision": 0.46,
         "recall": 0.659,
@@ -1361,7 +1361,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 34.2,
+        "rsi": 34.3,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
@@ -1369,11 +1369,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": -0.12,
+        "momentum_5d": -0.07,
         "vol_ratio": 0.21
       },
-      "last_price": 1035.5,
-      "analysed_at": "11:20:51"
+      "last_price": 1036.0,
+      "analysed_at": "11:21:07"
     },
     {
       "symbol": "ENRIN",
@@ -1402,7 +1402,7 @@
         "note": "Trained on 159 days, tested on 53 days"
       },
       "reasons": {
-        "rsi": 42.2,
+        "rsi": 42.1,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
@@ -1413,8 +1413,8 @@
         "momentum_5d": -4.48,
         "vol_ratio": 1.04
       },
-      "last_price": 3423.5,
-      "analysed_at": "11:20:43"
+      "last_price": 3423.4,
+      "analysed_at": "11:20:58"
     },
     {
       "symbol": "ITI",
@@ -1428,9 +1428,9 @@
       "avg_buy": 0.0,
       "yf_symbol": "ITI.NS",
       "tech_score": 0.49,
-      "ml_probability": 0.43,
-      "final_score": 0.466,
-      "score": 0.466,
+      "ml_probability": 0.428,
+      "final_score": 0.465,
+      "score": 0.465,
       "score_int": 46,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.43 < 0.55)",
@@ -1443,7 +1443,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 41.8,
+        "rsi": 41.9,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
@@ -1451,11 +1451,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA down",
-        "momentum_5d": 0.39,
+        "momentum_5d": 0.42,
         "vol_ratio": 0.31
       },
-      "last_price": 297.25,
-      "analysed_at": "11:20:44"
+      "last_price": 297.35,
+      "analysed_at": "11:21:00"
     },
     {
       "symbol": "ABB",
@@ -1496,7 +1496,7 @@
         "vol_ratio": 0.21
       },
       "last_price": 6936.0,
-      "analysed_at": "11:20:36"
+      "analysed_at": "11:20:52"
     },
     {
       "symbol": "TATASTEEL",
@@ -1525,7 +1525,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 40.9,
+        "rsi": 40.8,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
@@ -1533,11 +1533,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": 0.75,
+        "momentum_5d": 0.74,
         "vol_ratio": 0.19
       },
-      "last_price": 190.99,
-      "analysed_at": "11:20:42"
+      "last_price": 190.98,
+      "analysed_at": "11:20:57"
     },
     {
       "symbol": "TMPV",
@@ -1566,7 +1566,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 23.5,
+        "rsi": 23.4,
         "rsi_healthy": false,
         "above_ma20": false,
         "above_ma50": false,
@@ -1574,11 +1574,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": 0.57,
+        "momentum_5d": 0.55,
         "vol_ratio": 0.2
       },
-      "last_price": 347.0,
-      "analysed_at": "11:20:52"
+      "last_price": 346.95,
+      "analysed_at": "11:21:08"
     },
     {
       "symbol": "BSE",
@@ -1619,7 +1619,7 @@
         "vol_ratio": 0.69
       },
       "last_price": 3767.5,
-      "analysed_at": "11:20:33"
+      "analysed_at": "11:20:48"
     },
     {
       "symbol": "RVNL",
@@ -1659,8 +1659,8 @@
         "momentum_5d": -1.52,
         "vol_ratio": 0.22
       },
-      "last_price": 233.91,
-      "analysed_at": "11:20:54"
+      "last_price": 233.89,
+      "analysed_at": "11:21:09"
     }
   ],
   "decision_story": [
@@ -1677,13 +1677,13 @@
     "high_conviction": 0,
     "below_threshold": 9,
     "total_analysed": 20,
-    "avg_ml_prob": 0.489,
+    "avg_ml_prob": 0.49,
     "confidence_pct": 48,
     "bias": "Bearish",
     "strongest_sector": "FMCG",
     "weakest_sector": "Finance",
     "breadth": "Negative"
   },
-  "duration_secs": 24.7,
+  "duration_secs": 24.8,
   "errors": []
 }
