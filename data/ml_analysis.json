@@ -1,5 +1,5 @@
 {
-  "analysed_at": "2026-07-06 10:40:03",
+  "analysed_at": "2026-07-06 10:40:58",
   "mode": "full",
   "total_analysed": 20,
   "buy_candidates": 0,
@@ -310,7 +310,7 @@
     "weakest_sector": "--",
     "breadth": "Negative"
   },
-  "duration_secs": 26.6,
+  "duration_secs": 26.1,
   "errors": [
     {
       "symbol": "BSE",
