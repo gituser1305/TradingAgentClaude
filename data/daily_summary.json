@@ -1,1 +1,14 @@
-{"summaries": []}
+{
+  "summaries": [
+    {
+      "date": "2026-07-08",
+      "capital": 500000,
+      "deployed": 497374.7,
+      "portfolio_val": 493251.0,
+      "pnl": -4123.7,
+      "pnl_pct": -0.83,
+      "stocks_traded": 6,
+      "sell_reason": "Portfolio-level rule 3"
+    }
+  ]
+}
