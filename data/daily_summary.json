@@ -9,6 +9,16 @@
       "pnl_pct": -0.83,
       "stocks_traded": 6,
       "sell_reason": "Portfolio-level rule 3"
+    },
+    {
+      "date": "2026-07-12",
+      "capital": 500000,
+      "deployed": 0,
+      "portfolio_val": 0,
+      "pnl": 0,
+      "pnl_pct": 0,
+      "stocks_traded": 0,
+      "sell_reason": "EOD 15:20"
     }
   ]
 }
