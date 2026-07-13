@@ -1,7 +1,7 @@
 {
   "session_date": "2026-07-13",
-  "session_status": "Live",
-  "last_updated": "15:19:38",
+  "session_status": "Closed · Day P&L -0.04%",
+  "last_updated": "15:20:13",
   "analysis_time": "15:19:38",
   "sell_time": "15:20",
   "stop_loss_pct": 2,
@@ -24,8 +24,8 @@
       "current_value": 255432.0,
       "pnl": -116.0,
       "pnl_pct": -0.05,
-      "sold": false,
-      "sell_reason": null,
+      "sold": true,
+      "sell_reason": "EOD 15:20",
       "reasons": {
         "rsi": 63.9,
         "rsi_healthy": true,
@@ -66,8 +66,8 @@
       "current_value": 129502.6,
       "pnl": 213.2,
       "pnl_pct": 0.16,
-      "sold": false,
-      "sell_reason": null,
+      "sold": true,
+      "sell_reason": "EOD 15:20",
       "reasons": {
         "rsi": 62.3,
         "rsi_healthy": true,
@@ -108,8 +108,8 @@
       "current_value": 107010.0,
       "pnl": -270.0,
       "pnl_pct": -0.25,
-      "sold": false,
-      "sell_reason": null,
+      "sold": true,
+      "sell_reason": "EOD 15:20",
       "reasons": {
         "rsi": 58.4,
         "rsi_healthy": true,
@@ -1072,6 +1072,46 @@
       "time": "12:20:35",
       "action": "Portfolio deployed · 3 stocks · ₹492,117 (98.4%) · Free cash ₹7,883",
       "amount": 0,
+      "type": "info",
+      "symbol": "",
+      "date": "2026-07-13"
+    },
+    {
+      "time": "15:20:11",
+      "action": "── Selling all · EOD 15:20 ──",
+      "amount": 0,
+      "type": "day_separator",
+      "symbol": "",
+      "date": "2026-07-13"
+    },
+    {
+      "time": "15:20:11",
+      "action": "Sold INFY · 232 qty @ ₹1101.0 · -0.05%",
+      "amount": 255432.0,
+      "type": "sell",
+      "symbol": "INFY",
+      "date": "2026-07-13"
+    },
+    {
+      "time": "15:20:11",
+      "action": "Sold M&M · 41 qty @ ₹3158.6 · +0.16%",
+      "amount": 129502.6,
+      "type": "sell",
+      "symbol": "M&M",
+      "date": "2026-07-13"
+    },
+    {
+      "time": "15:20:11",
+      "action": "Sold BRITANNIA · 20 qty @ ₹5350.5 · -0.25%",
+      "amount": 107010.0,
+      "type": "sell",
+      "symbol": "BRITANNIA",
+      "date": "2026-07-13"
+    },
+    {
+      "time": "15:20:11",
+      "action": "Day complete · P&L ₹-173 (-0.04%)",
+      "amount": -172.80000000004657,
       "type": "info",
       "symbol": "",
       "date": "2026-07-13"
