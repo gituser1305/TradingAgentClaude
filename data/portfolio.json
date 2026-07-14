@@ -1,12 +1,97 @@
 {
   "session_date": "2026-07-14",
-  "session_status": "Analysed · Checking Nifty before buying…",
-  "last_updated": "09:29:15",
+  "session_status": "Live",
+  "last_updated": "09:29:50",
   "analysis_time": "09:29:15",
   "sell_time": "15:20",
   "stop_loss_pct": 2,
   "confidence_drop": 20,
-  "positions": [],
+  "positions": [
+    {
+      "symbol": "BRITANNIA",
+      "name": "Britannia Industries Ltd",
+      "sector": "FMCG",
+      "risk": "Low",
+      "allocation_pct": 72.5,
+      "confidence_score": 0.514,
+      "ml_probability": 0.582,
+      "score_int": 51,
+      "signal": "Neutral",
+      "buy_price": 5327.5,
+      "current_price": 5327.5,
+      "qty": 68,
+      "invested": 362270.0,
+      "current_value": 362270.0,
+      "pnl": 0.0,
+      "pnl_pct": 0.0,
+      "sold": false,
+      "sell_reason": null,
+      "reasons": {
+        "rsi": 55.9,
+        "rsi_healthy": true,
+        "above_ma20": true,
+        "above_ma50": true,
+        "above_ma200": false,
+        "positive_mom": false,
+        "volume_above": false,
+        "ma_signal": "MA up",
+        "momentum_5d": -2.3,
+        "vol_ratio": 0.09
+      },
+      "trend": "--",
+      "peak_score_today": 0.514,
+      "ml_metrics": {
+        "precision": 0.496,
+        "recall": 0.418,
+        "sample_size": 1188,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 891 days, tested on 297 days"
+      }
+    },
+    {
+      "symbol": "EICHERMOT",
+      "name": "Eicher Motors Ltd",
+      "sector": "Auto",
+      "risk": "Low",
+      "allocation_pct": 26.0,
+      "confidence_score": 0.502,
+      "ml_probability": 0.565,
+      "score_int": 50,
+      "signal": "Neutral",
+      "buy_price": 7246.0,
+      "current_price": 7246.0,
+      "qty": 17,
+      "invested": 123182.0,
+      "current_value": 123182.0,
+      "pnl": 0.0,
+      "pnl_pct": 0.0,
+      "sold": false,
+      "sell_reason": null,
+      "reasons": {
+        "rsi": 37.8,
+        "rsi_healthy": true,
+        "above_ma20": false,
+        "above_ma50": false,
+        "above_ma200": true,
+        "positive_mom": false,
+        "volume_above": false,
+        "ma_signal": "MA down",
+        "momentum_5d": -3.75,
+        "vol_ratio": 0.08
+      },
+      "trend": "--",
+      "peak_score_today": 0.502,
+      "ml_metrics": {
+        "precision": 0.497,
+        "recall": 0.562,
+        "sample_size": 1189,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 891 days, tested on 298 days"
+      }
+    }
+  ],
   "candidate_scores": [
     {
       "symbol": "ADANIGREEN",
@@ -47,9 +132,7 @@
         "vol_ratio": 0.09
       },
       "last_price": 1542.0,
-      "analysed_at": "09:28:49",
-      "trend": "⬇ Weakening",
-      "trend_slope": -0.0185
+      "analysed_at": "09:28:49"
     },
     {
       "symbol": "HAL",
@@ -90,9 +173,7 @@
         "vol_ratio": 0.08
       },
       "last_price": 4461.1,
-      "analysed_at": "09:29:04",
-      "trend": "⬇ Weakening",
-      "trend_slope": -0.0234
+      "analysed_at": "09:29:04"
     },
     {
       "symbol": "M&M",
@@ -133,9 +214,7 @@
         "vol_ratio": 0.07
       },
       "last_price": 3107.0,
-      "analysed_at": "09:29:02",
-      "trend": "→ Stable",
-      "trend_slope": -0.0033
+      "analysed_at": "09:29:02"
     },
     {
       "symbol": "INFY",
@@ -176,9 +255,7 @@
         "vol_ratio": 0.12
       },
       "last_price": 1104.9,
-      "analysed_at": "09:29:06",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.0205
+      "analysed_at": "09:29:06"
     },
     {
       "symbol": "ASHOKA",
@@ -219,9 +296,7 @@
         "vol_ratio": 0.09
       },
       "last_price": 130.49,
-      "analysed_at": "09:29:01",
-      "trend": "⬇ Slowly Weakening",
-      "trend_slope": -0.0087
+      "analysed_at": "09:29:01"
     },
     {
       "symbol": "BRITANNIA",
@@ -264,9 +339,7 @@
       "last_price": 5329.0,
       "analysed_at": "09:29:05",
       "allocation_pct": 12.0,
-      "allocation_amount": 60000.0,
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.0142
+      "allocation_amount": 60000.0
     },
     {
       "symbol": "ITI",
@@ -307,9 +380,7 @@
         "vol_ratio": 0.08
       },
       "last_price": 290.5,
-      "analysed_at": "09:28:59",
-      "trend": "⬇ Weakening",
-      "trend_slope": -0.0213
+      "analysed_at": "09:28:59"
     },
     {
       "symbol": "EICHERMOT",
@@ -352,9 +423,7 @@
       "last_price": 7253.5,
       "analysed_at": "09:28:48",
       "allocation_pct": 16.0,
-      "allocation_amount": 80000.0,
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.0136
+      "allocation_amount": 80000.0
     },
     {
       "symbol": "TMCV",
@@ -395,9 +464,7 @@
         "vol_ratio": 0.06
       },
       "last_price": 421.2,
-      "analysed_at": "09:28:51",
-      "trend": "⬇ Slowly Weakening",
-      "trend_slope": -0.0097
+      "analysed_at": "09:28:51"
     },
     {
       "symbol": "BDL",
@@ -438,9 +505,7 @@
         "vol_ratio": 0.14
       },
       "last_price": 1275.6,
-      "analysed_at": "09:29:03",
-      "trend": "→ Stable",
-      "trend_slope": 0.0027
+      "analysed_at": "09:29:03"
     },
     {
       "symbol": "TVSMOTOR",
@@ -481,9 +546,7 @@
         "vol_ratio": 0.04
       },
       "last_price": 3625.4,
-      "analysed_at": "09:28:53",
-      "trend": "→ Stable",
-      "trend_slope": -0.0009
+      "analysed_at": "09:28:53"
     },
     {
       "symbol": "KAYNES",
@@ -524,9 +587,7 @@
         "vol_ratio": 0.08
       },
       "last_price": 3312.3,
-      "analysed_at": "09:29:10",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.0314
+      "analysed_at": "09:29:10"
     },
     {
       "symbol": "ABB",
@@ -567,9 +628,7 @@
         "vol_ratio": 0.05
       },
       "last_price": 6781.5,
-      "analysed_at": "09:28:50",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.0067
+      "analysed_at": "09:28:50"
     },
     {
       "symbol": "ENRIN",
@@ -610,9 +669,7 @@
         "vol_ratio": 0.1
       },
       "last_price": 3371.0,
-      "analysed_at": "09:28:57",
-      "trend": "→ Stable",
-      "trend_slope": -0.0026
+      "analysed_at": "09:28:57"
     },
     {
       "symbol": "BSE",
@@ -653,9 +710,7 @@
         "vol_ratio": 0.13
       },
       "last_price": 3841.9,
-      "analysed_at": "09:28:47",
-      "trend": "⬇ Weakening",
-      "trend_slope": -0.0247
+      "analysed_at": "09:28:47"
     },
     {
       "symbol": "CGPOWER",
@@ -696,9 +751,7 @@
         "vol_ratio": 0.04
       },
       "last_price": 899.1,
-      "analysed_at": "09:28:54",
-      "trend": "⬇ Weakening",
-      "trend_slope": -0.0323
+      "analysed_at": "09:28:54"
     },
     {
       "symbol": "TATASTEEL",
@@ -739,9 +792,7 @@
         "vol_ratio": 0.06
       },
       "last_price": 188.43,
-      "analysed_at": "09:28:56",
-      "trend": "⬇ Slowly Weakening",
-      "trend_slope": -0.0125
+      "analysed_at": "09:28:56"
     },
     {
       "symbol": "526775",
@@ -782,9 +833,7 @@
         "vol_ratio": 0.57
       },
       "last_price": 1084.1,
-      "analysed_at": "09:28:58",
-      "trend": "⬇ Weakening",
-      "trend_slope": -0.0278
+      "analysed_at": "09:28:58"
     },
     {
       "symbol": "TMPV",
@@ -825,9 +874,7 @@
         "vol_ratio": 0.04
       },
       "last_price": 339.1,
-      "analysed_at": "09:29:08",
-      "trend": "⬇ Weakening",
-      "trend_slope": -0.0234
+      "analysed_at": "09:29:08"
     },
     {
       "symbol": "BEL",
@@ -868,9 +915,7 @@
         "vol_ratio": 0.08
       },
       "last_price": 407.9,
-      "analysed_at": "09:28:55",
-      "trend": "⬇ Slowly Weakening",
-      "trend_slope": -0.0124
+      "analysed_at": "09:28:55"
     },
     {
       "symbol": "RVNL",
@@ -911,9 +956,7 @@
         "vol_ratio": 0.11
       },
       "last_price": 229.74,
-      "analysed_at": "09:29:09",
-      "trend": "⬆ Strengthening",
-      "trend_slope": 0.0115
+      "analysed_at": "09:29:09"
     }
   ],
   "activity_log": [
@@ -940,6 +983,46 @@
       "type": "info",
       "symbol": "",
       "date": "2026-07-14"
+    },
+    {
+      "time": "09:29:48",
+      "action": "Market confirmed uptrend — initiating buys",
+      "amount": 0,
+      "type": "separator",
+      "symbol": "",
+      "date": "2026-07-14"
+    },
+    {
+      "time": "09:29:49",
+      "action": "Bought BRITANNIA · 20 qty @ ₹5327.5 · 22.0% · ₹106,550",
+      "amount": 106550.0,
+      "type": "buy",
+      "symbol": "BRITANNIA",
+      "date": "2026-07-14"
+    },
+    {
+      "time": "09:29:49",
+      "action": "Bought EICHERMOT · 17 qty @ ₹7246.0 · 26.0% · ₹123,182",
+      "amount": 123182.0,
+      "type": "buy",
+      "symbol": "EICHERMOT",
+      "date": "2026-07-14"
+    },
+    {
+      "time": "09:29:50",
+      "action": "Extra allocation · BRITANNIA · +48 qty · ₹255,720 · remaining cash absorbed",
+      "amount": 0,
+      "type": "info",
+      "symbol": "BRITANNIA",
+      "date": "2026-07-14"
+    },
+    {
+      "time": "09:29:50",
+      "action": "Portfolio deployed · 2 stocks · ₹485,452 (97.1%) · Free cash ₹14,548",
+      "amount": 0,
+      "type": "info",
+      "symbol": "",
+      "date": "2026-07-14"
     }
   ],
   "market_pulse": {
@@ -956,8 +1039,22 @@
     "weakest_sector": "Metals",
     "breadth": "Negative"
   },
-  "strategy_summary": {},
-  "nifty_status": "Unknown",
-  "free_cash": 500000,
+  "strategy_summary": {
+    "analysed": 21,
+    "selected": 2,
+    "excluded": 19,
+    "capital_used_pct": 28.0,
+    "cash_reserved_pct": 72.0,
+    "avg_confidence": 50.8,
+    "story_lines": [
+      "21 stocks analysed (full mode)",
+      "9 cleared score threshold (>= 0.5)",
+      "2 cleared ML threshold (prob >= 0.55)",
+      "Selected: BRITANNIA (ML 58%), EICHERMOT (ML 56%)",
+      "Excluded (ML probability too low): ADANIGREEN, HAL, M&M, INFY, ASHOKA, ITI, TMCV, BDL, TVSMOTOR, KAYNES, ABB, ENRIN, BSE, CGPOWER, TATASTEEL, 526775, TMPV, BEL, RVNL"
+    ]
+  },
+  "nifty_status": "Positive (+0.14% from open)",
+  "free_cash": 14548.0,
   "sell_rules_fired": []
 }
