@@ -1,7 +1,7 @@
 {
   "session_date": "2026-07-16",
-  "session_status": "Live",
-  "last_updated": "15:19:31",
+  "session_status": "Closed · Day P&L +1.46%",
+  "last_updated": "15:20:06",
   "analysis_time": "15:19:31",
   "sell_time": "15:20",
   "stop_loss_pct": 2,
@@ -24,8 +24,8 @@
       "current_value": 153470.0,
       "pnl": 7900.0,
       "pnl_pct": 5.43,
-      "sold": false,
-      "sell_reason": null,
+      "sold": true,
+      "sell_reason": "EOD 15:20",
       "reasons": {
         "rsi": 59.3,
         "rsi_healthy": true,
@@ -66,8 +66,8 @@
       "current_value": 126114.5,
       "pnl": -229.5,
       "pnl_pct": -0.18,
-      "sold": false,
-      "sell_reason": null,
+      "sold": true,
+      "sell_reason": "EOD 15:20",
       "reasons": {
         "rsi": 44.0,
         "rsi_healthy": true,
@@ -108,8 +108,8 @@
       "current_value": 106260.0,
       "pnl": -280.0,
       "pnl_pct": -0.26,
-      "sold": false,
-      "sell_reason": null,
+      "sold": true,
+      "sell_reason": "EOD 15:20",
       "reasons": {
         "rsi": 55.7,
         "rsi_healthy": true,
@@ -150,8 +150,8 @@
       "current_value": 118943.0,
       "pnl": -132.0,
       "pnl_pct": -0.11,
-      "sold": false,
-      "sell_reason": null,
+      "sold": true,
+      "sell_reason": "EOD 15:20",
       "reasons": {
         "rsi": 58.1,
         "rsi_healthy": true,
@@ -1124,6 +1124,54 @@
       "time": "09:52:16",
       "action": "Portfolio deployed · 4 stocks · ₹497,529 (99.5%) · Free cash ₹2,471",
       "amount": 0,
+      "type": "info",
+      "symbol": "",
+      "date": "2026-07-16"
+    },
+    {
+      "time": "15:20:04",
+      "action": "── Selling all · EOD 15:20 ──",
+      "amount": 0,
+      "type": "day_separator",
+      "symbol": "",
+      "date": "2026-07-16"
+    },
+    {
+      "time": "15:20:04",
+      "action": "Sold ABB · 20 qty @ ₹7673.5 · +5.43%",
+      "amount": 153470.0,
+      "type": "sell",
+      "symbol": "ABB",
+      "date": "2026-07-16"
+    },
+    {
+      "time": "15:20:04",
+      "action": "Sold EICHERMOT · 17 qty @ ₹7418.5 · -0.18%",
+      "amount": 126114.5,
+      "type": "sell",
+      "symbol": "EICHERMOT",
+      "date": "2026-07-16"
+    },
+    {
+      "time": "15:20:04",
+      "action": "Sold BRITANNIA · 20 qty @ ₹5313.0 · -0.26%",
+      "amount": 106260.0,
+      "type": "sell",
+      "symbol": "BRITANNIA",
+      "date": "2026-07-16"
+    },
+    {
+      "time": "15:20:04",
+      "action": "Sold INFY · 110 qty @ ₹1081.3 · -0.11%",
+      "amount": 118943.0,
+      "type": "sell",
+      "symbol": "INFY",
+      "date": "2026-07-16"
+    },
+    {
+      "time": "15:20:04",
+      "action": "Day complete · P&L ₹+7,258 (+1.46%)",
+      "amount": 7258.5,
       "type": "info",
       "symbol": "",
       "date": "2026-07-16"
