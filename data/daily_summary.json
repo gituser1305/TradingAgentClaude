@@ -39,6 +39,16 @@
       "pnl_pct": -0.58,
       "stocks_traded": 2,
       "sell_reason": "EOD 15:20"
+    },
+    {
+      "date": "2026-07-16",
+      "capital": 500000,
+      "deployed": 497529.0,
+      "portfolio_val": 504787.5,
+      "pnl": 7258.5,
+      "pnl_pct": 1.46,
+      "stocks_traded": 4,
+      "sell_reason": "EOD 15:20"
     }
   ]
 }
