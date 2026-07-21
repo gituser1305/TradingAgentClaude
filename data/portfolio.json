@@ -1,7 +1,7 @@
 {
-  "session_date": "2026-07-18",
-  "session_status": "Idle",
-  "last_updated": "21:39:53",
+  "session_date": "2026-07-21",
+  "session_status": "Analysing · ML scoring all stocks…",
+  "last_updated": "--",
   "analysis_time": "--",
   "sell_time": "15:20",
   "stop_loss_pct": 2,
@@ -10,28 +10,20 @@
   "candidate_scores": [],
   "activity_log": [
     {
-      "time": "20:50:18",
+      "time": "10:07:52",
       "action": "Flash Trading Agent v3 started",
       "amount": 0,
       "type": "separator",
       "symbol": "",
-      "date": "2026-07-18"
+      "date": "2026-07-21"
     },
     {
-      "time": "20:50:19",
-      "action": "── Selling all · EOD 15:20 ──",
+      "time": "10:07:52",
+      "action": "Agent started at 10:07 — running ML analysis immediately",
       "amount": 0,
-      "type": "day_separator",
+      "type": "separator",
       "symbol": "",
-      "date": "2026-07-18"
-    },
-    {
-      "time": "20:50:19",
-      "action": "Day complete · P&L ₹+0 (+0.00%)",
-      "amount": 0,
-      "type": "info",
-      "symbol": "",
-      "date": "2026-07-18"
+      "date": "2026-07-21"
     }
   ],
   "market_pulse": {},
