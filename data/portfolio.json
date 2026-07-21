@@ -1,8 +1,8 @@
 {
   "session_date": "2026-07-21",
   "session_status": "Analysing · ML scoring all stocks…",
-  "last_updated": "--",
-  "analysis_time": "--",
+  "last_updated": "10:07:56",
+  "analysis_time": "10:07:56",
   "sell_time": "15:20",
   "stop_loss_pct": 2,
   "confidence_drop": 20,
@@ -22,6 +22,14 @@
       "action": "Agent started at 10:07 — running ML analysis immediately",
       "amount": 0,
       "type": "separator",
+      "symbol": "",
+      "date": "2026-07-21"
+    },
+    {
+      "time": "10:07:54",
+      "action": "Analysis error: cannot convert float NaN to integer",
+      "amount": 0,
+      "type": "warning",
       "symbol": "",
       "date": "2026-07-21"
     }
