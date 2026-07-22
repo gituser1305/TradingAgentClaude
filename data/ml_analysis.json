@@ -1,54 +1,11 @@
 {
-  "analysed_at": "2026-07-22 10:29:34",
+  "analysed_at": "2026-07-22 10:44:10",
   "mode": "full",
   "total_analysed": 22,
-  "buy_candidates": 3,
-  "excluded_count": 17,
+  "buy_candidates": 2,
+  "excluded_count": 20,
   "error_count": 0,
   "top_picks": [
-    {
-      "symbol": "M&M",
-      "name": "Mahindra & Mahindra Ltd",
-      "sector": "Auto",
-      "industry": "SUV & Tractor OEM",
-      "risk": "Low",
-      "priority": 1,
-      "max_alloc": 16.0,
-      "qty_held": 20.0,
-      "avg_buy": 3499.3,
-      "yf_symbol": "M&M.NS",
-      "tech_score": 0.714,
-      "ml_probability": 0.552,
-      "final_score": 0.649,
-      "score": 0.649,
-      "score_int": 64,
-      "excluded": false,
-      "exclude_reason": null,
-      "ml_metrics": {
-        "precision": 0.49,
-        "recall": 0.685,
-        "sample_size": 1190,
-        "reliable": false,
-        "reliability": "Weak",
-        "note": "Trained on 892 days, tested on 298 days"
-      },
-      "reasons": {
-        "rsi": 55.5,
-        "rsi_healthy": true,
-        "above_ma20": true,
-        "above_ma50": true,
-        "above_ma200": false,
-        "positive_mom": true,
-        "volume_above": false,
-        "ma_signal": "MA up-up",
-        "momentum_5d": 3.67,
-        "vol_ratio": 0.24
-      },
-      "last_price": 3196.0,
-      "analysed_at": "10:29:15",
-      "allocation_pct": 16.0,
-      "allocation_amount": 80000.0
-    },
     {
       "symbol": "BRITANNIA",
       "name": "Britannia Industries Ltd",
@@ -61,10 +18,10 @@
       "avg_buy": 6233.25,
       "yf_symbol": "BRITANNIA.NS",
       "tech_score": 0.657,
-      "ml_probability": 0.598,
-      "final_score": 0.633,
-      "score": 0.633,
-      "score_int": 63,
+      "ml_probability": 0.619,
+      "final_score": 0.642,
+      "score": 0.642,
+      "score_int": 64,
       "excluded": false,
       "exclude_reason": null,
       "ml_metrics": {
@@ -76,7 +33,7 @@
         "note": "Trained on 892 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 56.7,
+        "rsi": 57.5,
         "rsi_healthy": true,
         "above_ma20": true,
         "above_ma50": true,
@@ -84,11 +41,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 2.57,
-        "vol_ratio": 0.1
+        "momentum_5d": 2.73,
+        "vol_ratio": 0.11
       },
-      "last_price": 5452.0,
-      "analysed_at": "10:29:22",
+      "last_price": 5460.5,
+      "analysed_at": "10:44:03",
       "allocation_pct": 12.0,
       "allocation_amount": 60000.0
     },
@@ -104,10 +61,10 @@
       "avg_buy": 7158.0,
       "yf_symbol": "KAYNES.NS",
       "tech_score": 0.469,
-      "ml_probability": 0.583,
-      "final_score": 0.515,
-      "score": 0.515,
-      "score_int": 51,
+      "ml_probability": 0.568,
+      "final_score": 0.509,
+      "score": 0.509,
+      "score_int": 50,
       "excluded": false,
       "exclude_reason": null,
       "ml_metrics": {
@@ -119,7 +76,7 @@
         "note": "Trained on 644 days, tested on 215 days"
       },
       "reasons": {
-        "rsi": 54.9,
+        "rsi": 54.7,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": true,
@@ -127,11 +84,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA up",
-        "momentum_5d": -2.28,
-        "vol_ratio": 0.17
+        "momentum_5d": -2.42,
+        "vol_ratio": 0.2
       },
-      "last_price": 3261.1,
-      "analysed_at": "10:29:31",
+      "last_price": 3256.3,
+      "analysed_at": "10:44:09",
       "allocation_pct": 12.0,
       "allocation_amount": 60000.0
     }
@@ -149,12 +106,12 @@
       "avg_buy": 3499.3,
       "yf_symbol": "M&M.NS",
       "tech_score": 0.714,
-      "ml_probability": 0.552,
-      "final_score": 0.649,
-      "score": 0.649,
+      "ml_probability": 0.539,
+      "final_score": 0.644,
+      "score": 0.644,
       "score_int": 64,
-      "excluded": false,
-      "exclude_reason": null,
+      "excluded": true,
+      "exclude_reason": "ML probability too low (0.54 < 0.55)",
       "ml_metrics": {
         "precision": 0.49,
         "recall": 0.685,
@@ -164,7 +121,7 @@
         "note": "Trained on 892 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 55.5,
+        "rsi": 55.1,
         "rsi_healthy": true,
         "above_ma20": true,
         "above_ma50": true,
@@ -172,13 +129,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 3.67,
-        "vol_ratio": 0.24
+        "momentum_5d": 3.57,
+        "vol_ratio": 0.27
       },
-      "last_price": 3196.0,
-      "analysed_at": "10:29:15",
-      "allocation_pct": 16.0,
-      "allocation_amount": 80000.0
+      "last_price": 3192.9,
+      "analysed_at": "10:43:56"
     },
     {
       "symbol": "BRITANNIA",
@@ -192,10 +147,10 @@
       "avg_buy": 6233.25,
       "yf_symbol": "BRITANNIA.NS",
       "tech_score": 0.657,
-      "ml_probability": 0.598,
-      "final_score": 0.633,
-      "score": 0.633,
-      "score_int": 63,
+      "ml_probability": 0.619,
+      "final_score": 0.642,
+      "score": 0.642,
+      "score_int": 64,
       "excluded": false,
       "exclude_reason": null,
       "ml_metrics": {
@@ -207,7 +162,7 @@
         "note": "Trained on 892 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 56.7,
+        "rsi": 57.5,
         "rsi_healthy": true,
         "above_ma20": true,
         "above_ma50": true,
@@ -215,13 +170,54 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 2.57,
-        "vol_ratio": 0.1
+        "momentum_5d": 2.73,
+        "vol_ratio": 0.11
       },
-      "last_price": 5452.0,
-      "analysed_at": "10:29:22",
+      "last_price": 5460.5,
+      "analysed_at": "10:44:03",
       "allocation_pct": 12.0,
       "allocation_amount": 60000.0
+    },
+    {
+      "symbol": "TVSMOTOR",
+      "name": "TVS Motor Company Ltd",
+      "sector": "Auto",
+      "industry": "2-Wheeler OEM",
+      "risk": "Low",
+      "priority": 2,
+      "max_alloc": 15.0,
+      "qty_held": 20.0,
+      "avg_buy": 2762.3,
+      "yf_symbol": "TVSMOTOR.NS",
+      "tech_score": 0.66,
+      "ml_probability": 0.525,
+      "final_score": 0.606,
+      "score": 0.606,
+      "score_int": 60,
+      "excluded": true,
+      "exclude_reason": "ML probability too low (0.53 < 0.55)",
+      "ml_metrics": {
+        "precision": 0.538,
+        "recall": 0.416,
+        "sample_size": 1190,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 892 days, tested on 298 days"
+      },
+      "reasons": {
+        "rsi": 68.9,
+        "rsi_healthy": false,
+        "above_ma20": true,
+        "above_ma50": true,
+        "above_ma200": true,
+        "positive_mom": true,
+        "volume_above": true,
+        "ma_signal": "MA up-up",
+        "momentum_5d": 8.33,
+        "vol_ratio": 1.82
+      },
+      "last_price": 3913.2,
+      "analysed_at": "10:43:38"
     },
     {
       "symbol": "ABB",
@@ -235,22 +231,22 @@
       "avg_buy": 5757.0,
       "yf_symbol": "ABB.NS",
       "tech_score": 0.645,
-      "ml_probability": 0.501,
-      "final_score": 0.587,
-      "score": 0.587,
-      "score_int": 58,
+      "ml_probability": 0.515,
+      "final_score": 0.593,
+      "score": 0.593,
+      "score_int": 59,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.50 < 0.55)",
+      "exclude_reason": "ML probability too low (0.52 < 0.55)",
       "ml_metrics": {
-        "precision": 0.553,
-        "recall": 0.487,
+        "precision": 0.56,
+        "recall": 0.491,
         "sample_size": 1189,
         "reliable": true,
         "reliability": "Moderate",
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 66.4,
+        "rsi": 67.1,
         "rsi_healthy": false,
         "above_ma20": true,
         "above_ma50": true,
@@ -258,11 +254,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 8.89,
-        "vol_ratio": 0.15
+        "momentum_5d": 9.18,
+        "vol_ratio": 0.16
       },
-      "last_price": 7505.0,
-      "analysed_at": "10:28:44"
+      "last_price": 7525.0,
+      "analysed_at": "10:43:34"
     },
     {
       "symbol": "HAL",
@@ -276,34 +272,34 @@
       "avg_buy": 4724.7,
       "yf_symbol": "HAL.NS",
       "tech_score": 0.645,
-      "ml_probability": 0.499,
-      "final_score": 0.587,
-      "score": 0.587,
+      "ml_probability": 0.49,
+      "final_score": 0.583,
+      "score": 0.583,
       "score_int": 58,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.50 < 0.55)",
+      "exclude_reason": "ML probability too low (0.49 < 0.55)",
       "ml_metrics": {
-        "precision": 0.528,
-        "recall": 0.439,
+        "precision": 0.537,
+        "recall": 0.443,
         "sample_size": 1190,
         "reliable": false,
         "reliability": "Weak",
         "note": "Trained on 892 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 64.4,
-        "rsi_healthy": true,
+        "rsi": 65.3,
+        "rsi_healthy": false,
         "above_ma20": true,
         "above_ma50": true,
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 3.63,
-        "vol_ratio": 0.43
+        "momentum_5d": 3.92,
+        "vol_ratio": 0.48
       },
-      "last_price": 4581.1,
-      "analysed_at": "10:29:20"
+      "last_price": 4593.9,
+      "analysed_at": "10:44:01"
     },
     {
       "symbol": "EICHERMOT",
@@ -317,12 +313,12 @@
       "avg_buy": 5521.3,
       "yf_symbol": "EICHERMOT.NS",
       "tech_score": 0.588,
-      "ml_probability": 0.512,
-      "final_score": 0.558,
-      "score": 0.558,
+      "ml_probability": 0.501,
+      "final_score": 0.553,
+      "score": 0.553,
       "score_int": 55,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.51 < 0.55)",
+      "exclude_reason": "ML probability too low (0.50 < 0.55)",
       "ml_metrics": {
         "precision": 0.479,
         "recall": 0.513,
@@ -332,7 +328,7 @@
         "note": "Trained on 892 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 68.3,
+        "rsi": 67.1,
         "rsi_healthy": false,
         "above_ma20": true,
         "above_ma50": true,
@@ -340,11 +336,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 2.99,
-        "vol_ratio": 0.24
+        "momentum_5d": 2.74,
+        "vol_ratio": 0.26
       },
-      "last_price": 7626.0,
-      "analysed_at": "10:28:42"
+      "last_price": 7607.5,
+      "analysed_at": "10:43:30"
     },
     {
       "symbol": "BDL",
@@ -358,22 +354,22 @@
       "avg_buy": 1693.5,
       "yf_symbol": "BDL.NS",
       "tech_score": 0.519,
-      "ml_probability": 0.549,
-      "final_score": 0.531,
-      "score": 0.531,
-      "score_int": 53,
+      "ml_probability": 0.54,
+      "final_score": 0.527,
+      "score": 0.527,
+      "score_int": 52,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.55 < 0.55)",
+      "exclude_reason": "ML probability too low (0.54 < 0.55)",
       "ml_metrics": {
         "precision": 0.443,
-        "recall": 0.482,
+        "recall": 0.478,
         "sample_size": 1189,
         "reliable": false,
         "reliability": "Weak",
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 23.0,
+        "rsi": 23.6,
         "rsi_healthy": false,
         "above_ma20": false,
         "above_ma50": false,
@@ -381,11 +377,52 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down",
-        "momentum_5d": -1.58,
+        "momentum_5d": -1.43,
         "vol_ratio": 0.17
       },
-      "last_price": 1257.6,
-      "analysed_at": "10:29:18"
+      "last_price": 1259.5,
+      "analysed_at": "10:43:58"
+    },
+    {
+      "symbol": "CGPOWER",
+      "name": "CG Power & Industrial Solutions",
+      "sector": "Capital Goods",
+      "industry": "Power Equipment",
+      "risk": "Medium",
+      "priority": 2,
+      "max_alloc": 13.0,
+      "qty_held": 30.0,
+      "avg_buy": 747.52,
+      "yf_symbol": "CGPOWER.NS",
+      "tech_score": 0.561,
+      "ml_probability": 0.434,
+      "final_score": 0.51,
+      "score": 0.51,
+      "score_int": 51,
+      "excluded": true,
+      "exclude_reason": "ML probability too low (0.43 < 0.55)",
+      "ml_metrics": {
+        "precision": 0.435,
+        "recall": 0.525,
+        "sample_size": 1189,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 891 days, tested on 298 days"
+      },
+      "reasons": {
+        "rsi": 36.2,
+        "rsi_healthy": true,
+        "above_ma20": false,
+        "above_ma50": true,
+        "above_ma200": true,
+        "positive_mom": true,
+        "volume_above": false,
+        "ma_signal": "MA up",
+        "momentum_5d": 0.39,
+        "vol_ratio": 0.22
+      },
+      "last_price": 917.45,
+      "analysed_at": "10:43:40"
     },
     {
       "symbol": "KAYNES",
@@ -399,10 +436,10 @@
       "avg_buy": 7158.0,
       "yf_symbol": "KAYNES.NS",
       "tech_score": 0.469,
-      "ml_probability": 0.583,
-      "final_score": 0.515,
-      "score": 0.515,
-      "score_int": 51,
+      "ml_probability": 0.568,
+      "final_score": 0.509,
+      "score": 0.509,
+      "score_int": 50,
       "excluded": false,
       "exclude_reason": null,
       "ml_metrics": {
@@ -414,7 +451,7 @@
         "note": "Trained on 644 days, tested on 215 days"
       },
       "reasons": {
-        "rsi": 54.9,
+        "rsi": 54.7,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": true,
@@ -422,54 +459,13 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA up",
-        "momentum_5d": -2.28,
-        "vol_ratio": 0.17
+        "momentum_5d": -2.42,
+        "vol_ratio": 0.2
       },
-      "last_price": 3261.1,
-      "analysed_at": "10:29:31",
+      "last_price": 3256.3,
+      "analysed_at": "10:44:09",
       "allocation_pct": 12.0,
       "allocation_amount": 60000.0
-    },
-    {
-      "symbol": "CGPOWER",
-      "name": "CG Power & Industrial Solutions",
-      "sector": "Capital Goods",
-      "industry": "Power Equipment",
-      "risk": "Medium",
-      "priority": 2,
-      "max_alloc": 13.0,
-      "qty_held": 30.0,
-      "avg_buy": 747.52,
-      "yf_symbol": "CGPOWER.NS",
-      "tech_score": 0.561,
-      "ml_probability": 0.431,
-      "final_score": 0.509,
-      "score": 0.509,
-      "score_int": 50,
-      "excluded": true,
-      "exclude_reason": "ML probability too low (0.43 < 0.55)",
-      "ml_metrics": {
-        "precision": 0.435,
-        "recall": 0.525,
-        "sample_size": 1189,
-        "reliable": false,
-        "reliability": "Weak",
-        "note": "Trained on 891 days, tested on 298 days"
-      },
-      "reasons": {
-        "rsi": 35.7,
-        "rsi_healthy": true,
-        "above_ma20": false,
-        "above_ma50": true,
-        "above_ma200": true,
-        "positive_mom": true,
-        "volume_above": false,
-        "ma_signal": "MA up",
-        "momentum_5d": 0.24,
-        "vol_ratio": 0.21
-      },
-      "last_price": 916.0,
-      "analysed_at": "10:28:57"
     },
     {
       "symbol": "ADANIGREEN",
@@ -483,9 +479,9 @@
       "avg_buy": 1135.41,
       "yf_symbol": "ADANIGREEN.NS",
       "tech_score": 0.491,
-      "ml_probability": 0.497,
-      "final_score": 0.493,
-      "score": 0.493,
+      "ml_probability": 0.498,
+      "final_score": 0.494,
+      "score": 0.494,
       "score_int": 49,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.50 < 0.55)",
@@ -498,7 +494,7 @@
         "note": "Trained on 892 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 44.8,
+        "rsi": 44.7,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": true,
@@ -506,11 +502,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA up",
-        "momentum_5d": -2.21,
-        "vol_ratio": 0.3
+        "momentum_5d": -2.23,
+        "vol_ratio": 0.31
       },
-      "last_price": 1521.0,
-      "analysed_at": "10:28:43"
+      "last_price": 1520.7,
+      "analysed_at": "10:43:32"
     },
     {
       "symbol": "POWERINDIA",
@@ -524,7 +520,7 @@
       "avg_buy": 33159.0,
       "yf_symbol": "POWERINDIA.NS",
       "tech_score": 0.476,
-      "ml_probability": 0.506,
+      "ml_probability": 0.507,
       "final_score": 0.488,
       "score": 0.488,
       "score_int": 48,
@@ -539,7 +535,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 41.4,
+        "rsi": 41.1,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
@@ -547,11 +543,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": -0.48,
-        "vol_ratio": 0.25
+        "momentum_5d": -0.74,
+        "vol_ratio": 0.26
       },
-      "last_price": 32335.0,
-      "analysed_at": "10:29:33"
+      "last_price": 32250.0,
+      "analysed_at": "10:44:10"
     },
     {
       "symbol": "TMCV",
@@ -565,9 +561,9 @@
       "avg_buy": 296.78,
       "yf_symbol": "TMCV.NS",
       "tech_score": 0.53,
-      "ml_probability": 0.39,
-      "final_score": 0.474,
-      "score": 0.474,
+      "ml_probability": 0.392,
+      "final_score": 0.475,
+      "score": 0.475,
       "score_int": 47,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.39 < 0.55)",
@@ -580,7 +576,7 @@
         "note": "Trained on 100 days, tested on 25 days"
       },
       "reasons": {
-        "rsi": 24.7,
+        "rsi": 24.5,
         "rsi_healthy": false,
         "above_ma20": false,
         "above_ma50": true,
@@ -588,52 +584,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA up",
-        "momentum_5d": -3.94,
-        "vol_ratio": 0.11
+        "momentum_5d": -4.05,
+        "vol_ratio": 0.13
       },
-      "last_price": 406.85,
-      "analysed_at": "10:28:45"
-    },
-    {
-      "symbol": "INFY",
-      "name": "Infosys Ltd",
-      "sector": "IT",
-      "industry": "IT Services",
-      "risk": "Low",
-      "priority": 2,
-      "max_alloc": 14.0,
-      "qty_held": 20.0,
-      "avg_buy": 1964.6,
-      "yf_symbol": "INFY.NS",
-      "tech_score": 0.418,
-      "ml_probability": 0.55,
-      "final_score": 0.471,
-      "score": 0.471,
-      "score_int": 47,
-      "excluded": true,
-      "exclude_reason": "Score below threshold (0.47 < 0.5)",
-      "ml_metrics": {
-        "precision": 0.443,
-        "recall": 0.642,
-        "sample_size": 1190,
-        "reliable": false,
-        "reliability": "Weak",
-        "note": "Trained on 892 days, tested on 298 days"
-      },
-      "reasons": {
-        "rsi": 54.9,
-        "rsi_healthy": true,
-        "above_ma20": true,
-        "above_ma50": false,
-        "above_ma200": false,
-        "positive_mom": false,
-        "volume_above": false,
-        "ma_signal": "MA down",
-        "momentum_5d": -1.51,
-        "vol_ratio": 0.12
-      },
-      "last_price": 1060.0,
-      "analysed_at": "10:29:24"
+      "last_price": 406.4,
+      "analysed_at": "10:43:36"
     },
     {
       "symbol": "ASHOKA",
@@ -662,7 +617,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 27.9,
+        "rsi": 28.1,
         "rsi_healthy": false,
         "above_ma20": false,
         "above_ma50": false,
@@ -670,11 +625,52 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down",
-        "momentum_5d": -5.08,
-        "vol_ratio": 0.3
+        "momentum_5d": -4.95,
+        "vol_ratio": 0.31
       },
-      "last_price": 121.93,
-      "analysed_at": "10:29:13"
+      "last_price": 122.1,
+      "analysed_at": "10:43:54"
+    },
+    {
+      "symbol": "BEL",
+      "name": "Bharat Electronics Ltd",
+      "sector": "Defence",
+      "industry": "Defence Electronics",
+      "risk": "Low",
+      "priority": 1,
+      "max_alloc": 18.0,
+      "qty_held": 100.0,
+      "avg_buy": 357.21,
+      "yf_symbol": "BEL.NS",
+      "tech_score": 0.476,
+      "ml_probability": 0.431,
+      "final_score": 0.458,
+      "score": 0.458,
+      "score_int": 45,
+      "excluded": true,
+      "exclude_reason": "ML probability too low (0.43 < 0.55)",
+      "ml_metrics": {
+        "precision": 0.505,
+        "recall": 0.392,
+        "sample_size": 1190,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 892 days, tested on 298 days"
+      },
+      "reasons": {
+        "rsi": 43.0,
+        "rsi_healthy": true,
+        "above_ma20": false,
+        "above_ma50": false,
+        "above_ma200": false,
+        "positive_mom": false,
+        "volume_above": false,
+        "ma_signal": "MA down-down",
+        "momentum_5d": -0.91,
+        "vol_ratio": 0.2
+      },
+      "last_price": 407.2,
+      "analysed_at": "10:43:43"
     },
     {
       "symbol": "526775",
@@ -715,48 +711,48 @@
         "vol_ratio": 0.69
       },
       "last_price": 990.8,
-      "analysed_at": "10:29:11"
+      "analysed_at": "10:43:49"
     },
     {
-      "symbol": "ITI",
-      "name": "ITI Ltd",
-      "sector": "Defence",
-      "industry": "Telecom & Defence PSU",
-      "risk": "High",
-      "priority": 3,
-      "max_alloc": 10.0,
-      "qty_held": 90.0,
-      "avg_buy": 360.36,
-      "yf_symbol": "ITI.NS",
-      "tech_score": 0.425,
-      "ml_probability": 0.442,
-      "final_score": 0.432,
-      "score": 0.432,
+      "symbol": "INFY",
+      "name": "Infosys Ltd",
+      "sector": "IT",
+      "industry": "IT Services",
+      "risk": "Low",
+      "priority": 2,
+      "max_alloc": 14.0,
+      "qty_held": 20.0,
+      "avg_buy": 1964.6,
+      "yf_symbol": "INFY.NS",
+      "tech_score": 0.364,
+      "ml_probability": 0.546,
+      "final_score": 0.437,
+      "score": 0.437,
       "score_int": 43,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.44 < 0.55)",
+      "exclude_reason": "ML probability too low (0.55 < 0.55)",
       "ml_metrics": {
-        "precision": 0.532,
-        "recall": 0.573,
-        "sample_size": 1189,
+        "precision": 0.443,
+        "recall": 0.642,
+        "sample_size": 1190,
         "reliable": false,
         "reliability": "Weak",
-        "note": "Trained on 891 days, tested on 298 days"
+        "note": "Trained on 892 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 21.1,
-        "rsi_healthy": false,
+        "rsi": 54.1,
+        "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
         "above_ma200": false,
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": -1.59,
-        "vol_ratio": 0.11
+        "momentum_5d": -1.78,
+        "vol_ratio": 0.14
       },
-      "last_price": 282.0,
-      "analysed_at": "10:29:12"
+      "last_price": 1057.1,
+      "analysed_at": "10:44:05"
     },
     {
       "symbol": "TATASTEEL",
@@ -770,9 +766,9 @@
       "avg_buy": 183.87,
       "yf_symbol": "TATASTEEL.NS",
       "tech_score": 0.394,
-      "ml_probability": 0.481,
-      "final_score": 0.429,
-      "score": 0.429,
+      "ml_probability": 0.478,
+      "final_score": 0.428,
+      "score": 0.428,
       "score_int": 42,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.48 < 0.55)",
@@ -793,11 +789,52 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": 0.18,
-        "vol_ratio": 0.26
+        "momentum_5d": 0.17,
+        "vol_ratio": 0.28
       },
-      "last_price": 185.6,
-      "analysed_at": "10:29:09"
+      "last_price": 185.58,
+      "analysed_at": "10:43:45"
+    },
+    {
+      "symbol": "ITI",
+      "name": "ITI Ltd",
+      "sector": "Defence",
+      "industry": "Telecom & Defence PSU",
+      "risk": "High",
+      "priority": 3,
+      "max_alloc": 10.0,
+      "qty_held": 90.0,
+      "avg_buy": 360.36,
+      "yf_symbol": "ITI.NS",
+      "tech_score": 0.425,
+      "ml_probability": 0.433,
+      "final_score": 0.428,
+      "score": 0.428,
+      "score_int": 42,
+      "excluded": true,
+      "exclude_reason": "ML probability too low (0.43 < 0.55)",
+      "ml_metrics": {
+        "precision": 0.532,
+        "recall": 0.577,
+        "sample_size": 1189,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 891 days, tested on 298 days"
+      },
+      "reasons": {
+        "rsi": 20.4,
+        "rsi_healthy": false,
+        "above_ma20": false,
+        "above_ma50": false,
+        "above_ma200": false,
+        "positive_mom": false,
+        "volume_above": false,
+        "ma_signal": "MA down-down",
+        "momentum_5d": -1.74,
+        "vol_ratio": 0.12
+      },
+      "last_price": 281.55,
+      "analysed_at": "10:43:52"
     },
     {
       "symbol": "BSE",
@@ -811,12 +848,12 @@
       "avg_buy": 2528.14,
       "yf_symbol": "BSE.NS",
       "tech_score": 0.406,
-      "ml_probability": 0.417,
+      "ml_probability": 0.415,
       "final_score": 0.41,
       "score": 0.41,
       "score_int": 41,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.42 < 0.55)",
+      "exclude_reason": "ML probability too low (0.41 < 0.55)",
       "ml_metrics": {
         "precision": 0.538,
         "recall": 0.636,
@@ -826,7 +863,7 @@
         "note": "Trained on 892 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 34.9,
+        "rsi": 35.8,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
@@ -834,11 +871,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": -3.19,
-        "vol_ratio": 0.21
+        "momentum_5d": -2.78,
+        "vol_ratio": 0.25
       },
-      "last_price": 3634.7,
-      "analysed_at": "10:28:41"
+      "last_price": 3650.1,
+      "analysed_at": "10:43:28"
     },
     {
       "symbol": "RVNL",
@@ -852,22 +889,22 @@
       "avg_buy": 495.1,
       "yf_symbol": "RVNL.NS",
       "tech_score": 0.425,
-      "ml_probability": 0.377,
-      "final_score": 0.406,
-      "score": 0.406,
+      "ml_probability": 0.373,
+      "final_score": 0.404,
+      "score": 0.404,
       "score_int": 40,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.38 < 0.55)",
+      "exclude_reason": "ML probability too low (0.37 < 0.55)",
       "ml_metrics": {
-        "precision": 0.46,
-        "recall": 0.525,
+        "precision": 0.472,
+        "recall": 0.549,
         "sample_size": 1190,
         "reliable": false,
         "reliability": "Weak",
         "note": "Trained on 892 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 28.2,
+        "rsi": 28.4,
         "rsi_healthy": false,
         "above_ma20": false,
         "above_ma50": false,
@@ -875,11 +912,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": -2.01,
-        "vol_ratio": 0.34
+        "momentum_5d": -1.95,
+        "vol_ratio": 0.37
       },
-      "last_price": 222.4,
-      "analysed_at": "10:29:29"
+      "last_price": 222.54,
+      "analysed_at": "10:44:08"
     },
     {
       "symbol": "TMPV",
@@ -916,11 +953,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": -1.07,
-        "vol_ratio": 0.21
+        "momentum_5d": -1.08,
+        "vol_ratio": 0.23
       },
-      "last_price": 329.45,
-      "analysed_at": "10:29:27"
+      "last_price": 329.4,
+      "analysed_at": "10:44:06"
     },
     {
       "symbol": "ENRIN",
@@ -934,22 +971,22 @@
       "avg_buy": 3560.0,
       "yf_symbol": "ENRIN.NS",
       "tech_score": 0.406,
-      "ml_probability": 0.36,
-      "final_score": 0.388,
-      "score": 0.388,
+      "ml_probability": 0.364,
+      "final_score": 0.389,
+      "score": 0.389,
       "score_int": 38,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.36 < 0.55)",
       "ml_metrics": {
-        "precision": 0.44,
-        "recall": 0.478,
+        "precision": 0.4,
+        "recall": 0.455,
         "sample_size": 224,
         "reliable": false,
         "reliability": "Weak",
         "note": "Trained on 168 days, tested on 56 days"
       },
       "reasons": {
-        "rsi": 41.4,
+        "rsi": 41.3,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
@@ -957,14 +994,96 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": -3.53,
-        "vol_ratio": 0.14
+        "momentum_5d": -3.61,
+        "vol_ratio": 0.15
       },
-      "last_price": 3374.1,
-      "analysed_at": "10:29:10"
+      "last_price": 3371.0,
+      "analysed_at": "10:43:47"
     }
   ],
   "excluded_details": [
+    {
+      "symbol": "M&M",
+      "name": "Mahindra & Mahindra Ltd",
+      "sector": "Auto",
+      "industry": "SUV & Tractor OEM",
+      "risk": "Low",
+      "priority": 1,
+      "max_alloc": 16.0,
+      "qty_held": 20.0,
+      "avg_buy": 3499.3,
+      "yf_symbol": "M&M.NS",
+      "tech_score": 0.714,
+      "ml_probability": 0.539,
+      "final_score": 0.644,
+      "score": 0.644,
+      "score_int": 64,
+      "excluded": true,
+      "exclude_reason": "ML probability too low (0.54 < 0.55)",
+      "ml_metrics": {
+        "precision": 0.49,
+        "recall": 0.685,
+        "sample_size": 1190,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 892 days, tested on 298 days"
+      },
+      "reasons": {
+        "rsi": 55.1,
+        "rsi_healthy": true,
+        "above_ma20": true,
+        "above_ma50": true,
+        "above_ma200": false,
+        "positive_mom": true,
+        "volume_above": false,
+        "ma_signal": "MA up-up",
+        "momentum_5d": 3.57,
+        "vol_ratio": 0.27
+      },
+      "last_price": 3192.9,
+      "analysed_at": "10:43:56"
+    },
+    {
+      "symbol": "TVSMOTOR",
+      "name": "TVS Motor Company Ltd",
+      "sector": "Auto",
+      "industry": "2-Wheeler OEM",
+      "risk": "Low",
+      "priority": 2,
+      "max_alloc": 15.0,
+      "qty_held": 20.0,
+      "avg_buy": 2762.3,
+      "yf_symbol": "TVSMOTOR.NS",
+      "tech_score": 0.66,
+      "ml_probability": 0.525,
+      "final_score": 0.606,
+      "score": 0.606,
+      "score_int": 60,
+      "excluded": true,
+      "exclude_reason": "ML probability too low (0.53 < 0.55)",
+      "ml_metrics": {
+        "precision": 0.538,
+        "recall": 0.416,
+        "sample_size": 1190,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 892 days, tested on 298 days"
+      },
+      "reasons": {
+        "rsi": 68.9,
+        "rsi_healthy": false,
+        "above_ma20": true,
+        "above_ma50": true,
+        "above_ma200": true,
+        "positive_mom": true,
+        "volume_above": true,
+        "ma_signal": "MA up-up",
+        "momentum_5d": 8.33,
+        "vol_ratio": 1.82
+      },
+      "last_price": 3913.2,
+      "analysed_at": "10:43:38"
+    },
     {
       "symbol": "ABB",
       "name": "ABB India Ltd",
@@ -977,22 +1096,22 @@
       "avg_buy": 5757.0,
       "yf_symbol": "ABB.NS",
       "tech_score": 0.645,
-      "ml_probability": 0.501,
-      "final_score": 0.587,
-      "score": 0.587,
-      "score_int": 58,
+      "ml_probability": 0.515,
+      "final_score": 0.593,
+      "score": 0.593,
+      "score_int": 59,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.50 < 0.55)",
+      "exclude_reason": "ML probability too low (0.52 < 0.55)",
       "ml_metrics": {
-        "precision": 0.553,
-        "recall": 0.487,
+        "precision": 0.56,
+        "recall": 0.491,
         "sample_size": 1189,
         "reliable": true,
         "reliability": "Moderate",
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 66.4,
+        "rsi": 67.1,
         "rsi_healthy": false,
         "above_ma20": true,
         "above_ma50": true,
@@ -1000,11 +1119,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 8.89,
-        "vol_ratio": 0.15
+        "momentum_5d": 9.18,
+        "vol_ratio": 0.16
       },
-      "last_price": 7505.0,
-      "analysed_at": "10:28:44"
+      "last_price": 7525.0,
+      "analysed_at": "10:43:34"
     },
     {
       "symbol": "HAL",
@@ -1018,34 +1137,34 @@
       "avg_buy": 4724.7,
       "yf_symbol": "HAL.NS",
       "tech_score": 0.645,
-      "ml_probability": 0.499,
-      "final_score": 0.587,
-      "score": 0.587,
+      "ml_probability": 0.49,
+      "final_score": 0.583,
+      "score": 0.583,
       "score_int": 58,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.50 < 0.55)",
+      "exclude_reason": "ML probability too low (0.49 < 0.55)",
       "ml_metrics": {
-        "precision": 0.528,
-        "recall": 0.439,
+        "precision": 0.537,
+        "recall": 0.443,
         "sample_size": 1190,
         "reliable": false,
         "reliability": "Weak",
         "note": "Trained on 892 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 64.4,
-        "rsi_healthy": true,
+        "rsi": 65.3,
+        "rsi_healthy": false,
         "above_ma20": true,
         "above_ma50": true,
         "above_ma200": true,
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 3.63,
-        "vol_ratio": 0.43
+        "momentum_5d": 3.92,
+        "vol_ratio": 0.48
       },
-      "last_price": 4581.1,
-      "analysed_at": "10:29:20"
+      "last_price": 4593.9,
+      "analysed_at": "10:44:01"
     },
     {
       "symbol": "EICHERMOT",
@@ -1059,12 +1178,12 @@
       "avg_buy": 5521.3,
       "yf_symbol": "EICHERMOT.NS",
       "tech_score": 0.588,
-      "ml_probability": 0.512,
-      "final_score": 0.558,
-      "score": 0.558,
+      "ml_probability": 0.501,
+      "final_score": 0.553,
+      "score": 0.553,
       "score_int": 55,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.51 < 0.55)",
+      "exclude_reason": "ML probability too low (0.50 < 0.55)",
       "ml_metrics": {
         "precision": 0.479,
         "recall": 0.513,
@@ -1074,7 +1193,7 @@
         "note": "Trained on 892 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 68.3,
+        "rsi": 67.1,
         "rsi_healthy": false,
         "above_ma20": true,
         "above_ma50": true,
@@ -1082,11 +1201,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up-up",
-        "momentum_5d": 2.99,
-        "vol_ratio": 0.24
+        "momentum_5d": 2.74,
+        "vol_ratio": 0.26
       },
-      "last_price": 7626.0,
-      "analysed_at": "10:28:42"
+      "last_price": 7607.5,
+      "analysed_at": "10:43:30"
     },
     {
       "symbol": "BDL",
@@ -1100,22 +1219,22 @@
       "avg_buy": 1693.5,
       "yf_symbol": "BDL.NS",
       "tech_score": 0.519,
-      "ml_probability": 0.549,
-      "final_score": 0.531,
-      "score": 0.531,
-      "score_int": 53,
+      "ml_probability": 0.54,
+      "final_score": 0.527,
+      "score": 0.527,
+      "score_int": 52,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.55 < 0.55)",
+      "exclude_reason": "ML probability too low (0.54 < 0.55)",
       "ml_metrics": {
         "precision": 0.443,
-        "recall": 0.482,
+        "recall": 0.478,
         "sample_size": 1189,
         "reliable": false,
         "reliability": "Weak",
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 23.0,
+        "rsi": 23.6,
         "rsi_healthy": false,
         "above_ma20": false,
         "above_ma50": false,
@@ -1123,11 +1242,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down",
-        "momentum_5d": -1.58,
+        "momentum_5d": -1.43,
         "vol_ratio": 0.17
       },
-      "last_price": 1257.6,
-      "analysed_at": "10:29:18"
+      "last_price": 1259.5,
+      "analysed_at": "10:43:58"
     },
     {
       "symbol": "CGPOWER",
@@ -1141,10 +1260,10 @@
       "avg_buy": 747.52,
       "yf_symbol": "CGPOWER.NS",
       "tech_score": 0.561,
-      "ml_probability": 0.431,
-      "final_score": 0.509,
-      "score": 0.509,
-      "score_int": 50,
+      "ml_probability": 0.434,
+      "final_score": 0.51,
+      "score": 0.51,
+      "score_int": 51,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.43 < 0.55)",
       "ml_metrics": {
@@ -1156,7 +1275,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 35.7,
+        "rsi": 36.2,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": true,
@@ -1164,11 +1283,11 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA up",
-        "momentum_5d": 0.24,
-        "vol_ratio": 0.21
+        "momentum_5d": 0.39,
+        "vol_ratio": 0.22
       },
-      "last_price": 916.0,
-      "analysed_at": "10:28:57"
+      "last_price": 917.45,
+      "analysed_at": "10:43:40"
     },
     {
       "symbol": "ADANIGREEN",
@@ -1182,9 +1301,9 @@
       "avg_buy": 1135.41,
       "yf_symbol": "ADANIGREEN.NS",
       "tech_score": 0.491,
-      "ml_probability": 0.497,
-      "final_score": 0.493,
-      "score": 0.493,
+      "ml_probability": 0.498,
+      "final_score": 0.494,
+      "score": 0.494,
       "score_int": 49,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.50 < 0.55)",
@@ -1197,7 +1316,7 @@
         "note": "Trained on 892 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 44.8,
+        "rsi": 44.7,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": true,
@@ -1205,11 +1324,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA up",
-        "momentum_5d": -2.21,
-        "vol_ratio": 0.3
+        "momentum_5d": -2.23,
+        "vol_ratio": 0.31
       },
-      "last_price": 1521.0,
-      "analysed_at": "10:28:43"
+      "last_price": 1520.7,
+      "analysed_at": "10:43:32"
     },
     {
       "symbol": "POWERINDIA",
@@ -1223,7 +1342,7 @@
       "avg_buy": 33159.0,
       "yf_symbol": "POWERINDIA.NS",
       "tech_score": 0.476,
-      "ml_probability": 0.506,
+      "ml_probability": 0.507,
       "final_score": 0.488,
       "score": 0.488,
       "score_int": 48,
@@ -1238,7 +1357,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 41.4,
+        "rsi": 41.1,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
@@ -1246,11 +1365,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": -0.48,
-        "vol_ratio": 0.25
+        "momentum_5d": -0.74,
+        "vol_ratio": 0.26
       },
-      "last_price": 32335.0,
-      "analysed_at": "10:29:33"
+      "last_price": 32250.0,
+      "analysed_at": "10:44:10"
     },
     {
       "symbol": "TMCV",
@@ -1264,9 +1383,9 @@
       "avg_buy": 296.78,
       "yf_symbol": "TMCV.NS",
       "tech_score": 0.53,
-      "ml_probability": 0.39,
-      "final_score": 0.474,
-      "score": 0.474,
+      "ml_probability": 0.392,
+      "final_score": 0.475,
+      "score": 0.475,
       "score_int": 47,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.39 < 0.55)",
@@ -1279,7 +1398,7 @@
         "note": "Trained on 100 days, tested on 25 days"
       },
       "reasons": {
-        "rsi": 24.7,
+        "rsi": 24.5,
         "rsi_healthy": false,
         "above_ma20": false,
         "above_ma50": true,
@@ -1287,52 +1406,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA up",
-        "momentum_5d": -3.94,
-        "vol_ratio": 0.11
+        "momentum_5d": -4.05,
+        "vol_ratio": 0.13
       },
-      "last_price": 406.85,
-      "analysed_at": "10:28:45"
-    },
-    {
-      "symbol": "INFY",
-      "name": "Infosys Ltd",
-      "sector": "IT",
-      "industry": "IT Services",
-      "risk": "Low",
-      "priority": 2,
-      "max_alloc": 14.0,
-      "qty_held": 20.0,
-      "avg_buy": 1964.6,
-      "yf_symbol": "INFY.NS",
-      "tech_score": 0.418,
-      "ml_probability": 0.55,
-      "final_score": 0.471,
-      "score": 0.471,
-      "score_int": 47,
-      "excluded": true,
-      "exclude_reason": "Score below threshold (0.47 < 0.5)",
-      "ml_metrics": {
-        "precision": 0.443,
-        "recall": 0.642,
-        "sample_size": 1190,
-        "reliable": false,
-        "reliability": "Weak",
-        "note": "Trained on 892 days, tested on 298 days"
-      },
-      "reasons": {
-        "rsi": 54.9,
-        "rsi_healthy": true,
-        "above_ma20": true,
-        "above_ma50": false,
-        "above_ma200": false,
-        "positive_mom": false,
-        "volume_above": false,
-        "ma_signal": "MA down",
-        "momentum_5d": -1.51,
-        "vol_ratio": 0.12
-      },
-      "last_price": 1060.0,
-      "analysed_at": "10:29:24"
+      "last_price": 406.4,
+      "analysed_at": "10:43:36"
     },
     {
       "symbol": "ASHOKA",
@@ -1361,7 +1439,7 @@
         "note": "Trained on 891 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 27.9,
+        "rsi": 28.1,
         "rsi_healthy": false,
         "above_ma20": false,
         "above_ma50": false,
@@ -1369,11 +1447,52 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down",
-        "momentum_5d": -5.08,
-        "vol_ratio": 0.3
+        "momentum_5d": -4.95,
+        "vol_ratio": 0.31
       },
-      "last_price": 121.93,
-      "analysed_at": "10:29:13"
+      "last_price": 122.1,
+      "analysed_at": "10:43:54"
+    },
+    {
+      "symbol": "BEL",
+      "name": "Bharat Electronics Ltd",
+      "sector": "Defence",
+      "industry": "Defence Electronics",
+      "risk": "Low",
+      "priority": 1,
+      "max_alloc": 18.0,
+      "qty_held": 100.0,
+      "avg_buy": 357.21,
+      "yf_symbol": "BEL.NS",
+      "tech_score": 0.476,
+      "ml_probability": 0.431,
+      "final_score": 0.458,
+      "score": 0.458,
+      "score_int": 45,
+      "excluded": true,
+      "exclude_reason": "ML probability too low (0.43 < 0.55)",
+      "ml_metrics": {
+        "precision": 0.505,
+        "recall": 0.392,
+        "sample_size": 1190,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 892 days, tested on 298 days"
+      },
+      "reasons": {
+        "rsi": 43.0,
+        "rsi_healthy": true,
+        "above_ma20": false,
+        "above_ma50": false,
+        "above_ma200": false,
+        "positive_mom": false,
+        "volume_above": false,
+        "ma_signal": "MA down-down",
+        "momentum_5d": -0.91,
+        "vol_ratio": 0.2
+      },
+      "last_price": 407.2,
+      "analysed_at": "10:43:43"
     },
     {
       "symbol": "526775",
@@ -1414,48 +1533,48 @@
         "vol_ratio": 0.69
       },
       "last_price": 990.8,
-      "analysed_at": "10:29:11"
+      "analysed_at": "10:43:49"
     },
     {
-      "symbol": "ITI",
-      "name": "ITI Ltd",
-      "sector": "Defence",
-      "industry": "Telecom & Defence PSU",
-      "risk": "High",
-      "priority": 3,
-      "max_alloc": 10.0,
-      "qty_held": 90.0,
-      "avg_buy": 360.36,
-      "yf_symbol": "ITI.NS",
-      "tech_score": 0.425,
-      "ml_probability": 0.442,
-      "final_score": 0.432,
-      "score": 0.432,
+      "symbol": "INFY",
+      "name": "Infosys Ltd",
+      "sector": "IT",
+      "industry": "IT Services",
+      "risk": "Low",
+      "priority": 2,
+      "max_alloc": 14.0,
+      "qty_held": 20.0,
+      "avg_buy": 1964.6,
+      "yf_symbol": "INFY.NS",
+      "tech_score": 0.364,
+      "ml_probability": 0.546,
+      "final_score": 0.437,
+      "score": 0.437,
       "score_int": 43,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.44 < 0.55)",
+      "exclude_reason": "ML probability too low (0.55 < 0.55)",
       "ml_metrics": {
-        "precision": 0.532,
-        "recall": 0.573,
-        "sample_size": 1189,
+        "precision": 0.443,
+        "recall": 0.642,
+        "sample_size": 1190,
         "reliable": false,
         "reliability": "Weak",
-        "note": "Trained on 891 days, tested on 298 days"
+        "note": "Trained on 892 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 21.1,
-        "rsi_healthy": false,
+        "rsi": 54.1,
+        "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
         "above_ma200": false,
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": -1.59,
-        "vol_ratio": 0.11
+        "momentum_5d": -1.78,
+        "vol_ratio": 0.14
       },
-      "last_price": 282.0,
-      "analysed_at": "10:29:12"
+      "last_price": 1057.1,
+      "analysed_at": "10:44:05"
     },
     {
       "symbol": "TATASTEEL",
@@ -1469,9 +1588,9 @@
       "avg_buy": 183.87,
       "yf_symbol": "TATASTEEL.NS",
       "tech_score": 0.394,
-      "ml_probability": 0.481,
-      "final_score": 0.429,
-      "score": 0.429,
+      "ml_probability": 0.478,
+      "final_score": 0.428,
+      "score": 0.428,
       "score_int": 42,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.48 < 0.55)",
@@ -1492,11 +1611,52 @@
         "positive_mom": true,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": 0.18,
-        "vol_ratio": 0.26
+        "momentum_5d": 0.17,
+        "vol_ratio": 0.28
       },
-      "last_price": 185.6,
-      "analysed_at": "10:29:09"
+      "last_price": 185.58,
+      "analysed_at": "10:43:45"
+    },
+    {
+      "symbol": "ITI",
+      "name": "ITI Ltd",
+      "sector": "Defence",
+      "industry": "Telecom & Defence PSU",
+      "risk": "High",
+      "priority": 3,
+      "max_alloc": 10.0,
+      "qty_held": 90.0,
+      "avg_buy": 360.36,
+      "yf_symbol": "ITI.NS",
+      "tech_score": 0.425,
+      "ml_probability": 0.433,
+      "final_score": 0.428,
+      "score": 0.428,
+      "score_int": 42,
+      "excluded": true,
+      "exclude_reason": "ML probability too low (0.43 < 0.55)",
+      "ml_metrics": {
+        "precision": 0.532,
+        "recall": 0.577,
+        "sample_size": 1189,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 891 days, tested on 298 days"
+      },
+      "reasons": {
+        "rsi": 20.4,
+        "rsi_healthy": false,
+        "above_ma20": false,
+        "above_ma50": false,
+        "above_ma200": false,
+        "positive_mom": false,
+        "volume_above": false,
+        "ma_signal": "MA down-down",
+        "momentum_5d": -1.74,
+        "vol_ratio": 0.12
+      },
+      "last_price": 281.55,
+      "analysed_at": "10:43:52"
     },
     {
       "symbol": "BSE",
@@ -1510,12 +1670,12 @@
       "avg_buy": 2528.14,
       "yf_symbol": "BSE.NS",
       "tech_score": 0.406,
-      "ml_probability": 0.417,
+      "ml_probability": 0.415,
       "final_score": 0.41,
       "score": 0.41,
       "score_int": 41,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.42 < 0.55)",
+      "exclude_reason": "ML probability too low (0.41 < 0.55)",
       "ml_metrics": {
         "precision": 0.538,
         "recall": 0.636,
@@ -1525,7 +1685,7 @@
         "note": "Trained on 892 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 34.9,
+        "rsi": 35.8,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
@@ -1533,11 +1693,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": -3.19,
-        "vol_ratio": 0.21
+        "momentum_5d": -2.78,
+        "vol_ratio": 0.25
       },
-      "last_price": 3634.7,
-      "analysed_at": "10:28:41"
+      "last_price": 3650.1,
+      "analysed_at": "10:43:28"
     },
     {
       "symbol": "RVNL",
@@ -1551,22 +1711,22 @@
       "avg_buy": 495.1,
       "yf_symbol": "RVNL.NS",
       "tech_score": 0.425,
-      "ml_probability": 0.377,
-      "final_score": 0.406,
-      "score": 0.406,
+      "ml_probability": 0.373,
+      "final_score": 0.404,
+      "score": 0.404,
       "score_int": 40,
       "excluded": true,
-      "exclude_reason": "ML probability too low (0.38 < 0.55)",
+      "exclude_reason": "ML probability too low (0.37 < 0.55)",
       "ml_metrics": {
-        "precision": 0.46,
-        "recall": 0.525,
+        "precision": 0.472,
+        "recall": 0.549,
         "sample_size": 1190,
         "reliable": false,
         "reliability": "Weak",
         "note": "Trained on 892 days, tested on 298 days"
       },
       "reasons": {
-        "rsi": 28.2,
+        "rsi": 28.4,
         "rsi_healthy": false,
         "above_ma20": false,
         "above_ma50": false,
@@ -1574,11 +1734,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": -2.01,
-        "vol_ratio": 0.34
+        "momentum_5d": -1.95,
+        "vol_ratio": 0.37
       },
-      "last_price": 222.4,
-      "analysed_at": "10:29:29"
+      "last_price": 222.54,
+      "analysed_at": "10:44:08"
     },
     {
       "symbol": "TMPV",
@@ -1615,11 +1775,11 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": -1.07,
-        "vol_ratio": 0.21
+        "momentum_5d": -1.08,
+        "vol_ratio": 0.23
       },
-      "last_price": 329.45,
-      "analysed_at": "10:29:27"
+      "last_price": 329.4,
+      "analysed_at": "10:44:06"
     },
     {
       "symbol": "ENRIN",
@@ -1633,22 +1793,22 @@
       "avg_buy": 3560.0,
       "yf_symbol": "ENRIN.NS",
       "tech_score": 0.406,
-      "ml_probability": 0.36,
-      "final_score": 0.388,
-      "score": 0.388,
+      "ml_probability": 0.364,
+      "final_score": 0.389,
+      "score": 0.389,
       "score_int": 38,
       "excluded": true,
       "exclude_reason": "ML probability too low (0.36 < 0.55)",
       "ml_metrics": {
-        "precision": 0.44,
-        "recall": 0.478,
+        "precision": 0.4,
+        "recall": 0.455,
         "sample_size": 224,
         "reliable": false,
         "reliability": "Weak",
         "note": "Trained on 168 days, tested on 56 days"
       },
       "reasons": {
-        "rsi": 41.4,
+        "rsi": 41.3,
         "rsi_healthy": true,
         "above_ma20": false,
         "above_ma50": false,
@@ -1656,35 +1816,34 @@
         "positive_mom": false,
         "volume_above": false,
         "ma_signal": "MA down-down",
-        "momentum_5d": -3.53,
-        "vol_ratio": 0.14
+        "momentum_5d": -3.61,
+        "vol_ratio": 0.15
       },
-      "last_price": 3374.1,
-      "analysed_at": "10:29:10"
+      "last_price": 3371.0,
+      "analysed_at": "10:43:47"
     }
   ],
   "decision_story": [
     "22 stocks analysed (full mode)",
-    "8 cleared score threshold (>= 0.5)",
-    "3 cleared ML threshold (prob >= 0.55)",
-    "Selected: M&M (ML 55%), BRITANNIA (ML 59%), KAYNES (ML 58%)",
-    "Excluded (ML probability too low): ABB, HAL, EICHERMOT, BDL, CGPOWER, ADANIGREEN, POWERINDIA, TMCV, ASHOKA, 526775, ITI, TATASTEEL, BSE, RVNL, TMPV, ENRIN",
-    "Excluded (Score below threshold): INFY"
+    "9 cleared score threshold (>= 0.5)",
+    "2 cleared ML threshold (prob >= 0.55)",
+    "Selected: BRITANNIA (ML 61%), KAYNES (ML 56%)",
+    "Excluded (ML probability too low): M&M, TVSMOTOR, ABB, HAL, EICHERMOT, BDL, CGPOWER, ADANIGREEN, POWERINDIA, TMCV, ASHOKA, BEL, 526775, INFY, TATASTEEL, ITI, BSE, RVNL, TMPV, ENRIN"
   ],
   "market_pulse": {
     "bullish_count": 0,
-    "neutral_count": 13,
-    "bearish_count": 7,
+    "neutral_count": 14,
+    "bearish_count": 8,
     "high_conviction": 0,
-    "below_threshold": 12,
+    "below_threshold": 13,
     "total_analysed": 22,
-    "avg_ml_prob": 0.482,
+    "avg_ml_prob": 0.48,
     "confidence_pct": 48,
     "bias": "Bearish",
     "strongest_sector": "FMCG",
     "weakest_sector": "Finance",
     "breadth": "Negative"
   },
-  "duration_secs": 57.8,
+  "duration_secs": 46.5,
   "errors": []
 }
