@@ -1,8 +1,8 @@
 {
   "session_date": "2026-08-10",
-  "session_status": "Live",
-  "last_updated": "09:14:30",
-  "analysis_time": "09:14:30",
+  "session_status": "Closed · Day P&L -7.64%",
+  "last_updated": "09:15:06",
+  "analysis_time": "09:15:06",
   "sell_time": "15:20",
   "stop_loss_pct": 2,
   "confidence_drop": 20,
@@ -18,14 +18,14 @@
       "score_int": 62,
       "signal": "Neutral",
       "buy_price": 5510.0,
-      "current_price": 5512.5,
+      "current_price": 5545.5,
       "qty": 29,
       "invested": 159790.0,
-      "current_value": 159862.5,
-      "pnl": 72.5,
-      "pnl_pct": 0.05,
-      "sold": false,
-      "sell_reason": null,
+      "current_value": 160819.5,
+      "pnl": 1029.5,
+      "pnl_pct": 0.64,
+      "sold": true,
+      "sell_reason": "Portfolio-level rule 3",
       "reasons": {
         "rsi": 60.3,
         "rsi_healthy": true,
@@ -60,14 +60,14 @@
       "score_int": 59,
       "signal": "Neutral",
       "buy_price": 4910.0,
-      "current_price": 4910.0,
+      "current_price": 4915.0,
       "qty": 30,
       "invested": 147300.0,
-      "current_value": 147300.0,
-      "pnl": 0.0,
-      "pnl_pct": 0.0,
-      "sold": false,
-      "sell_reason": null,
+      "current_value": 147450.0,
+      "pnl": 150.0,
+      "pnl_pct": 0.1,
+      "sold": true,
+      "sell_reason": "Portfolio-level rule 3",
       "reasons": {
         "rsi": 81.0,
         "rsi_healthy": false,
@@ -102,14 +102,14 @@
       "score_int": 55,
       "signal": "Bullish",
       "buy_price": 32600.0,
-      "current_price": 35000.0,
+      "current_price": 34490.0,
       "qty": 3,
       "invested": 97800.0,
-      "current_value": 105000.0,
-      "pnl": 7200.0,
-      "pnl_pct": 7.36,
-      "sold": false,
-      "sell_reason": null,
+      "current_value": 103470.0,
+      "pnl": 5670.0,
+      "pnl_pct": 5.8,
+      "sold": true,
+      "sell_reason": "Portfolio-level rule 3",
       "reasons": {
         "rsi": 51.3,
         "rsi_healthy": true,
@@ -144,14 +144,14 @@
       "score_int": 54,
       "signal": "Neutral",
       "buy_price": 1183.15,
-      "current_price": 1183.15,
+      "current_price": 595.5,
       "qty": 76,
       "invested": 89919.4,
-      "current_value": 89919.4,
-      "pnl": 0.0,
-      "pnl_pct": 0.0,
-      "sold": false,
-      "sell_reason": null,
+      "current_value": 45258.0,
+      "pnl": -44661.4,
+      "pnl_pct": -49.67,
+      "sold": true,
+      "sell_reason": "Rule1: -49.7% price drop",
       "reasons": {
         "rsi": 67.8,
         "rsi_healthy": false,
@@ -174,6 +174,49 @@
         "reliability": "Weak",
         "note": "Trained on 891 days, tested on 297 days"
       }
+    },
+    {
+      "symbol": "BRITANNIA",
+      "name": "Britannia Industries Ltd",
+      "sector": "FMCG",
+      "risk": "Low",
+      "allocation_pct": 8.9,
+      "confidence_score": 0.629,
+      "ml_probability": 0.637,
+      "score_int": 62,
+      "signal": "Neutral",
+      "buy_price": 5545.5,
+      "current_price": 5545.5,
+      "qty": 8,
+      "invested": 44364.0,
+      "current_value": 44364.0,
+      "pnl": 0.0,
+      "pnl_pct": 0.0,
+      "sold": false,
+      "sell_reason": null,
+      "reasons": {
+        "rsi": 60.3,
+        "rsi_healthy": true,
+        "above_ma20": true,
+        "above_ma50": true,
+        "above_ma200": false,
+        "positive_mom": true,
+        "volume_above": true,
+        "ma_signal": "MA up-up",
+        "momentum_5d": 1.73,
+        "vol_ratio": 4.25
+      },
+      "trend": "--",
+      "peak_score_today": 0.629,
+      "ml_metrics": {
+        "precision": 0.494,
+        "recall": 0.497,
+        "sample_size": 1190,
+        "reliable": false,
+        "reliability": "Weak",
+        "note": "Trained on 892 days, tested on 298 days"
+      },
+      "reinvestment": true
     }
   ],
   "candidate_scores": [
@@ -1168,6 +1211,70 @@
       "type": "info",
       "symbol": "",
       "date": "2026-08-10"
+    },
+    {
+      "time": "09:15:04",
+      "action": "RULE 1 STOP-LOSS · 526775 · -49.67% · Sold ₹45,258",
+      "amount": 45258.0,
+      "type": "sell",
+      "symbol": "526775",
+      "date": "2026-08-10"
+    },
+    {
+      "time": "09:15:04",
+      "action": "Rule 3A: Portfolio dropped 18.0% from intraday peak ₹502,082",
+      "amount": 0,
+      "type": "warning",
+      "symbol": "",
+      "date": "2026-08-10"
+    },
+    {
+      "time": "09:15:04",
+      "action": "── Selling all · Portfolio-level rule 3 ──",
+      "amount": 0,
+      "type": "day_separator",
+      "symbol": "",
+      "date": "2026-08-10"
+    },
+    {
+      "time": "09:15:04",
+      "action": "Sold BRITANNIA · 29 qty @ ₹5545.5 · +0.64%",
+      "amount": 160819.5,
+      "type": "sell",
+      "symbol": "BRITANNIA",
+      "date": "2026-08-10"
+    },
+    {
+      "time": "09:15:04",
+      "action": "Sold HAL · 30 qty @ ₹4915.0 · +0.10%",
+      "amount": 147450.0,
+      "type": "sell",
+      "symbol": "HAL",
+      "date": "2026-08-10"
+    },
+    {
+      "time": "09:15:04",
+      "action": "Sold POWERINDIA · 3 qty @ ₹34490.0 · +5.80%",
+      "amount": 103470.0,
+      "type": "sell",
+      "symbol": "POWERINDIA",
+      "date": "2026-08-10"
+    },
+    {
+      "time": "09:15:04",
+      "action": "Day complete · P&L ₹-37,812 (-7.64%)",
+      "amount": -37811.90000000002,
+      "type": "info",
+      "symbol": "",
+      "date": "2026-08-10"
+    },
+    {
+      "time": "09:15:06",
+      "action": "REINVEST · BRITANNIA · 8 qty @ ₹5545.5 · ₹44,364",
+      "amount": 44364.0,
+      "type": "reinvest",
+      "symbol": "BRITANNIA",
+      "date": "2026-08-10"
     }
   ],
   "market_pulse": {
@@ -1201,6 +1308,8 @@
     ]
   },
   "nifty_status": "Flat (+0.00% from open)",
-  "free_cash": 5190.6,
-  "sell_rules_fired": []
+  "free_cash": 6084.6,
+  "sell_rules_fired": [
+    "Rule 3A: Portfolio dropped 18.0% from intraday peak ₹502,082"
+  ]
 }
